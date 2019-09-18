@@ -1,0 +1,50 @@
+---
+title: "dev"
+author: "Uli Kaulfuß"
+date: "18 September 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(readr)
+library(dplyr)
+
+
+df_lookup_city <- read_csv("data/checked_lookup_va_med_city.csv")
+df_sail_data <- read_csv("data/SAIL.csv")
+df_suicide_data <- read_csv("data/state_suicide_data_2_agerange.csv")
+
+df_suicide_data <- rename(df_suicide_data, 'State' = 'State of Death') 
+
+df_states_mapping <- read_csv("data/states.csv")
+
+```
+
+## Development of CapVet App
+
+```{r sanity check for city mapping}
+
+
+df_cities <- as.data.frame(unique(df_sail_data$location))
+names(df_cities) = c("City")
+
+res <- left_join(df_cities, df_lookup_city, by='City')
+
+
+
+```
+
+```{r}
+
+df_suicide_data_rel  <- df_suicide_data[df_suicide_data$State != 'Total U.S.' & df_suicide_data$State != 'All' ,]
+
+df_suicide_base <- left_join(df_suicide_data_rel, df_states_mapping, by='State')
+
+nrow(res[is.na(res$Abbreviation),])
+
+df_suicide_base$`Veteran Suicide Rate per 100,000`
+
+```
+
