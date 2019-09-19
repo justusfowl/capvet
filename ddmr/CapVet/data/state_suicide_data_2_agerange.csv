@@ -1,19 +1,4 @@
-Year,"Geographic
-Region,
-Based on
-state of
-death",State of Death,"Age
-Group","Veteran
-Suicides","Veteran
-Suicide
-Rate
-per
-100,000","General
-Population
-Suicides","General
-Population
-Rate per
-100,000"
+Year,"Geographic Region, Based on state of death",State of Death,"Age Group","Veteran Suicides","Veteran Suicide Rate per 100,000","General Population Suicides","General Population Rate per 100,000"
 2005,Total U.S.,Total U.S.,Total,"5,797",23.9,"31,610",14.7
 2005,Total U.S.,Total U.S.,18-34,544,25.2,"8,455",13.1
 2005,Total U.S.,Total U.S.,35-54,"2,063",29.0,"13,541",15.9

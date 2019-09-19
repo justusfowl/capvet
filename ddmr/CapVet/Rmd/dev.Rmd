@@ -10,6 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 library(readr)
 library(dplyr)
+library(stringr)
 
 
 df_lookup_city <- read_csv("data/checked_lookup_va_med_city.csv")
@@ -36,15 +37,105 @@ res <- left_join(df_cities, df_lookup_city, by='City')
 
 ```
 
-```{r}
+```{r prepare suicide data}
 
+# clean for individual states only
 df_suicide_data_rel  <- df_suicide_data[df_suicide_data$State != 'Total U.S.' & df_suicide_data$State != 'All' ,]
 
+# join state abbreviations 
 df_suicide_base <- left_join(df_suicide_data_rel, df_states_mapping, by='State')
+df_suicide_base <- df_suicide_base %>% select(-State) %>% rename(State = "Abbreviation")
 
-nrow(res[is.na(res$Abbreviation),])
+#rename columns
 
-df_suicide_base$`Veteran Suicide Rate per 100,000`
+df_suicide_base <- rename(df_suicide_base, VetSuicideRatePer100k=`Veteran Suicide Rate per 100,000`)
+df_suicide_base <- rename(df_suicide_base, GenPopSuicideRatePer100k=`General Population Rate per 100,000`)
+
+clean_rate <- function(x, col){
+  
+  val <- x[col]
+  
+  val <- str_replace_all(val, "[*]", "")
+  val <- str_replace_all(val, "-", "")
+  
+  val <- as.numeric(val)
+  
+}
+
+# clean suicide rates 
+df_suicide_base$VetSuicideRatePer100k <- apply(df_suicide_base, 1, function(x) clean_rate(x, col="VetSuicideRatePer100k"))
+df_suicide_base[is.na(df_suicide_base$VetSuicideRatePer100k),]$VetSuicideRatePer100k <- 0
+
+df_suicide_base$GenPopSuicideRatePer100k <- apply(df_suicide_base, 1, function(x) clean_rate(x, col="GenPopSuicideRatePer100k"))
+df_suicide_base[is.na(df_suicide_base$GenPopSuicideRatePer100k),]$GenPopSuicideRatePer100k = 0
+
+# focus on state-based rates overall only
+df_suicide_base <- df_suicide_base[df_suicide_base$`Age Group` == 'Total', ]
+
+# subset on the ones where suicide rate > 0 
+df_suicide_base <- df_suicide_base[df_suicide_base$VetSuicideRatePer100k > 0, ]
+
+
+
 
 ```
+
+```{r prepare SAIL data}
+
+# focus on 2016
+
+df_sail_data_sub <- df_sail_data[df_sail_data$year == 2016,]
+
+# lookup state information to location
+df_sail_data_sub <- left_join(df_sail_data_sub, df_lookup_city, by=c('location' = 'City'))
+
+df_sail_data_sub$`Get an urgent care appointment as soon as needed (PCMH)`
+
+# aggregate metrics for state-level 
+df_sail_agg <- df_sail_data_sub %>%
+  filter(!is.na(State)) %>%
+  group_by(State) %>% 
+  summarize(
+    SMR30 = mean(`Acute care 30-day Standardized Mortality Ratio (SMR30)`, na.rm=TRUE),
+    CallCenterAbandonmentRate = mean(`Call center abandonment rate`, na.rm=TRUE),
+    GetUrgentAppointment_PCMH = mean(`Get an urgent care appointment as soon as needed (PCMH)`, na.rm=TRUE),
+    NewMentalAppointments30DaysFromPreferredDate = mean(`New mental health appointments completed within 30 days from preferred date`, na.rm=TRUE)
+  )
+
+df_sail_agg_normal_metrics <- df_sail_agg %>% 
+  select(-State) %>% 
+  mutate_all(scale)
+
+df_sail_agg_normal <- cbind(df_sail_agg %>% select(State), df_sail_agg_normal_metrics)
+
+```
+
+
+```{r joining suicide and SAIL data for 2016}
+
+df_suicide_base_2016 <- df_suicide_base[df_suicide_base$Year == 2016,]
+
+df_base <- full_join(df_suicide_base_2016, df_sail_agg_normal, by="State")
+
+# account for missing values
+
+df_base <- na.omit(df_base)
+
+df_base$SMR30
+
+lm_model <- lm(VetSuicideRatePer100k ~ SMR30+CallCenterAbandonmentRate+GetUrgentAppointment_PCMH+NewMentalAppointments30DaysFromPreferredDate, data = df_base)
+
+summary(lm_model)
+
+```
+
+
+
+
+
+
+
+
+
+
 
