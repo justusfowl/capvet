@@ -1,0 +1,3361 @@
+Year,"Geographic Region, Based on state of death",State of Death,"Age Group","Veteran Suicides","Veteran Suicide Rate per 100,000","General Population Suicides","General Population Rate per 100,000"
+2005,Total U.S.,Total U.S.,Total,"5,797",23.9,"31,610",14.7
+2005,Total U.S.,Total U.S.,18-34,544,25.2,"8,455",13.1
+2005,Total U.S.,Total U.S.,35-54,"2,063",29.0,"13,541",15.9
+2005,Total U.S.,Total U.S.,55-74,"1,868",18.7,"6,554",13.5
+2005,Total U.S.,Total U.S.,75+,"1,319",26.3,"3,060",18.7
+2005,Northeast,All,Total,698,17.6,"4,298",10.7
+2005,Northeast,All,18-34,43,17.3,"1,096",9.9
+2005,Northeast,All,35-54,233,23.8,"1,891",11.6
+2005,Northeast,All,55-74,238,14.1,874,9.4
+2005,Northeast,All,75+,184,17.6,437,12.3
+2005,Northeast,Connecticut,Total,45,16.9,284,11.1
+2005,Northeast,Connecticut,18-34,<10,--,56,8.6
+2005,Northeast,Connecticut,35-54,17,26.6*,144,13.3
+2005,Northeast,Connecticut,55-74,15,13.3*,57,9.6
+2005,Northeast,Connecticut,75+,10-20,--,27,11.7
+2005,Northeast,Maine,Total,43,29.3,173,17.2
+2005,Northeast,Maine,18-34,<10,--,38,15.4
+2005,Northeast,Maine,35-54,15,35.7*,67,16.2
+2005,Northeast,Maine,55-74,16,25.4*,50,19.6
+2005,Northeast,Maine,75+,<10,--,18,20.7*
+2005,Northeast,Massachusetts,Total,64,13.6,468,9.9
+2005,Northeast,Massachusetts,18-34,<10,--,130,9.8
+2005,Northeast,Massachusetts,35-54,20,18.0,203,10.5
+2005,Northeast,Massachusetts,55-74,19,9.5*,94,9.0
+2005,Northeast,Massachusetts,75+,10-20,--,41,9.9
+2005,Northeast,New Hampshire,Total,33,25.8,158,16.3
+2005,Northeast,New Hampshire,18-34,<10,--,31,12.6
+2005,Northeast,New Hampshire,35-54,<10,--,75,17.6
+2005,Northeast,New Hampshire,55-74,15,25.9*,33,14.6
+2005,Northeast,New Hampshire,75+,<10,--,19,26.8*
+2005,Northeast,New Jersey,Total,63,11.4,524,8.2
+2005,Northeast,New Jersey,18-34,<10,--,143,8.3
+2005,Northeast,New Jersey,35-54,21,17.1,226,8.5
+2005,Northeast,New Jersey,55-74,22,9.1,97,6.7
+2005,Northeast,New Jersey,75+,10-20,--,58,10.8
+2005,Northeast,New York,Total,157,13.7,"1,154",8.2
+2005,Northeast,New York,18-34,10,12.8*,313,7.6
+2005,Northeast,New York,35-54,45,15.5,487,8.6
+2005,Northeast,New York,55-74,63,13.1,243,7.6
+2005,Northeast,New York,75+,39,13.1,111,9.5
+2005,Northeast,Pennsylvania,Total,268,24.2,"1,393",15.2
+2005,Northeast,Pennsylvania,18-34,18,26.1*,350,14.5
+2005,Northeast,Pennsylvania,35-54,96,34.9,622,17.1
+2005,Northeast,Pennsylvania,55-74,83,17.7,270,12.3
+2005,Northeast,Pennsylvania,75+,71,24.0,151,16.3
+2005,Northeast,Rhode Island,Total,12,13.8*,68,8.7
+2005,Northeast,Rhode Island,18-34,<10,--,10-20,--
+2005,Northeast,Rhode Island,35-54,<10,--,30,9.5
+2005,Northeast,Rhode Island,55-74,<10,--,19,10.9*
+2005,Northeast,Rhode Island,75+,<10,--,<10,--
+2005,Northeast,Vermont,Total,13,25.0*,76,16.2
+2005,Northeast,Vermont,18-34,<10,--,21,17.5
+2005,Northeast,Vermont,35-54,<10,--,37,18.9
+2005,Northeast,Vermont,55-74,<10,--,10-20,--
+2005,Northeast,Vermont,75+,<10,--,<10,--
+2005,Midwest,All,Total,"1,374",25.3,"7,029",14.6
+2005,Midwest,All,18-34,120,28.6,"1,974",13.8
+2005,Midwest,All,35-54,512,33.2,"3,084",16.2
+2005,Midwest,All,55-74,445,19.4,"1,367",12.7
+2005,Midwest,All,75+,296,25.1,604,15.7
+2005,Midwest,Illinois,Total,190,21.8,"1,065",11.6
+2005,Midwest,Illinois,18-34,24,34.8,289,10.1
+2005,Midwest,Illinois,35-54,70,30.8,455,12.5
+2005,Midwest,Illinois,55-74,61,16.5,229,11.5
+2005,Midwest,Illinois,75+,35,17.1,92,13.4
+2005,Midwest,Indiana,Total,142,27.4,721,16.0
+2005,Midwest,Indiana,18-34,16,42.1*,210,15.5
+2005,Midwest,Indiana,35-54,52,32.7,311,17.5
+2005,Midwest,Indiana,55-74,37,17.1,140,13.8
+2005,Midwest,Indiana,75+,37,35.2,60,17.4
+2005,Midwest,Iowa,Total,65,25.2,322,14.7
+2005,Midwest,Iowa,18-34,10,50.0*,101,16.0
+2005,Midwest,Iowa,35-54,20,29.9,137,16.2
+2005,Midwest,Iowa,55-74,24,22.0,58,11.3
+2005,Midwest,Iowa,75+,11,17.7*,26,12.9
+2005,Midwest,Kansas,Total,70,28.3,354,17.9
+2005,Midwest,Kansas,18-34,<10,--,104,17.0
+2005,Midwest,Kansas,35-54,25,34.2,150,19.5
+2005,Midwest,Kansas,55-74,22,22.2,66,15.2
+2005,Midwest,Kansas,75+,10-20,--,34,20.9
+2005,Midwest,Michigan,Total,187,23.0,"1,074",14.6
+2005,Midwest,Michigan,18-34,17,29.3*,296,13.8
+2005,Midwest,Michigan,35-54,71,30.6,486,16.4
+2005,Midwest,Michigan,55-74,59,17.2,204,12.4
+2005,Midwest,Michigan,75+,40,22.3,88,14.9
+2005,Midwest,Minnesota,Total,87,20.6,514,13.7
+2005,Midwest,Minnesota,18-34,<10,--,158,13.9
+2005,Midwest,Minnesota,35-54,34,29.3,223,14.5
+2005,Midwest,Minnesota,55-74,29,15.5,95,11.8
+2005,Midwest,Minnesota,75+,20-30,--,38,13.6
+2005,Midwest,Missouri,Total,145,26.7,705,16.6
+2005,Midwest,Missouri,18-34,13,28.9*,173,13.7
+2005,Midwest,Missouri,35-54,59,37.8,342,20.6
+2005,Midwest,Missouri,55-74,44,18.8,140,14.0
+2005,Midwest,Missouri,75+,29,26.6,50,15.1
+2005,Midwest,Nebraska,Total,34,21.5,173,13.6
+2005,Midwest,Nebraska,18-34,<10,--,46,11.8
+2005,Midwest,Nebraska,35-54,14,31.8*,85,17.4
+2005,Midwest,Nebraska,55-74,12,18.2*,28,9.9
+2005,Midwest,Nebraska,75+,<10,--,14,13.0*
+2005,Midwest,North Dakota,Total,16,26.7*,85,18.1
+2005,Midwest,North Dakota,18-34,<10,--,38,27.6
+2005,Midwest,North Dakota,35-54,<10,--,29,16.1
+2005,Midwest,North Dakota,55-74,<10,--,10-20,--
+2005,Midwest,North Dakota,75+,<10,--,<10,--
+2005,Midwest,Ohio,Total,284,27.9,"1,295",15.4
+2005,Midwest,Ohio,18-34,21,26.6,341,14.2
+2005,Midwest,Ohio,35-54,103,34.1,556,16.6
+2005,Midwest,Ohio,55-74,98,23.6,264,13.6
+2005,Midwest,Ohio,75+,62,28.2,134,19.0
+2005,Midwest,South Dakota,Total,31,41.9,111,19.9
+2005,Midwest,South Dakota,18-34,<10,--,35,21.0
+2005,Midwest,South Dakota,35-54,10,43.5*,38,17.8
+2005,Midwest,South Dakota,55-74,13,44.8*,24,18.8
+2005,Midwest,South Dakota,75+,<10,--,14,27.8*
+2005,Midwest,Wisconsin,Total,123,27.5,610,15.0
+2005,Midwest,Wisconsin,18-34,<10,--,183,15.5
+2005,Midwest,Wisconsin,35-54,50,40.3,272,16.5
+2005,Midwest,Wisconsin,55-74,39,19.6,106,11.6
+2005,Midwest,Wisconsin,75+,20-30,--,49,14.9
+2005,South,Alabama,Total,103,24.6,526,15.7
+2005,South,Alabama,18-34,12,30.0*,137,13.8
+2005,South,Alabama,35-54,38,28.6,213,16.5
+2005,South,Alabama,55-74,36,21.2,124,15.1
+2005,South,Alabama,75+,17,22.7*,52,21.0
+2005,South,All,Total,"2,312",24.3,"12,285",15.8
+2005,South,All,18-34,241,24.5,"3,253",13.8
+2005,South,All,35-54,817,27.2,"5,219",17.2
+2005,South,All,55-74,740,19.5,"2,671",14.9
+2005,South,All,75+,513,29.5,"1,142",20.3
+2005,South,Arkansas,Total,73,27.8,376,18.6
+2005,South,Arkansas,18-34,<10,--,101,16.8
+2005,South,Arkansas,35-54,36,46.2,162,21.3
+2005,South,Arkansas,55-74,19,17.1*,83,16.4
+2005,South,Arkansas,75+,10-20,--,30,19.1
+2005,South,Delaware,Total,18,23.4*,81,13.0
+2005,South,Delaware,18-34,<10,--,24,13.5
+2005,South,Delaware,35-54,10,41.7*,35,14.2
+2005,South,Delaware,55-74,<10,--,10-20,--
+2005,South,Delaware,75+,<10,--,<10,--
+2005,South,District Of Columbia,Total,<10,--,33,8.2
+2005,South,District Of Columbia,18-34,<10,--,11,8.0*
+2005,South,District Of Columbia,35-54,<10,--,<10,--
+2005,South,District Of Columbia,55-74,<10,--,10,11.4*
+2005,South,District Of Columbia,75+,<10,--,<10,--
+2005,South,Florida,Total,470,25.8,"2,289",17.2
+2005,South,Florida,18-34,36,25.4,473,13.4
+2005,South,Florida,35-54,171,33.7,967,19.6
+2005,South,Florida,55-74,153,21.5,544,15.8
+2005,South,Florida,75+,110,23.7,305,21.9
+2005,South,Georgia,Total,172,23.3,901,14.0
+2005,South,Georgia,18-34,22,27.2,225,10.5
+2005,South,Georgia,35-54,54,20.1,385,14.6
+2005,South,Georgia,55-74,57,19.5,206,15.4
+2005,South,Georgia,75+,39,41.5,85,25.9
+2005,South,Kentucky,Total,111,31.3,554,18.0
+2005,South,Kentucky,18-34,16,48.5*,150,16.5
+2005,South,Kentucky,35-54,50,46.3,257,21.1
+2005,South,Kentucky,55-74,24,15.8,107,14.5
+2005,South,Kentucky,75+,21,33.9,40,18.7
+2005,South,Louisiana,Total,61,16.9,483,14.9
+2005,South,Louisiana,18-34,<10,--,171,16.7
+2005,South,Louisiana,35-54,20,18.5,180,14.3
+2005,South,Louisiana,55-74,20,13.7,94,12.8
+2005,South,Louisiana,75+,10-20,--,38,17.2
+2005,South,Maryland,Total,92,19.0,451,11.2
+2005,South,Maryland,18-34,<10,--,121,10.5
+2005,South,Maryland,35-54,37,23.3,196,11.6
+2005,South,Maryland,55-74,20-30,--,81,8.9
+2005,South,Maryland,75+,25,27.8,53,18.4
+2005,South,Mississippi,Total,53,22.5,353,17.0
+2005,South,Mississippi,18-34,<10,--,105,16.3
+2005,South,Mississippi,35-54,19,26.0*,158,19.8
+2005,South,Mississippi,55-74,14,14.6*,68,14.0
+2005,South,Mississippi,75+,10-20,--,22,15.5
+2005,South,North Carolina,Total,187,24.2,980,15.7
+2005,South,North Carolina,18-34,16,17.0*,231,12.2
+2005,South,North Carolina,35-54,59,23.1,443,17.9
+2005,South,North Carolina,55-74,66,22.3,220,15.3
+2005,South,North Carolina,75+,46,35.7,86,19.8
+2005,South,Oklahoma,Total,94,26.5,511,19.9
+2005,South,Oklahoma,18-34,<10,--,154,19.5
+2005,South,Oklahoma,35-54,32,31.1,216,22.3
+2005,South,Oklahoma,55-74,34,22.8,102,16.4
+2005,South,Oklahoma,75+,10-20,--,39,20.6
+2005,South,South Carolina,Total,72,17.5,494,16.1
+2005,South,South Carolina,18-34,<10,--,147,16.2
+2005,South,South Carolina,35-54,30,22.9,221,18.4
+2005,South,South Carolina,55-74,19,11.2*,97,12.8
+2005,South,South Carolina,75+,10-20,--,29,13.5
+2005,South,Tennessee,Total,157,30.1,843,19.1
+2005,South,Tennessee,18-34,10,21.3*,208,15.9
+2005,South,Tennessee,35-54,48,28.9,353,20.3
+2005,South,Tennessee,55-74,60,26.9,211,19.9
+2005,South,Tennessee,75+,39,45.3,71,23.8
+2005,South,Texas,Total,403,23.8,"2,323",14.6
+2005,South,Texas,18-34,49,24.0,711,13.1
+2005,South,Texas,35-54,140,25.9,989,15.7
+2005,South,Texas,55-74,130,19.3,443,13.6
+2005,South,Texas,75+,84,30.2,180,19.3
+2005,South,Virginia,Total,181,23.1,839,15.4
+2005,South,Virginia,18-34,26,26.3,226,14.3
+2005,South,Virginia,35-54,58,20.4,339,15.2
+2005,South,Virginia,55-74,61,21.4,206,16.2
+2005,South,Virginia,75+,36,31.6,68,18.6
+2005,South,West Virginia,Total,58,32.4,248,17.8
+2005,South,West Virginia,18-34,<10,--,58,15.8
+2005,South,West Virginia,35-54,10-20,--,97,18.3
+2005,South,West Virginia,55-74,18,22.8*,58,15.8
+2005,South,West Virginia,75+,21,56.8,35,28.3
+2005,West,Alaska,Total,20,25.6,125,28.0
+2005,West,Alaska,18-34,<10,--,48,34.7
+2005,West,Alaska,35-54,11,34.4*,60,29.7
+2005,West,Alaska,55-74,<10,--,10-20,--
+2005,West,Alaska,75+,<10,--,<10,--
+2005,West,All,Total,"1,413",26.4,"7,998",16.4
+2005,West,All,18-34,140,28.3,"2,132",13.6
+2005,West,All,35-54,501,31.4,"3,347",17.4
+2005,West,All,55-74,445,20.1,"1,642",15.7
+2005,West,All,75+,326,31.3,877,25.9
+2005,West,Arizona,Total,176,32.1,906,21.4
+2005,West,Arizona,18-34,18,38.3*,287,20.9
+2005,West,Arizona,35-54,62,40.8,352,22.7
+2005,West,Arizona,55-74,47,20.3,170,17.3
+2005,West,Arizona,75+,49,41.2,97,29.6
+2005,West,California,Total,452,19.5,"3,124",12.2
+2005,West,California,18-34,34,16.0,738,8.9
+2005,West,California,35-54,150,22.4,"1,309",12.8
+2005,West,California,55-74,150,16.0,679,12.9
+2005,West,California,75+,118,23.7,398,22.6
+2005,West,Colorado,Total,156,36.8,771,22.9
+2005,West,Colorado,18-34,17,39.5*,227,20.3
+2005,West,Colorado,35-54,57,39.0,328,24.0
+2005,West,Colorado,55-74,47,27.6,148,21.6
+2005,West,Colorado,75+,35,53.8,68,34.3
+2005,West,Hawaii,Total,12,9.7*,103,11.2
+2005,West,Hawaii,18-34,<10,--,27,10.9
+2005,West,Hawaii,35-54,<10,--,47,13.3
+2005,West,Hawaii,55-74,<10,--,19,8.5*
+2005,West,Hawaii,75+,<10,--,10,10.9*
+2005,West,Idaho,Total,53,40.5,222,21.8
+2005,West,Idaho,18-34,<10,--,62,18.8
+2005,West,Idaho,35-54,16,43.2*,87,22.3
+2005,West,Idaho,55-74,10-20,--,44,19.2
+2005,West,Idaho,75+,16,66.7*,29,41.2
+2005,West,Montana,Total,49,47.6,192,27.3
+2005,West,Montana,18-34,<10,--,51,26.3
+2005,West,Montana,35-54,22,78.6,86,31.1
+2005,West,Montana,55-74,18,38.3*,39,21.8
+2005,West,Montana,75+,<10,--,16,29.4*
+2005,West,Nevada,Total,105,44.9,461,26.2
+2005,West,Nevada,18-34,10,52.6*,106,18.8
+2005,West,Nevada,35-54,33,47.1,188,27.7
+2005,West,Nevada,55-74,41,38.7,115,28.1
+2005,West,Nevada,75+,21,53.8,52,48.2
+2005,West,New Mexico,Total,63,35.2,324,23.3
+2005,West,New Mexico,18-34,<10,--,95,22.6
+2005,West,New Mexico,35-54,25,45.5,143,26.8
+2005,West,New Mexico,55-74,16,20.8*,55,16.2
+2005,West,New Mexico,75+,10-20,--,31,31.6
+2005,West,Oregon,Total,113,31.2,546,20.1
+2005,West,Oregon,18-34,<10,--,120,14.6
+2005,West,Oregon,35-54,41,39.4,234,22.4
+2005,West,Oregon,55-74,35,22.4,122,19.5
+2005,West,Oregon,75+,30-40,--,70,31.9
+2005,West,Utah,Total,36,23.7,337,20.0
+2005,West,Utah,18-34,<10,--,133,18.5
+2005,West,Utah,35-54,13,31.0*,133,23.1
+2005,West,Utah,55-74,<10,--,52,17.5
+2005,West,Utah,75+,<10,--,19,20.6*
+2005,West,Washington,Total,156,24.5,802,17.3
+2005,West,Washington,18-34,23,38.3,210,14.9
+2005,West,Washington,35-54,63,30.4,352,18.8
+2005,West,Washington,55-74,49,18.6,165,16.1
+2005,West,Washington,75+,21,19.6,75,23.2
+2005,West,Wyoming,Total,22,40.7,85,22.4
+2005,West,Wyoming,18-34,<10,--,28,25.7
+2005,West,Wyoming,35-54,<10,--,28,18.5
+2005,West,Wyoming,55-74,11,44.0*,20-30,--
+2005,West,Wyoming,75+,<10,--,<10,--
+2006, ,Total U.S.,Total,"5,694",24.0,"32,352",14.4
+2006, ,Total U.S.,18-34,482,22.7,"8,453",12.3
+2006, ,Total U.S.,35-54,"1,997",28.8,"14,017",16.1
+2006, ,Total U.S.,55-74,"1,929",19.8,"6,967",13.8
+2006, ,Total U.S.,75+,"1,284",25.9,"2,915",16.0
+2006,Northeast,All,Total,671,17.5,"4,428",10.5
+2006,Northeast,All,18-34,59,24.3,"1,075",8.9
+2006,Northeast,All,35-54,218,23.1,"2,000",12.1
+2006,Northeast,All,55-74,230,13.9,962,9.9
+2006,Northeast,All,75+,164,16.5,391,10.3
+2006,Northeast,Connecticut,Total,39,14.8,281,10.5
+2006,Northeast,Connecticut,18-34,<10,--,69,9.6
+2006,Northeast,Connecticut,35-54,16,25.0*,133,12.1
+2006,Northeast,Connecticut,55-74,11,9.6*,54,8.7
+2006,Northeast,Connecticut,75+,<10,--,25,10.2
+2006,Northeast,Maine,Total,34,24.3,155,15.0
+2006,Northeast,Maine,18-34,<10,--,28,10.6
+2006,Northeast,Maine,35-54,11,26.8*,72,17.5
+2006,Northeast,Maine,55-74,13,22.0*,43,16.2
+2006,Northeast,Maine,75+,<10,--,12,12.8*
+2006,Northeast,Massachusetts,Total,48,10.7,443,8.9
+2006,Northeast,Massachusetts,18-34,<10,--,104,7.1
+2006,Northeast,Massachusetts,35-54,22,21.0,219,11.2
+2006,Northeast,Massachusetts,55-74,14,7.2*,97,8.7
+2006,Northeast,Massachusetts,75+,<10,--,23,5.2
+2006,Northeast,New Hampshire,Total,32,25.4,150,14.8
+2006,Northeast,New Hampshire,18-34,<10,--,36,13.2
+2006,Northeast,New Hampshire,35-54,<10,--,65,15.3
+2006,Northeast,New Hampshire,55-74,15,26.3*,36,15.1
+2006,Northeast,New Hampshire,75+,<10,--,13,16.6*
+2006,Northeast,New Jersey,Total,62,11.6,572,8.6
+2006,Northeast,New Jersey,18-34,<10,--,128,6.9
+2006,Northeast,New Jersey,35-54,18,15.4*,252,9.3
+2006,Northeast,New Jersey,55-74,19,8.1*,134,8.9
+2006,Northeast,New Jersey,75+,10-20,--,58,10.3
+2006,Northeast,New York,Total,166,14.9,"1,290",8.7
+2006,Northeast,New York,18-34,16,21.3*,324,7.3
+2006,Northeast,New York,35-54,53,19.1,564,9.9
+2006,Northeast,New York,55-74,58,12.3,289,8.6
+2006,Northeast,New York,75+,39,13.5,113,9.0
+2006,Northeast,Pennsylvania,Total,254,23.6,"1,368",14.2
+2006,Northeast,Pennsylvania,18-34,20,29.4,351,13.3
+2006,Northeast,Pennsylvania,35-54,80,30.0,608,16.5
+2006,Northeast,Pennsylvania,55-74,84,18.1,274,11.9
+2006,Northeast,Pennsylvania,75+,70,25.2,135,13.6
+2006,Northeast,Rhode Island,Total,21,25.3,89,10.8
+2006,Northeast,Rhode Island,18-34,<10,--,24,9.8
+2006,Northeast,Rhode Island,35-54,<10,--,42,13.2
+2006,Northeast,Rhode Island,55-74,10,28.6*,10-20,--
+2006,Northeast,Rhode Island,75+,<10,--,<10,--
+2006,Northeast,Vermont,Total,15,28.3*,80,16.4
+2006,Northeast,Vermont,18-34,<10,--,10-20,--
+2006,Northeast,Vermont,35-54,<10,--,45,23.1
+2006,Northeast,Vermont,55-74,<10,--,17,14.0*
+2006,Northeast,Vermont,75+,<10,--,<10,--
+2006,Midwest,All,Total,"1,314",24.8,"7,191",14.4
+2006,Midwest,All,18-34,101,24.7,"1,927",12.8
+2006,Midwest,All,35-54,482,32.2,"3,290",17.0
+2006,Midwest,All,55-74,447,20.0,"1,421",12.6
+2006,Midwest,All,75+,282,24.6,553,13.0
+2006,Midwest,Illinois,Total,149,17.8,984,10.3
+2006,Midwest,Illinois,18-34,11,16.7*,266,8.7
+2006,Midwest,Illinois,35-54,55,25.1,445,12.0
+2006,Midwest,Illinois,55-74,57,16.0,208,10.1
+2006,Midwest,Illinois,75+,26,13.3,65,8.5
+2006,Midwest,Indiana,Total,136,26.6,801,16.9
+2006,Midwest,Indiana,18-34,<10,--,214,14.7
+2006,Midwest,Indiana,35-54,58,37.2,387,21.3
+2006,Midwest,Indiana,55-74,41,19.2,141,13.2
+2006,Midwest,Indiana,75+,30-40,--,59,15.4
+2006,Midwest,Iowa,Total,59,23.0,313,13.8
+2006,Midwest,Iowa,18-34,<10,--,77,11.5
+2006,Midwest,Iowa,35-54,20,30.3,146,17.3
+2006,Midwest,Iowa,55-74,22,19.8,65,12.4
+2006,Midwest,Iowa,75+,10-20,--,25,10.9
+2006,Midwest,Kansas,Total,70,29.4,366,17.8
+2006,Midwest,Kansas,18-34,<10,--,113,17.9
+2006,Midwest,Kansas,35-54,26,37.1,151,19.3
+2006,Midwest,Kansas,55-74,22,23.9,74,16.3
+2006,Midwest,Kansas,75+,10-20,--,28,15.1
+2006,Midwest,Michigan,Total,231,29.6,"1,104",14.5
+2006,Midwest,Michigan,18-34,14,26.4*,247,11.0
+2006,Midwest,Michigan,35-54,94,42.2,532,17.7
+2006,Midwest,Michigan,55-74,81,24.1,237,13.5
+2006,Midwest,Michigan,75+,42,25.0,88,14.2
+2006,Midwest,Minnesota,Total,95,23.1,529,13.5
+2006,Midwest,Minnesota,18-34,<10,--,157,13.2
+2006,Midwest,Minnesota,35-54,31,27.9,236,15.2
+2006,Midwest,Minnesota,55-74,33,17.9,98,11.6
+2006,Midwest,Minnesota,75+,20-30,--,38,12.0
+2006,Midwest,Missouri,Total,154,29.2,773,17.6
+2006,Midwest,Missouri,18-34,18,40.9*,209,15.9
+2006,Midwest,Missouri,35-54,56,36.6,344,20.6
+2006,Midwest,Missouri,55-74,40,18.2,138,13.4
+2006,Midwest,Missouri,75+,39,35.1,82,21.4
+2006,Midwest,Nebraska,Total,39,25.7,186,14.1
+2006,Midwest,Nebraska,18-34,<10,--,50,12.1
+2006,Midwest,Nebraska,35-54,<10,--,77,15.8
+2006,Midwest,Nebraska,55-74,17,27.9*,44,14.9
+2006,Midwest,Nebraska,75+,<10,--,15,12.4*
+2006,Midwest,North Dakota,Total,15,25.4*,84,17.2
+2006,Midwest,North Dakota,18-34,<10,--,42,27.6
+2006,Midwest,North Dakota,35-54,<10,--,28,16.0
+2006,Midwest,North Dakota,55-74,<10,--,10-20,--
+2006,Midwest,North Dakota,75+,<10,--,<10,--
+2006,Midwest,Ohio,Total,226,22.7,"1,282",14.7
+2006,Midwest,Ohio,18-34,21,26.9,358,14.1
+2006,Midwest,Ohio,35-54,67,22.8,548,16.3
+2006,Midwest,Ohio,55-74,79,19.3,264,13.0
+2006,Midwest,Ohio,75+,59,27.4,112,14.7
+2006,Midwest,South Dakota,Total,22,28.2,115,19.6
+2006,Midwest,South Dakota,18-34,<10,--,36,20.7
+2006,Midwest,South Dakota,35-54,<10,--,54,24.9
+2006,Midwest,South Dakota,55-74,11,36.7*,20-30,--
+2006,Midwest,South Dakota,75+,<10,--,<10,--
+2006,Midwest,Wisconsin,Total,118,26.6,654,15.4
+2006,Midwest,Wisconsin,18-34,<10,--,158,12.6
+2006,Midwest,Wisconsin,35-54,55,45.1,342,20.6
+2006,Midwest,Wisconsin,55-74,40,20.3,119,12.5
+2006,Midwest,Wisconsin,75+,10-20,--,35,9.6
+2006,South,Alabama,Total,107,25.7,564,16.2
+2006,South,Alabama,18-34,14,35.9*,177,17.1
+2006,South,Alabama,35-54,39,29.5,213,16.3
+2006,South,Alabama,55-74,35,20.7,127,15.1
+2006,South,Alabama,75+,19,24.7*,47,16.5
+2006,South,All,Total,"2,283",24.3,"12,591",15.4
+2006,South,All,18-34,201,20.8,"3,248",13.0
+2006,South,All,35-54,793,26.8,"5,373",17.2
+2006,South,All,55-74,785,21.2,"2,843",15.2
+2006,South,All,75+,504,28.5,"1,127",17.4
+2006,South,Arkansas,Total,74,28.2,363,17.2
+2006,South,Arkansas,18-34,<10,--,93,14.7
+2006,South,Arkansas,35-54,25,32.1,149,19.3
+2006,South,Arkansas,55-74,24,21.8,84,16.2
+2006,South,Arkansas,75+,20-30,--,37,19.9
+2006,South,Delaware,Total,16,20.0*,87,13.4
+2006,South,Delaware,18-34,<10,--,22,11.5
+2006,South,Delaware,35-54,<10,--,37,15.0
+2006,South,Delaware,55-74,<10,--,20-30,--
+2006,South,Delaware,75+,<10,--,<10,--
+2006,South,District Of Columbia,Total,<10,--,30,6.5
+2006,South,District Of Columbia,18-34,<10,--,<10,--
+2006,South,District Of Columbia,35-54,<10,--,12,7.6*
+2006,South,District Of Columbia,55-74,<10,--,<10,--
+2006,South,District Of Columbia,75+,<10,--,<10,--
+2006,South,Florida,Total,485,27.1,"2,401",17.1
+2006,South,Florida,18-34,35,25.5,466,12.2
+2006,South,Florida,35-54,158,32.0,977,19.1
+2006,South,Florida,55-74,172,25.0,637,18.2
+2006,South,Florida,75+,120,25.6,321,20.3
+2006,South,Georgia,Total,157,21.4,902,13.2
+2006,South,Georgia,18-34,19,23.5*,223,10.0
+2006,South,Georgia,35-54,64,23.9,415,14.9
+2006,South,Georgia,55-74,45,15.8,184,12.8
+2006,South,Georgia,75+,29,29.3,80,19.9
+2006,South,Kentucky,Total,113,32.9,608,19.0
+2006,South,Kentucky,18-34,<10,--,166,17.4
+2006,South,Kentucky,35-54,45,42.5,272,22.1
+2006,South,Kentucky,55-74,39,27.5,124,16.4
+2006,South,Kentucky,75+,20-30,--,46,18.4
+2006,South,Louisiana,Total,63,18.2,480,15.1
+2006,South,Louisiana,18-34,<10,--,160,15.9
+2006,South,Louisiana,35-54,20,19.4,194,16.2
+2006,South,Louisiana,55-74,22,15.9,92,12.5
+2006,South,Louisiana,75+,10-20,--,34,13.9
+2006,South,Maryland,Total,79,16.7,485,11.5
+2006,South,Maryland,18-34,<10,--,150,12.1
+2006,South,Maryland,35-54,20,12.7,188,10.9
+2006,South,Maryland,55-74,31,16.8,111,11.7
+2006,South,Maryland,75+,20-30,--,36,11.8
+2006,South,Mississippi,Total,57,25.2,319,14.9
+2006,South,Mississippi,18-34,<10,--,80,11.9
+2006,South,Mississippi,35-54,18,25.4*,138,17.2
+2006,South,Mississippi,55-74,21,24.1,74,14.8
+2006,South,Mississippi,75+,10-20,--,27,16.0
+2006,South,North Carolina,Total,197,24.9,"1,079",16.3
+2006,South,North Carolina,18-34,18,18.9*,284,14.2
+2006,South,North Carolina,35-54,64,24.8,478,18.5
+2006,South,North Carolina,55-74,71,23.2,235,15.2
+2006,South,North Carolina,75+,44,33.3,82,16.5
+2006,South,Oklahoma,Total,89,25.6,521,19.5
+2006,South,Oklahoma,18-34,<10,--,144,17.4
+2006,South,Oklahoma,35-54,26,25.5,225,23.0
+2006,South,Oklahoma,55-74,39,27.3,114,18.0
+2006,South,Oklahoma,75+,10-20,--,38,16.7
+2006,South,South Carolina,Total,90,21.7,510,15.7
+2006,South,South Carolina,18-34,15,36.6*,124,12.8
+2006,South,South Carolina,35-54,25,18.9,218,17.7
+2006,South,South Carolina,55-74,33,19.2,130,16.2
+2006,South,South Carolina,75+,17,24.6*,38,15.1
+2006,South,Tennessee,Total,156,30.2,856,18.7
+2006,South,Tennessee,18-34,13,28.3*,197,14.3
+2006,South,Tennessee,35-54,72,44.2,414,23.7
+2006,South,Tennessee,55-74,50,23.1,186,16.9
+2006,South,Tennessee,75+,21,23.1,59,16.7
+2006,South,Texas,Total,378,22.5,"2,269",13.4
+2006,South,Texas,18-34,37,18.6,698,12.0
+2006,South,Texas,35-54,130,24.4,938,14.2
+2006,South,Texas,55-74,127,19.2,457,13.4
+2006,South,Texas,75+,84,29.4,176,16.2
+2006,South,Virginia,Total,158,20.5,855,14.9
+2006,South,Virginia,18-34,10,10.3*,205,12.0
+2006,South,Virginia,35-54,60,21.7,377,16.4
+2006,South,Virginia,55-74,52,18.3,200,15.3
+2006,South,Virginia,75+,36,31.9,73,17.8
+2006,South,West Virginia,Total,56,31.6,262,18.4
+2006,South,West Virginia,18-34,<10,--,51,13.1
+2006,South,West Virginia,35-54,20,43.5,128,24.2
+2006,South,West Virginia,55-74,19,24.1*,61,16.3
+2006,South,West Virginia,75+,10-20,--,22,16.3
+2006,West,Alaska,Total,24,30.8,124,25.9
+2006,West,Alaska,18-34,<10,--,49,30.6
+2006,West,Alaska,35-54,<10,--,51,24.7
+2006,West,Alaska,55-74,<10,--,10-20,--
+2006,West,Alaska,75+,<10,--,<10,--
+2006,West,All,Total,"1,426",27.4,"8,142",15.9
+2006,West,All,18-34,121,24.4,"2,203",13.2
+2006,West,All,35-54,504,32.8,"3,354",16.9
+2006,West,All,55-74,467,22.0,"1,741",16.0
+2006,West,All,75+,334,31.8,844,22.5
+2006,West,Arizona,Total,199,35.8,930,20.6
+2006,West,Arizona,18-34,16,33.3*,252,17.1
+2006,West,Arizona,35-54,63,41.2,348,21.2
+2006,West,Arizona,55-74,74,32.6,219,21.4
+2006,West,Arizona,75+,46,35.9,111,28.9
+2006,West,California,Total,510,23.3,"3,244",12.1
+2006,West,California,18-34,44,21.0,805,9.0
+2006,West,California,35-54,169,27.0,"1,341",12.8
+2006,West,California,55-74,167,19.0,713,13.1
+2006,West,California,75+,130,27.4,385,20.0
+2006,West,Colorado,Total,123,29.2,709,19.9
+2006,West,Colorado,18-34,11,26.2*,214,18.5
+2006,West,Colorado,35-54,43,30.1,320,22.3
+2006,West,Colorado,55-74,46,27.1,131,17.6
+2006,West,Colorado,75+,23,34.8,44,20.0
+2006,West,Hawaii,Total,15,11.8*,115,12.1
+2006,West,Hawaii,18-34,<10,--,37,13.6
+2006,West,Hawaii,35-54,<10,--,49,13.8
+2006,West,Hawaii,55-74,<10,--,19,8.3*
+2006,West,Hawaii,75+,<10,--,10,10.6*
+2006,West,Idaho,Total,39,29.5,210,19.7
+2006,West,Idaho,18-34,<10,--,61,17.5
+2006,West,Idaho,35-54,14,35.9*,92,23.3
+2006,West,Idaho,55-74,11,20.0*,39,16.1
+2006,West,Idaho,75+,<10,--,18,22.5*
+2006,West,Montana,Total,48,46.2,184,25.5
+2006,West,Montana,18-34,<10,--,55,26.9
+2006,West,Montana,35-54,10-20,--,68,25.0
+2006,West,Montana,55-74,15,33.3*,38,20.8
+2006,West,Montana,75+,16,72.7*,23,36.3
+2006,West,Nevada,Total,100,42.2,471,25.4
+2006,West,Nevada,18-34,<10,--,114,19.5
+2006,West,Nevada,35-54,39,54.2,188,26.1
+2006,West,Nevada,55-74,28,27.2,123,28.5
+2006,West,Nevada,75+,20-30,--,46,38.9
+2006,West,New Mexico,Total,59,33.9,332,23.1
+2006,West,New Mexico,18-34,<10,--,111,24.3
+2006,West,New Mexico,35-54,18,33.3*,128,24.2
+2006,West,New Mexico,55-74,22,31.4,66,19.5
+2006,West,New Mexico,75+,10-20,--,27,23.7
+2006,West,Oregon,Total,118,33.3,571,20.1
+2006,West,Oregon,18-34,11,42.3*,142,16.6
+2006,West,Oregon,35-54,43,43.9,244,22.8
+2006,West,Oregon,55-74,33,21.3,119,17.6
+2006,West,Oregon,75+,31,41.3,66,27.8
+2006,West,Utah,Total,46,30.1,351,20.0
+2006,West,Utah,18-34,<10,--,117,16.2
+2006,West,Utah,35-54,16,39.0*,147,24.3
+2006,West,Utah,55-74,14,22.6*,62,19.5
+2006,West,Utah,75+,10-20,--,25,23.5
+2006,West,Washington,Total,124,19.7,790,16.4
+2006,West,Washington,18-34,<10,--,215,14.6
+2006,West,Washington,35-54,62,31.0,332,17.4
+2006,West,Washington,55-74,43,16.5,173,15.9
+2006,West,Washington,75+,10-20,--,70,19.6
+2006,West,Wyoming,Total,21,40.4,111,28.4
+2006,West,Wyoming,18-34,<10,--,31,26.4
+2006,West,Wyoming,35-54,<10,--,46,30.9
+2006,West,Wyoming,55-74,<10,--,20,21.1
+2006,West,Wyoming,75+,<10,--,14,48.3*
+2007, ,Total U.S.,Total,"5,896",25.3,"33,754",14.9
+2007, ,Total U.S.,18-34,525,25.0,"8,764",12.7
+2007, ,Total U.S.,35-54,"2,034",30.4,"14,500",16.7
+2007, ,Total U.S.,55-74,"1,980",20.8,"7,513",14.4
+2007, ,Total U.S.,75+,"1,357",27.3,"2,977",16.1
+2007,Northeast,All,Total,693,18.7,"4,647",11.0
+2007,Northeast,All,18-34,40,16.4,"1,140",9.5
+2007,Northeast,All,35-54,239,26.4,"2,039",12.4
+2007,Northeast,All,55-74,244,15.5,"1,061",10.7
+2007,Northeast,All,75+,170,17.4,407,10.7
+2007,Northeast,Connecticut,Total,35,13.8,266,9.9
+2007,Northeast,Connecticut,18-34,<10,--,60,8.3
+2007,Northeast,Connecticut,35-54,10,16.9*,123,11.4
+2007,Northeast,Connecticut,55-74,14,12.7*,60,9.5
+2007,Northeast,Connecticut,75+,<10,--,23,9.5
+2007,Northeast,Maine,Total,40,28.4,188,18.2
+2007,Northeast,Maine,18-34,<10,--,52,20.0
+2007,Northeast,Maine,35-54,<10,--,69,17.0
+2007,Northeast,Maine,55-74,20,33.9,46,16.9
+2007,Northeast,Maine,75+,<10,--,21,22.0
+2007,Northeast,Massachusetts,Total,69,15.8,505,10.1
+2007,Northeast,Massachusetts,18-34,<10,--,123,8.4
+2007,Northeast,Massachusetts,35-54,10-20,--,230,11.7
+2007,Northeast,Massachusetts,55-74,27,14.6,118,10.3
+2007,Northeast,Massachusetts,75+,18,14.5*,34,7.6
+2007,Northeast,New Hampshire,Total,39,32.2,154,15.2
+2007,Northeast,New Hampshire,18-34,<10,--,28,10.4
+2007,Northeast,New Hampshire,35-54,14,38.9*,73,17.3
+2007,Northeast,New Hampshire,55-74,18,34.0*,41,16.8
+2007,Northeast,New Hampshire,75+,<10,--,12,15.0*
+2007,Northeast,New Jersey,Total,72,14.3,583,8.8
+2007,Northeast,New Jersey,18-34,<10,--,155,8.5
+2007,Northeast,New Jersey,35-54,23,20.7,256,9.5
+2007,Northeast,New Jersey,55-74,25,11.5,120,7.8
+2007,Northeast,New Jersey,75+,10-20,--,52,9.3
+2007,Northeast,New York,Total,166,15.6,"1,367",9.2
+2007,Northeast,New York,18-34,<10,--,336,7.5
+2007,Northeast,New York,35-54,68,25.8,583,10.2
+2007,Northeast,New York,55-74,50,11.2,321,9.4
+2007,Northeast,New York,75+,40-50,--,127,10.1
+2007,Northeast,Pennsylvania,Total,239,22.8,"1,405",14.6
+2007,Northeast,Pennsylvania,18-34,17,25.4*,343,13.0
+2007,Northeast,Pennsylvania,35-54,85,33.1,625,17.1
+2007,Northeast,Pennsylvania,55-74,77,17.2,309,13.1
+2007,Northeast,Pennsylvania,75+,60,21.8,128,12.9
+2007,Northeast,Rhode Island,Total,19,23.5*,95,11.6
+2007,Northeast,Rhode Island,18-34,<10,--,20-30,--
+2007,Northeast,Rhode Island,35-54,<10,--,47,15.1
+2007,Northeast,Rhode Island,55-74,<10,--,23,12.2
+2007,Northeast,Rhode Island,75+,<10,--,<10,--
+2007,Northeast,Vermont,Total,14,27.5*,84,17.2
+2007,Northeast,Vermont,18-34,<10,--,20-30,--
+2007,Northeast,Vermont,35-54,<10,--,33,17.3
+2007,Northeast,Vermont,55-74,<10,--,23,18.3
+2007,Northeast,Vermont,75+,<10,--,<10,--
+2007,Midwest,All,Total,"1,278",24.7,"7,285",14.5
+2007,Midwest,All,18-34,101,25.4,"1,986",13.2
+2007,Midwest,All,35-54,452,31.7,"3,203",16.7
+2007,Midwest,All,55-74,425,19.3,"1,497",12.9
+2007,Midwest,All,75+,300,26.0,599,14.1
+2007,Midwest,Illinois,Total,156,19.1,"1,082",11.2
+2007,Midwest,Illinois,18-34,16,23.9*,310,10.2
+2007,Midwest,Illinois,35-54,44,21.1,457,12.3
+2007,Midwest,Illinois,55-74,45,13.2,209,9.9
+2007,Midwest,Illinois,75+,51,25.9,106,13.9
+2007,Midwest,Indiana,Total,136,27.2,767,16.1
+2007,Midwest,Indiana,18-34,17,45.9*,217,15.0
+2007,Midwest,Indiana,35-54,51,34.2,336,18.4
+2007,Midwest,Indiana,55-74,41,19.3,161,14.7
+2007,Midwest,Indiana,75+,27,26.5,53,13.8
+2007,Midwest,Iowa,Total,60,24.4,309,13.6
+2007,Midwest,Iowa,18-34,<10,--,76,11.4
+2007,Midwest,Iowa,35-54,22,36.1,140,16.8
+2007,Midwest,Iowa,55-74,22,21.0,65,12.0
+2007,Midwest,Iowa,75+,10-20,--,28,12.1
+2007,Midwest,Kansas,Total,74,31.1,368,17.8
+2007,Midwest,Kansas,18-34,<10,--,93,14.6
+2007,Midwest,Kansas,35-54,32,47.8,169,21.8
+2007,Midwest,Kansas,55-74,10-20,--,73,15.5
+2007,Midwest,Kansas,75+,25,50.0,33,18.0
+2007,Midwest,Michigan,Total,189,24.8,"1,099",14.4
+2007,Midwest,Michigan,18-34,11,22.9*,270,12.1
+2007,Midwest,Michigan,35-54,60,28.6,514,17.3
+2007,Midwest,Michigan,55-74,73,21.9,226,12.6
+2007,Midwest,Michigan,75+,45,26.5,89,14.2
+2007,Midwest,Minnesota,Total,103,25.8,549,14.0
+2007,Midwest,Minnesota,18-34,<10,--,155,13.1
+2007,Midwest,Minnesota,35-54,32,30.8,239,15.4
+2007,Midwest,Minnesota,55-74,40,22.5,116,13.2
+2007,Midwest,Minnesota,75+,20-30,--,39,12.2
+2007,Midwest,Missouri,Total,131,25.1,786,17.7
+2007,Midwest,Missouri,18-34,<10,--,206,15.7
+2007,Midwest,Missouri,35-54,47,31.5,349,20.8
+2007,Midwest,Missouri,55-74,48,21.9,159,15.0
+2007,Midwest,Missouri,75+,20-30,--,72,18.7
+2007,Midwest,Nebraska,Total,30,20.3,169,12.8
+2007,Midwest,Nebraska,18-34,<10,--,43,10.5
+2007,Midwest,Nebraska,35-54,<10,--,72,14.7
+2007,Midwest,Nebraska,55-74,12,20.3*,35,11.6
+2007,Midwest,Nebraska,75+,<10,--,19,15.6*
+2007,Midwest,North Dakota,Total,21,35.0,92,18.7
+2007,Midwest,North Dakota,18-34,<10,--,34,21.7
+2007,Midwest,North Dakota,35-54,<10,--,30,17.5
+2007,Midwest,North Dakota,55-74,11,45.8*,17,15.1*
+2007,Midwest,North Dakota,75+,<10,--,11,21.9*
+2007,Midwest,Ohio,Total,253,26.1,"1,257",14.4
+2007,Midwest,Ohio,18-34,18,24.3*,338,13.4
+2007,Midwest,Ohio,35-54,102,36.3,546,16.4
+2007,Midwest,Ohio,55-74,78,19.3,277,13.3
+2007,Midwest,Ohio,75+,55,26.2,96,12.6
+2007,Midwest,South Dakota,Total,16,20.5*,96,16.1
+2007,Midwest,South Dakota,18-34,<10,--,41,22.7
+2007,Midwest,South Dakota,35-54,<10,--,27,12.5
+2007,Midwest,South Dakota,55-74,<10,--,20-30,--
+2007,Midwest,South Dakota,75+,<10,--,<10,--
+2007,Midwest,Wisconsin,Total,109,24.5,711,16.6
+2007,Midwest,Wisconsin,18-34,10,34.5*,203,16.2
+2007,Midwest,Wisconsin,35-54,44,37.6,324,19.5
+2007,Midwest,Wisconsin,55-74,35,17.7,138,14.0
+2007,Midwest,Wisconsin,75+,20,19.8,46,12.3
+2007,South,Alabama,Total,98,23.8,581,16.7
+2007,South,Alabama,18-34,17,44.7*,164,15.8
+2007,South,Alabama,35-54,21,16.3,223,17.1
+2007,South,Alabama,55-74,40,24.0,145,16.8
+2007,South,Alabama,75+,20,26.0,49,17.0
+2007,South,All,Total,"2,407",26.0,"13,097",15.9
+2007,South,All,18-34,245,25.7,"3,379",13.4
+2007,South,All,35-54,824,28.6,"5,590",17.8
+2007,South,All,55-74,803,22.0,"2,982",15.5
+2007,South,All,75+,535,30.1,"1,146",17.4
+2007,South,Arkansas,Total,77,30.1,393,18.5
+2007,South,Arkansas,18-34,<10,--,102,16.1
+2007,South,Arkansas,35-54,29,39.2,178,23.0
+2007,South,Arkansas,55-74,25,23.6,80,15.1
+2007,South,Arkansas,75+,10-20,--,33,17.5
+2007,South,Delaware,Total,10,13.2*,94,14.3
+2007,South,Delaware,18-34,<10,--,10-20,--
+2007,South,Delaware,35-54,<10,--,52,20.7
+2007,South,Delaware,55-74,<10,--,18,11.2*
+2007,South,Delaware,75+,<10,--,<10,--
+2007,South,District Of Columbia,Total,<10,--,35,7.5
+2007,South,District Of Columbia,18-34,<10,--,<10,--
+2007,South,District Of Columbia,35-54,<10,--,12,7.5*
+2007,South,District Of Columbia,55-74,<10,--,13,13.4*
+2007,South,District Of Columbia,75+,<10,--,<10,--
+2007,South,Florida,Total,524,29.9,"2,556",18.1
+2007,South,Florida,18-34,36,26.9,521,13.6
+2007,South,Florida,35-54,177,37.2,"1,058",20.6
+2007,South,Florida,55-74,160,23.9,664,18.5
+2007,South,Florida,75+,151,31.9,313,19.4
+2007,South,Georgia,Total,186,25.5,980,14.1
+2007,South,Georgia,18-34,18,22.5*,236,10.5
+2007,South,Georgia,35-54,67,25.3,439,15.6
+2007,South,Georgia,55-74,67,23.6,228,15.2
+2007,South,Georgia,75+,34,33.7,77,18.6
+2007,South,Kentucky,Total,121,35.1,631,19.6
+2007,South,Kentucky,18-34,15,46.9*,185,19.3
+2007,South,Kentucky,35-54,45,43.3,277,22.6
+2007,South,Kentucky,55-74,40,28.0,124,15.8
+2007,South,Kentucky,75+,21,31.8,45,18.1
+2007,South,Louisiana,Total,74,22.2,505,15.8
+2007,South,Louisiana,18-34,11,27.5*,175,17.2
+2007,South,Louisiana,35-54,19,19.2*,205,17.1
+2007,South,Louisiana,55-74,29,22.1,100,13.5
+2007,South,Louisiana,75+,15,23.8*,25,10.2
+2007,South,Maryland,Total,89,19.5,502,11.9
+2007,South,Maryland,18-34,<10,--,143,11.5
+2007,South,Maryland,35-54,35,23.2,218,12.8
+2007,South,Maryland,55-74,28,15.6,103,10.6
+2007,South,Maryland,75+,10-20,--,38,12.2
+2007,South,Mississippi,Total,69,31.2,382,17.8
+2007,South,Mississippi,18-34,10,40.0*,111,16.5
+2007,South,Mississippi,35-54,20,28.6,151,19.1
+2007,South,Mississippi,55-74,27,31.4,93,18.3
+2007,South,Mississippi,75+,12,30.0*,27,16.1
+2007,South,North Carolina,Total,184,23.9,"1,051",15.5
+2007,South,North Carolina,18-34,21,23.1,253,12.6
+2007,South,North Carolina,35-54,67,26.8,450,17.1
+2007,South,North Carolina,55-74,67,22.2,265,16.4
+2007,South,North Carolina,75+,29,22.7,83,16.4
+2007,South,Oklahoma,Total,96,28.1,515,19.1
+2007,South,Oklahoma,18-34,<10,--,136,16.2
+2007,South,Oklahoma,35-54,34,34.7,232,23.7
+2007,South,Oklahoma,55-74,20-30,--,89,13.7
+2007,South,Oklahoma,75+,29,44.6,58,25.7
+2007,South,South Carolina,Total,106,26.0,524,15.8
+2007,South,South Carolina,18-34,<10,--,135,13.9
+2007,South,South Carolina,35-54,42,32.8,228,18.3
+2007,South,South Carolina,55-74,37,22.4,124,14.9
+2007,South,South Carolina,75+,20-30,--,37,14.2
+2007,South,Tennessee,Total,147,28.3,830,17.8
+2007,South,Tennessee,18-34,13,27.7*,201,14.5
+2007,South,Tennessee,35-54,47,29.2,357,20.0
+2007,South,Tennessee,55-74,54,24.4,204,17.8
+2007,South,Tennessee,75+,33,36.3,68,18.9
+2007,South,Texas,Total,386,23.2,"2,357",13.7
+2007,South,Texas,18-34,49,24.5,713,12.2
+2007,South,Texas,35-54,138,26.4,995,14.9
+2007,South,Texas,55-74,120,18.5,478,13.5
+2007,South,Texas,75+,79,27.1,171,15.4
+2007,South,Virginia,Total,176,23.0,862,14.9
+2007,South,Virginia,18-34,18,18.6*,203,11.8
+2007,South,Virginia,35-54,59,21.6,390,17.0
+2007,South,Virginia,55-74,57,20.4,186,13.8
+2007,South,Virginia,75+,42,36.8,83,20.0
+2007,South,West Virginia,Total,61,35.5,299,21.0
+2007,South,West Virginia,18-34,<10,--,78,20.2
+2007,South,West Virginia,35-54,19,42.2*,125,23.9
+2007,South,West Virginia,55-74,20,27.0,68,17.9
+2007,South,West Virginia,75+,10-20,--,28,20.7
+2007,West,Alaska,Total,26,34.7,140,28.9
+2007,West,Alaska,18-34,<10,--,57,35.3
+2007,West,Alaska,35-54,11,37.9*,55,27.0
+2007,West,Alaska,55-74,<10,--,20-30,--
+2007,West,Alaska,75+,<10,--,<10,--
+2007,West,All,Total,"1,518",29.5,"8,725",16.8
+2007,West,All,18-34,139,27.5,"2,259",13.4
+2007,West,All,35-54,519,35.1,"3,668",18.4
+2007,West,All,55-74,508,24.0,"1,973",17.4
+2007,West,All,75+,352,33.5,825,21.6
+2007,West,Arizona,Total,188,34.1,991,21.3
+2007,West,Arizona,18-34,21,42.9,302,20.2
+2007,West,Arizona,35-54,63,42.3,387,23.0
+2007,West,Arizona,55-74,63,28.0,224,20.8
+2007,West,Arizona,75+,41,31.8,78,19.6
+2007,West,California,Total,495,23.1,"3,532",13.1
+2007,West,California,18-34,41,19.2,836,9.4
+2007,West,California,35-54,168,28.4,"1,520",14.4
+2007,West,California,55-74,166,19.2,816,14.5
+2007,West,California,75+,120,25.5,360,18.4
+2007,West,Colorado,Total,156,37.5,783,21.5
+2007,West,Colorado,18-34,11,26.8*,201,17.2
+2007,West,Colorado,35-54,64,46.4,362,24.8
+2007,West,Colorado,55-74,50,29.4,159,20.2
+2007,West,Colorado,75+,31,46.3,61,26.8
+2007,West,Hawaii,Total,21,15.8,130,13.5
+2007,West,Hawaii,18-34,<10,--,35,12.8
+2007,West,Hawaii,35-54,<10,--,50,14.1
+2007,West,Hawaii,55-74,<10,--,30,12.7
+2007,West,Hawaii,75+,<10,--,15,15.5*
+2007,West,Idaho,Total,40,31.7,215,19.8
+2007,West,Idaho,18-34,<10,--,73,20.7
+2007,West,Idaho,35-54,15,40.5*,80,20.0
+2007,West,Idaho,55-74,15,28.8*,47,18.6
+2007,West,Idaho,75+,<10,--,15,18.1*
+2007,West,Montana,Total,45,44.6,190,25.8
+2007,West,Montana,18-34,<10,--,42,19.9
+2007,West,Montana,35-54,13,48.1*,77,28.4
+2007,West,Montana,55-74,10-20,--,43,22.8
+2007,West,Montana,75+,18,94.7*,28,43.6
+2007,West,Nevada,Total,93,39.2,455,24.0
+2007,West,Nevada,18-34,<10,--,87,14.9
+2007,West,Nevada,35-54,27,37.5,189,25.7
+2007,West,Nevada,55-74,42,42.0,137,30.5
+2007,West,Nevada,75+,10-20,--,42,34.7
+2007,West,New Mexico,Total,83,46.1,385,26.3
+2007,West,New Mexico,18-34,12,70.6*,108,23.6
+2007,West,New Mexico,35-54,29,54.7,168,31.2
+2007,West,New Mexico,55-74,26,35.1,79,22.6
+2007,West,New Mexico,75+,16,44.4*,30,25.4
+2007,West,Oregon,Total,131,37.5,585,20.3
+2007,West,Oregon,18-34,<10,--,139,16.2
+2007,West,Oregon,35-54,42,44.7,235,21.8
+2007,West,Oregon,55-74,44,28.0,145,20.4
+2007,West,Oregon,75+,30-40,--,66,27.8
+2007,West,Utah,Total,49,31.0,368,20.2
+2007,West,Utah,18-34,<10,--,138,18.3
+2007,West,Utah,35-54,18,43.9*,146,23.5
+2007,West,Utah,55-74,17,25.0*,66,19.6
+2007,West,Utah,75+,<10,--,18,16.6*
+2007,West,Washington,Total,169,26.6,851,17.4
+2007,West,Washington,18-34,16,25.8*,208,14.2
+2007,West,Washington,35-54,59,30.3,361,18.8
+2007,West,Washington,55-74,50,19.0,186,16.3
+2007,West,Washington,75+,44,37.9,96,26.5
+2007,West,Wyoming,Total,22,44.0,100,25.4
+2007,West,Wyoming,18-34,<10,--,33,27.5
+2007,West,Wyoming,35-54,<10,--,38,25.8
+2007,West,Wyoming,55-74,<10,--,20-30,--
+2007,West,Wyoming,75+,<10,--,<10,--
+2008, ,Total U.S.,Total,"6,219",27.0,"35,045",15.3
+2008, ,Total U.S.,18-34,560,26.8,"8,835",12.7
+2008, ,Total U.S.,35-54,"2,103",32.3,"14,990",17.3
+2008, ,Total U.S.,55-74,"2,183",23.1,"8,261",15.3
+2008, ,Total U.S.,75+,"1,373",27.4,"2,959",15.9
+2008,Northeast,All,Total,774,21.5,"4,837",11.4
+2008,Northeast,All,18-34,56,23.8,"1,101",9.1
+2008,Northeast,All,35-54,290,33.3,"2,227",13.6
+2008,Northeast,All,55-74,256,16.7,"1,118",11.0
+2008,Northeast,All,75+,172,18.0,391,10.3
+2008,Northeast,Connecticut,Total,38,16.2,305,11.4
+2008,Northeast,Connecticut,18-34,<10,--,71,9.8
+2008,Northeast,Connecticut,35-54,13,22.8*,137,12.8
+2008,Northeast,Connecticut,55-74,13,13.0*,71,11.0
+2008,Northeast,Connecticut,75+,10-20,--,26,10.8
+2008,Northeast,Maine,Total,36,26.9,178,17.1
+2008,Northeast,Maine,18-34,<10,--,36,13.9
+2008,Northeast,Maine,35-54,15,39.5*,82,20.4
+2008,Northeast,Maine,55-74,<10,--,40,14.3
+2008,Northeast,Maine,75+,10,34.5*,20,20.5
+2008,Northeast,Massachusetts,Total,68,16.2,495,9.8
+2008,Northeast,Massachusetts,18-34,<10,--,95,6.4
+2008,Northeast,Massachusetts,35-54,30,30.9,260,13.3
+2008,Northeast,Massachusetts,55-74,10-20,--,109,9.2
+2008,Northeast,Massachusetts,75+,20,16.9,31,7.1
+2008,Northeast,New Hampshire,Total,33,28.0,174,17.0
+2008,Northeast,New Hampshire,18-34,<10,--,33,12.3
+2008,Northeast,New Hampshire,35-54,11,31.4*,90,21.5
+2008,Northeast,New Hampshire,55-74,13,25.0*,39,15.3
+2008,Northeast,New Hampshire,75+,<10,--,12,14.9*
+2008,Northeast,New Jersey,Total,81,16.7,601,9.1
+2008,Northeast,New Jersey,18-34,<10,--,138,7.6
+2008,Northeast,New Jersey,35-54,29,27.1,264,9.9
+2008,Northeast,New Jersey,55-74,30,14.5,141,9.0
+2008,Northeast,New Jersey,75+,10-20,--,58,10.3
+2008,Northeast,New York,Total,203,19.3,"1,378",9.2
+2008,Northeast,New York,18-34,18,24.3*,321,7.1
+2008,Northeast,New York,35-54,77,30.3,614,10.7
+2008,Northeast,New York,55-74,63,14.3,329,9.3
+2008,Northeast,New York,75+,45,16.0,114,9.0
+2008,Northeast,Pennsylvania,Total,279,27.3,"1,508",15.6
+2008,Northeast,Pennsylvania,18-34,22,33.3,371,14.0
+2008,Northeast,Pennsylvania,35-54,98,39.4,674,18.6
+2008,Northeast,Pennsylvania,55-74,104,23.7,343,14.2
+2008,Northeast,Pennsylvania,75+,55,20.4,120,12.2
+2008,Northeast,Rhode Island,Total,16,20.3*,107,13.1
+2008,Northeast,Rhode Island,18-34,<10,--,10-20,--
+2008,Northeast,Rhode Island,35-54,<10,--,62,20.1
+2008,Northeast,Rhode Island,55-74,<10,--,23,11.9
+2008,Northeast,Rhode Island,75+,<10,--,<10,--
+2008,Northeast,Vermont,Total,20,40.0,91,18.5
+2008,Northeast,Vermont,18-34,<10,--,10-20,--
+2008,Northeast,Vermont,35-54,<10,--,44,23.4
+2008,Northeast,Vermont,55-74,<10,--,23,17.7
+2008,Northeast,Vermont,75+,<10,--,<10,--
+2008,Midwest,All,Total,"1,303",25.7,"7,564",15.0
+2008,Midwest,All,18-34,119,30.2,"2,045",13.5
+2008,Midwest,All,35-54,466,33.7,"3,314",17.4
+2008,Midwest,All,55-74,439,20.4,"1,662",13.9
+2008,Midwest,All,75+,279,24.5,543,12.7
+2008,Midwest,Illinois,Total,186,23.5,"1,159",11.9
+2008,Midwest,Illinois,18-34,13,19.7*,281,9.2
+2008,Midwest,Illinois,35-54,67,33.2,506,13.7
+2008,Midwest,Illinois,55-74,67,19.9,294,13.5
+2008,Midwest,Illinois,75+,39,20.9,78,10.3
+2008,Midwest,Indiana,Total,173,34.9,777,16.2
+2008,Midwest,Indiana,18-34,13,36.1*,193,13.3
+2008,Midwest,Indiana,35-54,50,34.2,329,18.2
+2008,Midwest,Indiana,55-74,68,32.4,183,16.1
+2008,Midwest,Indiana,75+,42,40.4,72,18.5
+2008,Midwest,Iowa,Total,57,23.1,370,16.2
+2008,Midwest,Iowa,18-34,<10,--,104,15.4
+2008,Midwest,Iowa,35-54,25,41.0,160,19.4
+2008,Midwest,Iowa,55-74,15,14.2*,79,14.1
+2008,Midwest,Iowa,75+,10-20,--,27,11.7
+2008,Midwest,Kansas,Total,49,21.1,327,15.7
+2008,Midwest,Kansas,18-34,<10,--,115,17.8
+2008,Midwest,Kansas,35-54,22,33.8,125,16.3
+2008,Midwest,Kansas,55-74,13,14.0*,63,13.0
+2008,Midwest,Kansas,75+,10-20,--,24,12.9
+2008,Midwest,Michigan,Total,180,24.7,"1,141",15.0
+2008,Midwest,Michigan,18-34,18,39.1*,294,13.3
+2008,Midwest,Michigan,35-54,76,38.0,533,18.2
+2008,Midwest,Michigan,55-74,48,15.2,234,12.6
+2008,Midwest,Michigan,75+,38,22.8,80,12.9
+2008,Midwest,Minnesota,Total,92,23.4,578,14.6
+2008,Midwest,Minnesota,18-34,<10,--,160,13.3
+2008,Midwest,Minnesota,35-54,29,28.7,261,17.0
+2008,Midwest,Minnesota,55-74,30,17.2,110,12.1
+2008,Midwest,Minnesota,75+,20-30,--,47,14.7
+2008,Midwest,Missouri,Total,136,26.2,755,16.9
+2008,Midwest,Missouri,18-34,14,33.3*,216,16.3
+2008,Midwest,Missouri,35-54,44,30.3,321,19.3
+2008,Midwest,Missouri,55-74,48,21.8,152,13.9
+2008,Midwest,Missouri,75+,30,26.8,66,17.0
+2008,Midwest,Nebraska,Total,35,23.3,180,13.5
+2008,Midwest,Nebraska,18-34,<10,--,58,14.0
+2008,Midwest,Nebraska,35-54,15,38.5*,76,15.8
+2008,Midwest,Nebraska,55-74,13,21.0*,30-40,--
+2008,Midwest,Nebraska,75+,<10,--,<10,--
+2008,Midwest,North Dakota,Total,10,17.9*,83,16.8
+2008,Midwest,North Dakota,18-34,<10,--,28,17.4
+2008,Midwest,North Dakota,35-54,<10,--,32,19.3
+2008,Midwest,North Dakota,55-74,<10,--,20-30,--
+2008,Midwest,North Dakota,75+,<10,--,<10,--
+2008,Midwest,Ohio,Total,245,26.0,"1,351",15.5
+2008,Midwest,Ohio,18-34,30,42.3,367,14.5
+2008,Midwest,Ohio,35-54,86,31.9,606,18.3
+2008,Midwest,Ohio,55-74,81,20.7,291,13.6
+2008,Midwest,Ohio,75+,48,22.7,87,11.4
+2008,Midwest,South Dakota,Total,16,21.1*,113,18.8
+2008,Midwest,South Dakota,18-34,<10,--,43,24.1
+2008,Midwest,South Dakota,35-54,<10,--,43,20.0
+2008,Midwest,South Dakota,55-74,<10,--,20-30,--
+2008,Midwest,South Dakota,75+,<10,--,<10,--
+2008,Midwest,Wisconsin,Total,124,28.6,730,16.9
+2008,Midwest,Wisconsin,18-34,<10,--,186,14.7
+2008,Midwest,Wisconsin,35-54,45,39.5,322,19.6
+2008,Midwest,Wisconsin,55-74,45,23.4,176,17.2
+2008,Midwest,Wisconsin,75+,20-30,--,46,12.4
+2008,South,Alabama,Total,107,25.7,596,16.9
+2008,South,Alabama,18-34,13,35.1*,176,16.8
+2008,South,Alabama,35-54,35,27.6,241,18.7
+2008,South,Alabama,55-74,42,24.4,139,15.7
+2008,South,Alabama,75+,17,21.3*,40,13.6
+2008,South,All,Total,"2,507",27.2,"13,681",16.4
+2008,South,All,18-34,264,27.8,"3,500",13.8
+2008,South,All,35-54,792,28.1,"5,711",18.1
+2008,South,All,55-74,898,24.7,"3,274",16.4
+2008,South,All,75+,553,30.5,"1,196",17.9
+2008,South,Arkansas,Total,80,31.6,437,20.4
+2008,South,Arkansas,18-34,15,65.2*,136,21.2
+2008,South,Arkansas,35-54,18,25.4*,168,21.8
+2008,South,Arkansas,55-74,27,25.0,94,17.2
+2008,South,Arkansas,75+,20,39.2,39,20.7
+2008,South,Delaware,Total,15,19.0*,108,16.3
+2008,South,Delaware,18-34,<10,--,29,15.4
+2008,South,Delaware,35-54,<10,--,50,20.1
+2008,South,Delaware,55-74,<10,--,20-30,--
+2008,South,Delaware,75+,<10,--,<10,--
+2008,South,District Of Columbia,Total,<10,--,42,8.8
+2008,South,District Of Columbia,18-34,<10,--,10-20,--
+2008,South,District Of Columbia,35-54,<10,--,16,9.9*
+2008,South,District Of Columbia,55-74,<10,--,12,12.0*
+2008,South,District Of Columbia,75+,<10,--,<10,--
+2008,South,Florida,Total,537,31.3,"2,701",18.9
+2008,South,Florida,18-34,56,43.1,531,13.8
+2008,South,Florida,35-54,141,30.5,"1,115",21.9
+2008,South,Florida,55-74,198,30.4,729,19.8
+2008,South,Florida,75+,142,30.1,326,19.9
+2008,South,Georgia,Total,178,24.3,958,13.5
+2008,South,Georgia,18-34,15,18.8*,252,11.2
+2008,South,Georgia,35-54,65,24.8,398,14.0
+2008,South,Georgia,55-74,63,22.2,231,14.7
+2008,South,Georgia,75+,35,32.7,77,18.4
+2008,South,Kentucky,Total,112,32.8,591,18.2
+2008,South,Kentucky,18-34,<10,--,131,13.9
+2008,South,Kentucky,35-54,37,36.3,268,21.8
+2008,South,Kentucky,55-74,36,25.5,132,16.3
+2008,South,Kentucky,75+,30-40,--,60,23.5
+2008,South,Louisiana,Total,96,29.3,517,15.7
+2008,South,Louisiana,18-34,15,38.5*,161,15.4
+2008,South,Louisiana,35-54,25,26.0,209,17.2
+2008,South,Louisiana,55-74,39,30.2,115,14.7
+2008,South,Louisiana,75+,17,26.6*,32,12.9
+2008,South,Maryland,Total,87,19.5,494,11.6
+2008,South,Maryland,18-34,10,23.3*,127,10.1
+2008,South,Maryland,35-54,26,17.8,209,12.3
+2008,South,Maryland,55-74,27,15.7,105,10.5
+2008,South,Maryland,75+,24,27.9,53,16.9
+2008,South,Mississippi,Total,79,36.4,395,18.3
+2008,South,Mississippi,18-34,<10,--,112,16.6
+2008,South,Mississippi,35-54,23,33.8,144,18.2
+2008,South,Mississippi,55-74,27,32.1,104,19.9
+2008,South,Mississippi,75+,20-30,--,35,20.8
+2008,South,North Carolina,Total,197,25.2,"1,139",16.6
+2008,South,North Carolina,18-34,19,21.3*,301,14.8
+2008,South,North Carolina,35-54,63,25.6,491,18.5
+2008,South,North Carolina,55-74,67,21.5,250,14.9
+2008,South,North Carolina,75+,48,35.6,97,18.8
+2008,South,Oklahoma,Total,113,33.6,557,20.5
+2008,South,Oklahoma,18-34,16,42.1*,154,18.2
+2008,South,Oklahoma,35-54,40,41.7,241,24.8
+2008,South,Oklahoma,55-74,33,23.9,118,17.7
+2008,South,Oklahoma,75+,24,37.5,44,19.2
+2008,South,South Carolina,Total,103,25.1,548,16.2
+2008,South,South Carolina,18-34,<10,--,141,14.3
+2008,South,South Carolina,35-54,31,24.6,214,17.1
+2008,South,South Carolina,55-74,47,27.8,153,17.5
+2008,South,South Carolina,75+,10-20,--,40,15.0
+2008,South,Tennessee,Total,155,29.8,949,20.1
+2008,South,Tennessee,18-34,14,30.4*,219,15.9
+2008,South,Tennessee,35-54,59,37.1,415,23.3
+2008,South,Tennessee,55-74,64,28.7,261,22.0
+2008,South,Tennessee,75+,18,19.4*,54,14.6
+2008,South,Texas,Total,435,26.0,"2,476",14.2
+2008,South,Texas,18-34,41,20.1,715,12.1
+2008,South,Texas,35-54,153,29.9,"1,041",15.4
+2008,South,Texas,55-74,156,23.9,531,14.4
+2008,South,Texas,75+,85,28.1,189,16.7
+2008,South,Virginia,Total,161,21.0,915,15.7
+2008,South,Virginia,18-34,18,18.4*,238,13.8
+2008,South,Virginia,35-54,56,20.7,384,16.9
+2008,South,Virginia,55-74,49,17.5,215,15.4
+2008,South,Virginia,75+,38,31.7,78,18.5
+2008,South,West Virginia,Total,46,26.7,258,18.1
+2008,South,West Virginia,18-34,<10,--,65,16.8
+2008,South,West Virginia,35-54,16,36.4*,107,20.8
+2008,South,West Virginia,55-74,13,17.3*,62,15.9
+2008,South,West Virginia,75+,10-20,--,24,17.9
+2008,West,Alaska,Total,20,27.4,156,32.1
+2008,West,Alaska,18-34,<10,--,62,37.4
+2008,West,Alaska,35-54,<10,--,59,30.1
+2008,West,Alaska,55-74,<10,--,20-30,--
+2008,West,Alaska,75+,<10,--,<10,--
+2008,West,All,Total,"1,635",32.0,"8,963",17.1
+2008,West,All,18-34,121,24.2,"2,189",12.9
+2008,West,All,35-54,555,38.9,"3,738",18.8
+2008,West,All,55-74,590,28.1,"2,207",18.7
+2008,West,All,75+,369,34.1,829,21.3
+2008,West,Arizona,Total,185,33.2,939,19.7
+2008,West,Arizona,18-34,17,35.4*,223,14.8
+2008,West,Arizona,35-54,53,35.6,369,21.5
+2008,West,Arizona,55-74,65,28.6,245,21.8
+2008,West,Arizona,75+,50,37.3,102,24.4
+2008,West,California,Total,593,27.9,"3,695",13.6
+2008,West,California,18-34,40,18.9,818,9.1
+2008,West,California,35-54,179,31.8,"1,526",14.5
+2008,West,California,55-74,216,25.1,966,16.7
+2008,West,California,75+,158,32.2,385,19.4
+2008,West,Colorado,Total,167,40.2,779,21.0
+2008,West,Colorado,18-34,12,30.0*,199,16.8
+2008,West,Colorado,35-54,71,52.6,353,24.2
+2008,West,Colorado,55-74,49,28.8,167,20.2
+2008,West,Colorado,75+,35,50.0,60,25.9
+2008,West,Hawaii,Total,17,13.9*,130,13.5
+2008,West,Hawaii,18-34,<10,--,33,12.2
+2008,West,Hawaii,35-54,<10,--,59,17.0
+2008,West,Hawaii,55-74,<10,--,20-30,--
+2008,West,Hawaii,75+,<10,--,<10,--
+2008,West,Idaho,Total,55,42.0,238,21.5
+2008,West,Idaho,18-34,<10,--,51,14.3
+2008,West,Idaho,35-54,20,54.1,91,22.8
+2008,West,Idaho,55-74,21,37.5,65,24.6
+2008,West,Idaho,75+,10-20,--,31,36.3
+2008,West,Montana,Total,47,47.5,195,26.3
+2008,West,Montana,18-34,<10,--,67,31.7
+2008,West,Montana,35-54,10-20,--,68,25.4
+2008,West,Montana,55-74,18,40.9*,41,20.7
+2008,West,Montana,75+,13,68.4*,19,29.2*
+2008,West,Nevada,Total,127,53.8,522,27.2
+2008,West,Nevada,18-34,<10,--,115,19.4
+2008,West,Nevada,35-54,47,67.1,219,29.5
+2008,West,Nevada,55-74,53,51.5,143,30.8
+2008,West,Nevada,75+,20-30,--,45,36.2
+2008,West,New Mexico,Total,60,34.1,391,26.5
+2008,West,New Mexico,18-34,<10,--,110,23.9
+2008,West,New Mexico,35-54,22,44.0,170,32.2
+2008,West,New Mexico,55-74,15,20.5*,84,23.1
+2008,West,New Mexico,75+,10-20,--,27,22.3
+2008,West,Oregon,Total,118,33.8,556,19.0
+2008,West,Oregon,18-34,<10,--,123,14.2
+2008,West,Oregon,35-54,39,43.3,245,22.8
+2008,West,Oregon,55-74,47,30.1,143,19.4
+2008,West,Oregon,75+,20-30,--,45,18.6
+2008,West,Utah,Total,49,32.2,374,19.9
+2008,West,Utah,18-34,<10,--,134,17.5
+2008,West,Utah,35-54,19,51.4*,158,24.8
+2008,West,Utah,55-74,19,31.1*,70,19.6
+2008,West,Utah,75+,<10,--,12,10.5*
+2008,West,Washington,Total,167,26.6,869,17.6
+2008,West,Washington,18-34,12,19.0*,218,14.8
+2008,West,Washington,35-54,66,34.7,372,19.5
+2008,West,Washington,55-74,61,23.4,201,16.8
+2008,West,Washington,75+,28,24.8,78,21.4
+2008,West,Wyoming,Total,30,63.8,119,29.6
+2008,West,Wyoming,18-34,<10,--,36,28.7
+2008,West,Wyoming,35-54,11,84.6*,49,33.6
+2008,West,Wyoming,55-74,12,57.1*,20-30,--
+2008,West,Wyoming,75+,<10,--,<10,--
+2009, ,Total U.S.,Total,"6,175",27.3,"35,839",15.5
+2009, ,Total U.S.,18-34,553,26.4,"8,898",12.5
+2009, ,Total U.S.,35-54,"2,014",32.0,"15,275",17.8
+2009, ,Total U.S.,55-74,"2,147",23.0,"8,725",15.7
+2009, ,Total U.S.,75+,"1,459",29.6,"2,941",15.7
+2009,Northeast,All,Total,719,20.6,"4,875",11.4
+2009,Northeast,All,18-34,57,23.8,"1,097",8.9
+2009,Northeast,All,35-54,226,27.0,"2,199",13.6
+2009,Northeast,All,55-74,259,17.5,"1,186",11.2
+2009,Northeast,All,75+,176,18.8,393,10.4
+2009,Northeast,Connecticut,Total,35,15.2,310,11.5
+2009,Northeast,Connecticut,18-34,<10,--,77,10.3
+2009,Northeast,Connecticut,35-54,14,25.9*,139,13.3
+2009,Northeast,Connecticut,55-74,10,10.0*,69,10.3
+2009,Northeast,Connecticut,75+,<10,--,25,10.5
+2009,Northeast,Maine,Total,36,26.9,193,18.5
+2009,Northeast,Maine,18-34,<10,--,31,11.6
+2009,Northeast,Maine,35-54,<10,--,95,24.4
+2009,Northeast,Maine,55-74,16,27.6*,52,17.9
+2009,Northeast,Maine,75+,<10,--,15,15.5*
+2009,Northeast,Massachusetts,Total,78,19.1,522,10.1
+2009,Northeast,Massachusetts,18-34,<10,--,106,7.0
+2009,Northeast,Massachusetts,35-54,39,41.9,282,14.4
+2009,Northeast,Massachusetts,55-74,24,13.8,103,8.3
+2009,Northeast,Massachusetts,75+,10-20,--,31,7.0
+2009,Northeast,New Hampshire,Total,28,24.3,162,15.7
+2009,Northeast,New Hampshire,18-34,<10,--,42,15.1
+2009,Northeast,New Hampshire,35-54,<10,--,71,17.4
+2009,Northeast,New Hampshire,55-74,14,28.6*,40-50,--
+2009,Northeast,New Hampshire,75+,<10,--,<10,--
+2009,Northeast,New Jersey,Total,67,14.3,542,8.2
+2009,Northeast,New Jersey,18-34,<10,--,139,7.5
+2009,Northeast,New Jersey,35-54,20,19.6,245,9.4
+2009,Northeast,New Jersey,55-74,23,11.4,122,7.6
+2009,Northeast,New Jersey,75+,10-20,--,36,6.4
+2009,Northeast,New York,Total,184,18.2,"1,365",9.0
+2009,Northeast,New York,18-34,15,20.3*,322,7.1
+2009,Northeast,New York,35-54,57,23.4,598,10.6
+2009,Northeast,New York,55-74,66,15.6,331,9.1
+2009,Northeast,New York,75+,46,17.1,114,9.1
+2009,Northeast,Pennsylvania,Total,263,26.3,"1,583",16.1
+2009,Northeast,Pennsylvania,18-34,20,29.0,336,12.2
+2009,Northeast,Pennsylvania,35-54,73,30.4,690,19.3
+2009,Northeast,Pennsylvania,55-74,94,22.3,410,16.4
+2009,Northeast,Pennsylvania,75+,76,28.3,147,14.9
+2009,Northeast,Rhode Island,Total,16,21.3*,113,13.7
+2009,Northeast,Rhode Island,18-34,<10,--,28,11.6
+2009,Northeast,Rhode Island,35-54,<10,--,52,17.2
+2009,Northeast,Rhode Island,55-74,<10,--,20-30,--
+2009,Northeast,Rhode Island,75+,<10,--,<10,--
+2009,Northeast,Vermont,Total,12,24.0*,85,17.2
+2009,Northeast,Vermont,18-34,<10,--,10-20,--
+2009,Northeast,Vermont,35-54,<10,--,27,14.9
+2009,Northeast,Vermont,55-74,<10,--,34,25.5
+2009,Northeast,Vermont,75+,<10,--,<10,--
+2009,Midwest,All,Total,"1,290",25.9,"7,381",14.6
+2009,Midwest,All,18-34,101,25.5,"1,937",12.7
+2009,Midwest,All,35-54,424,32.0,"3,214",17.1
+2009,Midwest,All,55-74,431,20.3,"1,663",13.4
+2009,Midwest,All,75+,334,29.4,567,13.3
+2009,Midwest,Illinois,Total,167,21.4,"1,138",11.7
+2009,Midwest,Illinois,18-34,11,16.4*,298,9.7
+2009,Midwest,Illinois,35-54,50,25.5,496,13.6
+2009,Midwest,Illinois,55-74,56,16.8,245,10.9
+2009,Midwest,Illinois,75+,50,26.9,99,13.1
+2009,Midwest,Indiana,Total,132,27.3,806,16.7
+2009,Midwest,Indiana,18-34,<10,--,208,14.0
+2009,Midwest,Indiana,35-54,46,32.9,365,20.4
+2009,Midwest,Indiana,55-74,53,26.2,180,15.4
+2009,Midwest,Indiana,75+,20-30,--,53,13.6
+2009,Midwest,Iowa,Total,72,30.5,352,15.3
+2009,Midwest,Iowa,18-34,<10,--,108,15.6
+2009,Midwest,Iowa,35-54,25,42.4,135,16.7
+2009,Midwest,Iowa,55-74,23,23.7,78,13.7
+2009,Midwest,Iowa,75+,20-30,--,31,13.6
+2009,Midwest,Kansas,Total,69,29.7,374,17.8
+2009,Midwest,Kansas,18-34,12,48.0*,108,16.2
+2009,Midwest,Kansas,35-54,20,31.3,151,20.1
+2009,Midwest,Kansas,55-74,20,21.3,87,17.4
+2009,Midwest,Kansas,75+,17,34.7*,28,15.2
+2009,Midwest,Michigan,Total,204,28.7,"1,130",14.8
+2009,Midwest,Michigan,18-34,13,28.9*,256,11.7
+2009,Midwest,Michigan,35-54,62,32.6,502,17.5
+2009,Midwest,Michigan,55-74,66,21.3,278,14.4
+2009,Midwest,Michigan,75+,63,37.7,94,15.1
+2009,Midwest,Minnesota,Total,92,23.7,559,14.0
+2009,Midwest,Minnesota,18-34,<10,--,149,12.2
+2009,Midwest,Minnesota,35-54,33,34.7,253,16.8
+2009,Midwest,Minnesota,55-74,31,17.5,121,12.7
+2009,Midwest,Minnesota,75+,20-30,--,36,11.1
+2009,Midwest,Missouri,Total,155,30.8,834,18.4
+2009,Midwest,Missouri,18-34,11,25.6*,223,16.4
+2009,Midwest,Missouri,35-54,57,41.3,368,22.3
+2009,Midwest,Missouri,55-74,48,22.4,173,15.3
+2009,Midwest,Missouri,75+,39,36.1,70,17.9
+2009,Midwest,Nebraska,Total,38,25.3,166,12.4
+2009,Midwest,Nebraska,18-34,<10,--,49,11.4
+2009,Midwest,Nebraska,35-54,15,38.5*,61,12.9
+2009,Midwest,Nebraska,55-74,10,16.7*,40,12.6
+2009,Midwest,Nebraska,75+,10-20,--,16,13.0*
+2009,Midwest,North Dakota,Total,<10,--,86,17.2
+2009,Midwest,North Dakota,18-34,<10,--,39,23.6
+2009,Midwest,North Dakota,35-54,<10,--,36,21.8
+2009,Midwest,North Dakota,55-74,<10,--,<10,--
+2009,Midwest,North Dakota,75+,<10,--,<10,--
+2009,Midwest,Ohio,Total,202,21.7,"1,125",12.8
+2009,Midwest,Ohio,18-34,19,27.5*,274,10.7
+2009,Midwest,Ohio,35-54,64,24.6,501,15.3
+2009,Midwest,Ohio,55-74,70,17.8,272,12.3
+2009,Midwest,Ohio,75+,49,23.6,78,10.1
+2009,Midwest,South Dakota,Total,26,32.9,115,18.9
+2009,Midwest,South Dakota,18-34,<10,--,54,28.5
+2009,Midwest,South Dakota,35-54,<10,--,36,17.4
+2009,Midwest,South Dakota,55-74,<10,--,10-20,--
+2009,Midwest,South Dakota,75+,<10,--,<10,--
+2009,Midwest,Wisconsin,Total,124,29.3,696,16.0
+2009,Midwest,Wisconsin,18-34,10,33.3*,171,13.2
+2009,Midwest,Wisconsin,35-54,39,36.1,310,19.1
+2009,Midwest,Wisconsin,55-74,46,24.9,164,15.4
+2009,Midwest,Wisconsin,75+,29,29.0,51,13.8
+2009,South,Alabama,Total,142,35.0,653,18.3
+2009,South,Alabama,18-34,14,37.8*,145,13.5
+2009,South,Alabama,35-54,38,30.9,261,20.3
+2009,South,Alabama,55-74,55,32.9,185,20.4
+2009,South,Alabama,75+,35,44.3,62,21.0
+2009,South,All,Total,"2,513",27.5,"14,176",16.7
+2009,South,All,18-34,240,25.6,"3,558",13.6
+2009,South,All,35-54,839,30.5,"5,986",19.1
+2009,South,All,55-74,856,23.6,"3,466",16.9
+2009,South,All,75+,578,32.0,"1,166",17.3
+2009,South,Arkansas,Total,74,29.6,410,18.9
+2009,South,Arkansas,18-34,<10,--,114,17.4
+2009,South,Arkansas,35-54,27,38.0,171,22.2
+2009,South,Arkansas,55-74,22,21.4,92,16.5
+2009,South,Arkansas,75+,10-20,--,33,17.3
+2009,South,Delaware,Total,11,14.1*,105,15.6
+2009,South,Delaware,18-34,<10,--,26,13.2
+2009,South,Delaware,35-54,<10,--,49,20.0
+2009,South,Delaware,55-74,<10,--,20-30,--
+2009,South,Delaware,75+,<10,--,<10,--
+2009,South,District Of Columbia,Total,<10,--,27,5.6
+2009,South,District Of Columbia,18-34,<10,--,11,6.0*
+2009,South,District Of Columbia,35-54,<10,--,10,6.1*
+2009,South,District Of Columbia,55-74,<10,--,<10,--
+2009,South,District Of Columbia,75+,<10,--,<10,--
+2009,South,Florida,Total,525,31.4,"2,817",19.5
+2009,South,Florida,18-34,33,26.2,549,13.8
+2009,South,Florida,35-54,173,38.7,"1,164",23.0
+2009,South,Florida,55-74,167,26.0,761,20.3
+2009,South,Florida,75+,152,33.3,343,21.0
+2009,South,Georgia,Total,197,27.1,"1,101",15.4
+2009,South,Georgia,18-34,17,21.5*,274,11.8
+2009,South,Georgia,35-54,69,27.0,475,16.9
+2009,South,Georgia,55-74,70,24.6,266,16.5
+2009,South,Georgia,75+,41,37.6,86,20.0
+2009,South,Kentucky,Total,98,29.2,576,17.6
+2009,South,Kentucky,18-34,<10,--,157,16.1
+2009,South,Kentucky,35-54,30,30.0,231,19.0
+2009,South,Kentucky,55-74,35,25.0,145,17.5
+2009,South,Kentucky,75+,20-30,--,43,16.8
+2009,South,Louisiana,Total,84,25.8,472,14.1
+2009,South,Louisiana,18-34,13,34.2*,131,12.1
+2009,South,Louisiana,35-54,26,28.3,197,16.3
+2009,South,Louisiana,55-74,27,20.1,108,13.3
+2009,South,Louisiana,75+,18,29.0*,36,14.3
+2009,South,Maryland,Total,83,18.9,529,12.3
+2009,South,Maryland,18-34,<10,--,147,11.5
+2009,South,Maryland,35-54,27,19.1,222,13.2
+2009,South,Maryland,55-74,20-30,--,111,10.6
+2009,South,Maryland,75+,27,32.5,49,15.8
+2009,South,Mississippi,Total,66,30.0,371,17.1
+2009,South,Mississippi,18-34,<10,--,94,13.5
+2009,South,Mississippi,35-54,24,36.4,161,20.8
+2009,South,Mississippi,55-74,10-20,--,79,14.9
+2009,South,Mississippi,75+,21,48.8,37,21.5
+2009,South,North Carolina,Total,175,22.5,"1,139",16.3
+2009,South,North Carolina,18-34,24,27.0,286,13.6
+2009,South,North Carolina,35-54,64,26.6,500,19.0
+2009,South,North Carolina,55-74,62,20.3,275,15.9
+2009,South,North Carolina,75+,25,17.6,78,14.6
+2009,South,Oklahoma,Total,101,30.4,548,20.0
+2009,South,Oklahoma,18-34,<10,--,162,18.6
+2009,South,Oklahoma,35-54,35,38.0,233,24.4
+2009,South,Oklahoma,55-74,44,31.9,121,17.7
+2009,South,Oklahoma,75+,10-20,--,32,14.0
+2009,South,South Carolina,Total,117,28.4,605,17.6
+2009,South,South Carolina,18-34,13,31.7*,147,14.4
+2009,South,South Carolina,35-54,33,26.4,239,19.2
+2009,South,South Carolina,55-74,51,30.0,181,20.1
+2009,South,South Carolina,75+,20,26.3,38,13.8
+2009,South,Tennessee,Total,168,32.3,925,19.3
+2009,South,Tennessee,18-34,13,28.3*,229,16.1
+2009,South,Tennessee,35-54,52,34.0,408,23.0
+2009,South,Tennessee,55-74,62,28.2,219,18.0
+2009,South,Tennessee,75+,41,40.6,69,18.5
+2009,South,Texas,Total,447,27.0,"2,710",15.2
+2009,South,Texas,18-34,57,27.5,798,13.1
+2009,South,Texas,35-54,154,30.6,"1,144",17.0
+2009,South,Texas,55-74,145,22.3,590,15.4
+2009,South,Texas,75+,91,30.6,178,15.5
+2009,South,Virginia,Total,173,22.5,939,15.9
+2009,South,Virginia,18-34,14,14.7*,214,11.8
+2009,South,Virginia,35-54,66,24.7,432,19.2
+2009,South,Virginia,55-74,62,21.5,240,16.7
+2009,South,Virginia,75+,31,26.5,53,12.5
+2009,South,West Virginia,Total,48,29.4,249,17.4
+2009,South,West Virginia,18-34,<10,--,74,18.9
+2009,South,West Virginia,35-54,15,35.7*,89,17.6
+2009,South,West Virginia,55-74,10-20,--,62,15.5
+2009,South,West Virginia,75+,15,42.9*,24,17.9
+2009,West,Alaska,Total,29,39.2,137,27.4
+2009,West,Alaska,18-34,<10,--,59,33.7
+2009,West,Alaska,35-54,<10,--,48,24.7
+2009,West,Alaska,55-74,12,46.2*,20-30,--
+2009,West,Alaska,75+,<10,--,<10,--
+2009,West,All,Total,"1,653",33.0,"9,407",17.7
+2009,West,All,18-34,155,30.9,"2,306",13.4
+2009,West,All,35-54,525,38.2,"3,876",19.6
+2009,West,All,55-74,601,28.9,"2,410",19.8
+2009,West,All,75+,371,35.4,815,21.0
+2009,West,Arizona,Total,192,35.5,"1,033",21.3
+2009,West,Arizona,18-34,16,33.3*,250,16.1
+2009,West,Arizona,35-54,50,34.7,403,23.4
+2009,West,Arizona,55-74,64,29.1,260,22.5
+2009,West,Arizona,75+,62,48.1,120,29.1
+2009,West,California,Total,567,27.4,"3,724",13.6
+2009,West,California,18-34,51,24.1,790,8.8
+2009,West,California,35-54,175,32.5,"1,558",15.0
+2009,West,California,55-74,210,24.7,"1,034",17.2
+2009,West,California,75+,130,27.8,342,17.4
+2009,West,Colorado,Total,172,41.5,903,24.0
+2009,West,Colorado,18-34,15,37.5*,239,19.8
+2009,West,Colorado,35-54,60,46.2,393,27.1
+2009,West,Colorado,55-74,64,37.2,204,23.5
+2009,West,Colorado,75+,33,45.8,67,28.3
+2009,West,Hawaii,Total,22,18.0,170,17.7
+2009,West,Hawaii,18-34,<10,--,48,17.4
+2009,West,Hawaii,35-54,<10,--,66,19.4
+2009,West,Hawaii,55-74,<10,--,42,17.1
+2009,West,Hawaii,75+,<10,--,14,14.3*
+2009,West,Idaho,Total,57,44.5,295,26.3
+2009,West,Idaho,18-34,<10,--,63,17.2
+2009,West,Idaho,35-54,26,74.3,141,35.6
+2009,West,Idaho,55-74,17,30.9*,71,25.7
+2009,West,Idaho,75+,<10,--,20,24.1
+2009,West,Montana,Total,48,49.0,212,28.3
+2009,West,Montana,18-34,<10,--,63,28.8
+2009,West,Montana,35-54,11,42.3*,73,28.0
+2009,West,Montana,55-74,21,47.7,61,30.0
+2009,West,Montana,75+,10-20,--,15,22.5*
+2009,West,Nevada,Total,101,43.9,498,25.6
+2009,West,Nevada,18-34,<10,--,107,17.5
+2009,West,Nevada,35-54,31,46.3,208,28.3
+2009,West,Nevada,55-74,38,38.8,135,28.6
+2009,West,Nevada,75+,20-30,--,48,37.2
+2009,West,New Mexico,Total,76,43.7,363,24.4
+2009,West,New Mexico,18-34,11,78.6*,125,26.6
+2009,West,New Mexico,35-54,24,49.0,126,24.4
+2009,West,New Mexico,55-74,26,34.2,88,23.4
+2009,West,New Mexico,75+,15,42.9*,24,19.8
+2009,West,Oregon,Total,118,34.1,630,21.4
+2009,West,Oregon,18-34,<10,--,127,14.3
+2009,West,Oregon,35-54,32,36.8,271,25.8
+2009,West,Oregon,55-74,49,31.0,175,22.8
+2009,West,Oregon,75+,30-40,--,57,23.8
+2009,West,Utah,Total,62,41.6,433,22.7
+2009,West,Utah,18-34,<10,--,164,21.0
+2009,West,Utah,35-54,26,70.3,188,29.3
+2009,West,Utah,55-74,20,32.8,67,18.1
+2009,West,Utah,75+,<10,--,14,12.3*
+2009,West,Washington,Total,188,30.6,902,17.9
+2009,West,Washington,18-34,17,27.0*,237,15.3
+2009,West,Washington,35-54,63,34.1,357,18.9
+2009,West,Washington,55-74,67,25.9,225,18.2
+2009,West,Washington,75+,41,38.0,83,22.6
+2009,West,Wyoming,Total,21,45.7,107,26.1
+2009,West,Wyoming,18-34,<10,--,34,26.4
+2009,West,Wyoming,35-54,<10,--,44,29.9
+2009,West,Wyoming,55-74,<10,--,19,18.3*
+2009,West,Wyoming,75+,<10,--,10,32.7*
+2010, ,Total U.S.,Total,"6,165",27.5,"37,348",16.0
+2010, ,Total U.S.,18-34,588,28.0,"9,600",13.5
+2010, ,Total U.S.,35-54,"1,961",32.3,"15,370",17.9
+2010, ,Total U.S.,55-74,"2,200",23.5,"9,358",16.0
+2010, ,Total U.S.,75+,"1,415",29.0,"3,020",16.3
+2010,Northeast,All,Total,750,21.9,"5,272",12.3
+2010,Northeast,All,18-34,63,26.7,"1,303",10.5
+2010,Northeast,All,35-54,257,32.1,"2,290",14.4
+2010,Northeast,All,55-74,262,18.1,"1,287",11.8
+2010,Northeast,All,75+,168,18.0,392,10.3
+2010,Northeast,Connecticut,Total,47,20.8,350,12.7
+2010,Northeast,Connecticut,18-34,<10,--,84,11.3
+2010,Northeast,Connecticut,35-54,16,31.4*,154,14.6
+2010,Northeast,Connecticut,55-74,20,20.6,89,12.6
+2010,Northeast,Connecticut,75+,<10,--,23,9.2
+2010,Northeast,Maine,Total,43,32.1,179,17.0
+2010,Northeast,Maine,18-34,<10,--,41,15.8
+2010,Northeast,Maine,35-54,12,33.3*,81,20.9
+2010,Northeast,Maine,55-74,16,27.1*,40,13.1
+2010,Northeast,Maine,75+,10-20,--,17,17.3*
+2010,Northeast,Massachusetts,Total,86,21.2,584,11.4
+2010,Northeast,Massachusetts,18-34,10,38.5*,163,10.7
+2010,Northeast,Massachusetts,35-54,29,32.6,251,13.2
+2010,Northeast,Massachusetts,55-74,33,18.5,129,10.2
+2010,Northeast,Massachusetts,75+,14,12.4*,41,9.2
+2010,Northeast,New Hampshire,Total,33,28.4,191,18.5
+2010,Northeast,New Hampshire,18-34,<10,--,49,18.4
+2010,Northeast,New Hampshire,35-54,<10,--,73,18.1
+2010,Northeast,New Hampshire,55-74,16,30.8*,52,18.7
+2010,Northeast,New Hampshire,75+,<10,--,17,20.9*
+2010,Northeast,New Jersey,Total,77,16.9,700,10.4
+2010,Northeast,New Jersey,18-34,<10,--,151,8.1
+2010,Northeast,New Jersey,35-54,27,27.8,318,12.2
+2010,Northeast,New Jersey,55-74,27,14.3,177,10.6
+2010,Northeast,New Jersey,75+,10-20,--,54,9.4
+2010,Northeast,New York,Total,186,19.0,"1,512",10.0
+2010,Northeast,New York,18-34,18,24.3*,362,7.8
+2010,Northeast,New York,35-54,69,29.4,676,12.3
+2010,Northeast,New York,55-74,57,14.3,362,9.8
+2010,Northeast,New York,75+,42,15.6,112,8.9
+2010,Northeast,Pennsylvania,Total,246,24.9,"1,525",15.4
+2010,Northeast,Pennsylvania,18-34,19,28.4*,397,14.3
+2010,Northeast,Pennsylvania,35-54,81,34.9,629,17.8
+2010,Northeast,Pennsylvania,55-74,81,19.1,385,14.7
+2010,Northeast,Pennsylvania,75+,65,24.5,114,11.6
+2010,Northeast,Rhode Island,Total,14,19.2*,127,15.4
+2010,Northeast,Rhode Island,18-34,<10,--,28,11.5
+2010,Northeast,Rhode Island,35-54,<10,--,73,24.5
+2010,Northeast,Rhode Island,55-74,<10,--,20-30,--
+2010,Northeast,Rhode Island,75+,<10,--,<10,--
+2010,Northeast,Vermont,Total,18,39.1*,104,21.0
+2010,Northeast,Vermont,18-34,<10,--,28,20.8
+2010,Northeast,Vermont,35-54,<10,--,35,19.6
+2010,Northeast,Vermont,55-74,<10,--,28,19.9
+2010,Northeast,Vermont,75+,<10,--,13,31.2*
+2010,Midwest,All,Total,"1,324",27.0,"7,935",15.6
+2010,Midwest,All,18-34,120,30.6,"2,170",14.4
+2010,Midwest,All,35-54,446,35.1,"3,324",18.0
+2010,Midwest,All,55-74,436,20.8,"1,859",14.4
+2010,Midwest,All,75+,322,28.1,582,13.5
+2010,Midwest,Illinois,Total,164,21.5,"1,135",11.7
+2010,Midwest,Illinois,18-34,19,28.8*,288,9.5
+2010,Midwest,Illinois,35-54,55,29.4,484,13.5
+2010,Midwest,Illinois,55-74,47,14.7,275,11.8
+2010,Midwest,Illinois,75+,43,22.8,88,11.6
+2010,Midwest,Indiana,Total,129,27.0,842,17.3
+2010,Midwest,Indiana,18-34,<10,--,219,14.8
+2010,Midwest,Indiana,35-54,53,39.3,359,20.1
+2010,Midwest,Indiana,55-74,40,19.6,207,16.9
+2010,Midwest,Indiana,75+,20-30,--,57,14.7
+2010,Midwest,Iowa,Total,70,29.9,356,15.3
+2010,Midwest,Iowa,18-34,<10,--,90,13.1
+2010,Midwest,Iowa,35-54,25,44.6,155,19.3
+2010,Midwest,Iowa,55-74,24,23.8,86,14.3
+2010,Midwest,Iowa,75+,10-20,--,25,11.0
+2010,Midwest,Kansas,Total,64,27.8,384,18.1
+2010,Midwest,Kansas,18-34,<10,--,125,19.1
+2010,Midwest,Kansas,35-54,24,39.3,159,21.1
+2010,Midwest,Kansas,55-74,23,24.2,83,15.8
+2010,Midwest,Kansas,75+,<10,--,17,9.1*
+2010,Midwest,Michigan,Total,172,24.4,"1,216",16.1
+2010,Midwest,Michigan,18-34,15,34.9*,306,14.4
+2010,Midwest,Michigan,35-54,60,33.1,530,19.0
+2010,Midwest,Michigan,55-74,50,16.1,291,14.7
+2010,Midwest,Michigan,75+,47,27.6,89,14.0
+2010,Midwest,Minnesota,Total,89,23.4,583,14.5
+2010,Midwest,Minnesota,18-34,<10,--,174,14.3
+2010,Midwest,Minnesota,35-54,36,40.0,252,17.0
+2010,Midwest,Minnesota,55-74,29,17.2,121,12.2
+2010,Midwest,Minnesota,75+,10-20,--,36,11.0
+2010,Midwest,Missouri,Total,162,32.0,835,18.3
+2010,Midwest,Missouri,18-34,13,30.2*,226,16.7
+2010,Midwest,Missouri,35-54,43,32.1,343,21.0
+2010,Midwest,Missouri,55-74,57,26.4,184,15.6
+2010,Midwest,Missouri,75+,49,43.4,82,21.0
+2010,Midwest,Nebraska,Total,34,23.6,186,13.6
+2010,Midwest,Nebraska,18-34,<10,--,45,10.6
+2010,Midwest,Nebraska,35-54,11,28.9*,77,16.0
+2010,Midwest,Nebraska,55-74,12,20.3*,50,14.9
+2010,Midwest,Nebraska,75+,10-20,--,14,11.1*
+2010,Midwest,North Dakota,Total,22,40.0,97,18.7
+2010,Midwest,North Dakota,18-34,<10,--,34,20.4
+2010,Midwest,North Dakota,35-54,<10,--,36,20.9
+2010,Midwest,North Dakota,55-74,<10,--,20-30,--
+2010,Midwest,North Dakota,75+,<10,--,<10,--
+2010,Midwest,Ohio,Total,258,28.2,"1,411",16.0
+2010,Midwest,Ohio,18-34,28,41.2,415,16.6
+2010,Midwest,Ohio,35-54,82,33.1,566,17.6
+2010,Midwest,Ohio,55-74,86,22.1,327,14.1
+2010,Midwest,Ohio,75+,62,29.8,103,13.3
+2010,Midwest,South Dakota,Total,19,24.7*,128,21.0
+2010,Midwest,South Dakota,18-34,<10,--,45,24.6
+2010,Midwest,South Dakota,35-54,<10,--,51,24.0
+2010,Midwest,South Dakota,55-74,<10,--,20-30,--
+2010,Midwest,South Dakota,75+,<10,--,<10,--
+2010,Midwest,Wisconsin,Total,141,33.7,762,17.5
+2010,Midwest,Wisconsin,18-34,<10,--,203,16.0
+2010,Midwest,Wisconsin,35-54,43,41.3,312,19.5
+2010,Midwest,Wisconsin,55-74,56,30.9,187,16.9
+2010,Midwest,Wisconsin,75+,30-40,--,60,15.9
+2010,South,Alabama,Total,112,27.3,660,18.2
+2010,South,Alabama,18-34,13,33.3*,177,16.4
+2010,South,Alabama,35-54,27,22.9,266,20.4
+2010,South,Alabama,55-74,41,23.4,157,16.3
+2010,South,Alabama,75+,31,39.2,60,20.8
+2010,South,All,Total,"2,509",27.5,"14,444",16.7
+2010,South,All,18-34,264,27.8,"3,653",13.9
+2010,South,All,35-54,786,29.4,"5,971",18.8
+2010,South,All,55-74,896,24.0,"3,635",16.6
+2010,South,All,75+,563,32.0,"1,185",18.0
+2010,South,Arkansas,Total,80,32.3,437,19.8
+2010,South,Arkansas,18-34,<10,--,119,18.2
+2010,South,Arkansas,35-54,22,32.4,189,24.4
+2010,South,Arkansas,55-74,32,30.2,97,16.5
+2010,South,Arkansas,75+,20-30,--,32,17.3
+2010,South,Delaware,Total,14,19.4*,105,15.2
+2010,South,Delaware,18-34,<10,--,20-30,--
+2010,South,Delaware,35-54,<10,--,56,22.5
+2010,South,Delaware,55-74,<10,--,23,12.5
+2010,South,Delaware,75+,<10,--,<10,--
+2010,South,District Of Columbia,Total,<10,--,40,8.0
+2010,South,District Of Columbia,18-34,<10,--,<10,--
+2010,South,District Of Columbia,35-54,<10,--,24,15.4
+2010,South,District Of Columbia,55-74,<10,--,<10,--
+2010,South,District Of Columbia,75+,<10,--,<10,--
+2010,South,Florida,Total,540,32.5,"2,751",18.6
+2010,South,Florida,18-34,36,29.0,504,12.6
+2010,South,Florida,35-54,167,38.8,"1,096",21.2
+2010,South,Florida,55-74,188,27.6,822,20.1
+2010,South,Florida,75+,149,34.8,329,21.4
+2010,South,Georgia,Total,184,24.9,"1,102",15.4
+2010,South,Georgia,18-34,26,32.9,282,12.4
+2010,South,Georgia,35-54,52,20.6,450,16.2
+2010,South,Georgia,55-74,70,23.3,298,17.6
+2010,South,Georgia,75+,36,33.6,72,17.0
+2010,South,Kentucky,Total,108,32.9,616,18.7
+2010,South,Kentucky,18-34,12,37.5*,146,15.2
+2010,South,Kentucky,35-54,35,36.5,277,22.8
+2010,South,Kentucky,55-74,41,29.9,154,17.7
+2010,South,Kentucky,75+,20,31.7,39,15.4
+2010,South,Louisiana,Total,95,28.9,540,15.8
+2010,South,Louisiana,18-34,<10,--,159,14.6
+2010,South,Louisiana,35-54,20-30,--,213,17.5
+2010,South,Louisiana,55-74,34,25.2,124,14.5
+2010,South,Louisiana,75+,27,42.2,44,17.9
+2010,South,Maryland,Total,77,17.6,490,11.1
+2010,South,Maryland,18-34,<10,--,129,9.8
+2010,South,Maryland,35-54,27,19.6,203,12.1
+2010,South,Maryland,55-74,27,15.7,121,11.1
+2010,South,Maryland,75+,10-20,--,37,11.5
+2010,South,Mississippi,Total,71,32.4,380,17.2
+2010,South,Mississippi,18-34,10,40.0*,96,14.1
+2010,South,Mississippi,35-54,19,30.2*,157,19.8
+2010,South,Mississippi,55-74,23,25.8,97,17.1
+2010,South,Mississippi,75+,19,45.2*,30,18.1
+2010,South,North Carolina,Total,187,24.2,"1,151",16.0
+2010,South,North Carolina,18-34,17,18.7*,281,13.2
+2010,South,North Carolina,35-54,59,25.4,506,18.9
+2010,South,North Carolina,55-74,70,22.4,283,15.3
+2010,South,North Carolina,75+,41,29.9,81,15.1
+2010,South,Oklahoma,Total,112,33.7,598,21.3
+2010,South,Oklahoma,18-34,12,32.4*,180,20.6
+2010,South,Oklahoma,35-54,36,40.4,249,25.2
+2010,South,Oklahoma,55-74,47,32.9,141,19.5
+2010,South,Oklahoma,75+,17,27.0*,28,12.3
+2010,South,South Carolina,Total,111,26.7,621,17.6
+2010,South,South Carolina,18-34,13,31.7*,165,15.9
+2010,South,South Carolina,35-54,35,28.9,254,20.2
+2010,South,South Carolina,55-74,40,22.5,155,16.1
+2010,South,South Carolina,75+,23,30.7,47,18.1
+2010,South,Tennessee,Total,133,25.8,921,19.0
+2010,South,Tennessee,18-34,13,27.1*,267,18.8
+2010,South,Tennessee,35-54,52,34.9,382,21.5
+2010,South,Tennessee,55-74,44,19.6,215,16.8
+2010,South,Tennessee,75+,24,25.8,57,15.5
+2010,South,Texas,Total,474,28.5,"2,816",15.4
+2010,South,Texas,18-34,66,31.4,824,13.4
+2010,South,Texas,35-54,160,32.6,"1,136",16.5
+2010,South,Texas,55-74,154,23.1,643,15.7
+2010,South,Texas,75+,94,32.1,213,18.7
+2010,South,Virginia,Total,156,20.4,940,15.5
+2010,South,Virginia,18-34,18,18.4*,236,13.0
+2010,South,Virginia,35-54,51,19.5,404,17.6
+2010,South,Virginia,55-74,64,22.5,225,14.8
+2010,South,Virginia,75+,23,19.0,75,17.5
+2010,South,West Virginia,Total,49,29.3,276,18.8
+2010,South,West Virginia,18-34,<10,--,59,15.2
+2010,South,West Virginia,35-54,10-20,--,109,21.4
+2010,South,West Virginia,55-74,16,20.8*,75,17.4
+2010,South,West Virginia,75+,20,55.6,33,24.6
+2010,West,Alaska,Total,26,34.7,152,30.0
+2010,West,Alaska,18-34,<10,--,68,41.4
+2010,West,Alaska,35-54,<10,--,49,24.2
+2010,West,Alaska,55-74,12,42.9*,30-40,--
+2010,West,Alaska,75+,<10,--,<10,--
+2010,West,All,Total,"1,582",31.8,"9,697",18.0
+2010,West,All,18-34,141,27.7,"2,474",14.3
+2010,West,All,35-54,472,35.6,"3,785",19.2
+2010,West,All,55-74,606,28.7,"2,577",19.9
+2010,West,All,75+,362,34.9,861,22.2
+2010,West,Arizona,Total,189,35.2,"1,068",22.4
+2010,West,Arizona,18-34,15,31.3*,285,19.3
+2010,West,Arizona,35-54,64,45.7,412,24.8
+2010,West,Arizona,55-74,58,25.3,257,20.8
+2010,West,Arizona,75+,52,43.3,114,29.6
+2010,West,California,Total,539,26.5,"3,818",13.7
+2010,West,California,18-34,37,17.3,861,9.4
+2010,West,California,35-54,149,29.1,"1,477",14.2
+2010,West,California,55-74,209,24.8,"1,092",17.2
+2010,West,California,75+,143,30.5,388,19.6
+2010,West,Colorado,Total,139,33.4,839,22.1
+2010,West,Colorado,18-34,15,34.1*,232,19.4
+2010,West,Colorado,35-54,45,35.2,372,25.9
+2010,West,Colorado,55-74,58,33.7,191,20.9
+2010,West,Colorado,75+,21,29.2,44,18.3
+2010,West,Hawaii,Total,19,15.0*,203,19.8
+2010,West,Hawaii,18-34,<10,--,65,22.6
+2010,West,Hawaii,35-54,<10,--,84,23.2
+2010,West,Hawaii,55-74,<10,--,44,15.7
+2010,West,Hawaii,75+,<10,--,10,10.5*
+2010,West,Idaho,Total,58,45.0,278,24.4
+2010,West,Idaho,18-34,<10,--,70,19.3
+2010,West,Idaho,35-54,10-20,--,101,25.2
+2010,West,Idaho,55-74,22,38.6,81,27.8
+2010,West,Idaho,75+,15,55.6*,26,30.1
+2010,West,Montana,Total,52,51.5,218,28.5
+2010,West,Montana,18-34,<10,--,60,28.1
+2010,West,Montana,35-54,11,42.3*,67,25.5
+2010,West,Montana,55-74,22,48.9,69,31.0
+2010,West,Montana,75+,10-20,--,22,33.1
+2010,West,Nevada,Total,112,47.3,539,26.6
+2010,West,Nevada,18-34,<10,--,117,18.6
+2010,West,Nevada,35-54,33,50.0,205,27.1
+2010,West,Nevada,55-74,47,43.9,173,33.4
+2010,West,Nevada,75+,20-30,--,44,34.6
+2010,West,New Mexico,Total,66,37.9,394,25.6
+2010,West,New Mexico,18-34,<10,--,124,26.7
+2010,West,New Mexico,35-54,10-20,--,150,27.7
+2010,West,New Mexico,55-74,29,36.7,95,22.9
+2010,West,New Mexico,75+,17,50.0*,25,21.0
+2010,West,Oregon,Total,127,37.7,679,22.9
+2010,West,Oregon,18-34,<10,--,134,15.2
+2010,West,Oregon,35-54,39,47.0,286,27.6
+2010,West,Oregon,55-74,47,29.9,192,23.8
+2010,West,Oregon,75+,30-40,--,67,27.5
+2010,West,Utah,Total,62,41.9,451,23.8
+2010,West,Utah,18-34,<10,--,181,23.7
+2010,West,Utah,35-54,14,38.9*,154,24.0
+2010,West,Utah,55-74,27,43.5,94,24.7
+2010,West,Utah,75+,10-20,--,22,19.8
+2010,West,Washington,Total,166,27.1,932,18.2
+2010,West,Washington,18-34,20,31.3,240,15.4
+2010,West,Washington,35-54,58,32.4,382,20.3
+2010,West,Washington,55-74,59,22.6,226,17.4
+2010,West,Washington,75+,29,26.6,84,22.6
+2010,West,Wyoming,Total,27,57.4,126,29.6
+2010,West,Wyoming,18-34,<10,--,37,28.1
+2010,West,Wyoming,35-54,11,91.7*,46,30.7
+2010,West,Wyoming,55-74,<10,--,33,29.1
+2010,West,Wyoming,75+,<10,--,10,33.2*
+2011, ,Total U.S.,Total,"6,124",27.7,"38,379",16.2
+2011, ,Total U.S.,18-34,644,30.6,"10,080",14.0
+2011, ,Total U.S.,35-54,"1,916",32.8,"15,457",18.1
+2011, ,Total U.S.,55-74,"2,185",23.5,"9,700",16.0
+2011, ,Total U.S.,75+,"1,375",28.5,"3,142",16.6
+2011,Northeast,All,Total,785,23.5,"5,542",12.8
+2011,Northeast,All,18-34,61,25.6,"1,359",10.8
+2011,Northeast,All,35-54,253,33.4,"2,337",14.9
+2011,Northeast,All,55-74,273,19.3,"1,376",12.3
+2011,Northeast,All,75+,197,21.4,470,12.3
+2011,Northeast,Connecticut,Total,54,23.8,361,13.0
+2011,Northeast,Connecticut,18-34,<10,--,83,11.0
+2011,Northeast,Connecticut,35-54,19,38.8*,161,15.5
+2011,Northeast,Connecticut,55-74,19,19.4*,89,12.3
+2011,Northeast,Connecticut,75+,10-20,--,28,11.1
+2011,Northeast,Maine,Total,46,35.4,232,22.0
+2011,Northeast,Maine,18-34,<10,--,50,19.3
+2011,Northeast,Maine,35-54,10-20,--,95,24.9
+2011,Northeast,Maine,55-74,17,29.8*,59,18.7
+2011,Northeast,Maine,75+,15,51.7*,28,28.0
+2011,Northeast,Massachusetts,Total,70,18.2,567,11.0
+2011,Northeast,Massachusetts,18-34,<10,--,134,8.7
+2011,Northeast,Massachusetts,35-54,21,25.3,263,14.0
+2011,Northeast,Massachusetts,55-74,28,17.4,140,10.7
+2011,Northeast,Massachusetts,75+,10-20,--,30,6.7
+2011,Northeast,New Hampshire,Total,30,26.3,193,18.6
+2011,Northeast,New Hampshire,18-34,<10,--,41,15.2
+2011,Northeast,New Hampshire,35-54,<10,--,87,21.9
+2011,Northeast,New Hampshire,55-74,12,22.6*,53,18.4
+2011,Northeast,New Hampshire,75+,<10,--,12,14.5*
+2011,Northeast,New Jersey,Total,71,15.8,665,9.8
+2011,Northeast,New Jersey,18-34,<10,--,148,7.8
+2011,Northeast,New Jersey,35-54,10-20,--,279,10.8
+2011,Northeast,New Jersey,55-74,23,12.2,175,10.2
+2011,Northeast,New Jersey,75+,25,18.0,63,10.9
+2011,Northeast,New York,Total,216,22.9,"1,606",10.6
+2011,Northeast,New York,18-34,18,24.3*,433,9.3
+2011,Northeast,New York,35-54,74,33.5,645,11.9
+2011,Northeast,New York,55-74,75,19.3,392,10.4
+2011,Northeast,New York,75+,49,19.0,136,10.7
+2011,Northeast,Pennsylvania,Total,253,26.1,"1,705",17.1
+2011,Northeast,Pennsylvania,18-34,18,26.9*,420,15.0
+2011,Northeast,Pennsylvania,35-54,87,39.2,724,20.7
+2011,Northeast,Pennsylvania,55-74,78,18.7,406,15.1
+2011,Northeast,Pennsylvania,75+,70,26.8,155,15.8
+2011,Northeast,Rhode Island,Total,17,24.3*,97,11.7
+2011,Northeast,Rhode Island,18-34,<10,--,20-30,--
+2011,Northeast,Rhode Island,35-54,<10,--,42,14.4
+2011,Northeast,Rhode Island,55-74,<10,--,31,14.7
+2011,Northeast,Rhode Island,75+,<10,--,<10,--
+2011,Northeast,Vermont,Total,28,58.3,116,23.2
+2011,Northeast,Vermont,18-34,<10,--,30,22.1
+2011,Northeast,Vermont,35-54,<10,--,41,23.2
+2011,Northeast,Vermont,55-74,13,59.1*,31,21.3
+2011,Northeast,Vermont,75+,<10,--,14,33.4*
+2011,Midwest,All,Total,"1,258",26.2,"8,098",15.8
+2011,Midwest,All,18-34,121,30.8,"2,284",15.0
+2011,Midwest,All,35-54,398,32.9,"3,335",18.3
+2011,Midwest,All,55-74,433,20.8,"1,854",13.9
+2011,Midwest,All,75+,305,27.2,625,14.4
+2011,Midwest,Illinois,Total,154,20.7,"1,182",12.1
+2011,Midwest,Illinois,18-34,22,33.8,346,11.5
+2011,Midwest,Illinois,35-54,45,25.1,481,13.5
+2011,Midwest,Illinois,55-74,54,17.1,259,10.7
+2011,Midwest,Illinois,75+,33,18.0,96,12.5
+2011,Midwest,Indiana,Total,127,27.2,859,17.5
+2011,Midwest,Indiana,18-34,<10,--,242,16.2
+2011,Midwest,Indiana,35-54,41,32.3,376,21.3
+2011,Midwest,Indiana,55-74,46,22.9,179,14.1
+2011,Midwest,Indiana,75+,30-40,--,62,15.7
+2011,Midwest,Iowa,Total,75,32.5,403,17.2
+2011,Midwest,Iowa,18-34,<10,--,99,14.2
+2011,Midwest,Iowa,35-54,29,52.7,181,22.9
+2011,Midwest,Iowa,55-74,23,23.7,93,15.0
+2011,Midwest,Iowa,75+,10-20,--,30,13.1
+2011,Midwest,Kansas,Total,57,25.8,381,17.9
+2011,Midwest,Kansas,18-34,<10,--,118,17.9
+2011,Midwest,Kansas,35-54,16,27.6*,146,19.6
+2011,Midwest,Kansas,55-74,28,31.8,87,16.1
+2011,Midwest,Kansas,75+,<10,--,30,16.0
+2011,Midwest,Michigan,Total,187,27.4,"1,176",15.5
+2011,Midwest,Michigan,18-34,15,35.7*,321,14.9
+2011,Midwest,Michigan,35-54,68,40.0,491,18.0
+2011,Midwest,Michigan,55-74,50,16.3,263,12.8
+2011,Midwest,Michigan,75+,53,32.1,101,15.7
+2011,Midwest,Minnesota,Total,101,26.6,656,16.1
+2011,Midwest,Minnesota,18-34,<10,--,185,15.0
+2011,Midwest,Minnesota,35-54,35,40.7,252,17.1
+2011,Midwest,Minnesota,55-74,35,20.5,179,17.4
+2011,Midwest,Minnesota,75+,20-30,--,40,12.0
+2011,Midwest,Missouri,Total,136,27.3,908,19.8
+2011,Midwest,Missouri,18-34,11,25.0*,244,18.0
+2011,Midwest,Missouri,35-54,46,35.7,390,24.2
+2011,Midwest,Missouri,55-74,42,19.4,197,16.2
+2011,Midwest,Missouri,75+,37,33.9,77,19.6
+2011,Midwest,Nebraska,Total,39,26.7,187,13.6
+2011,Midwest,Nebraska,18-34,<10,--,53,12.4
+2011,Midwest,Nebraska,35-54,11,30.6*,72,15.2
+2011,Midwest,Nebraska,55-74,10-20,--,38,10.9
+2011,Midwest,Nebraska,75+,15,42.9*,24,19.3
+2011,Midwest,North Dakota,Total,21,36.2,99,18.8
+2011,Midwest,North Dakota,18-34,<10,--,20-30,--
+2011,Midwest,North Dakota,35-54,<10,--,39,23.0
+2011,Midwest,North Dakota,55-74,<10,--,30,22.3
+2011,Midwest,North Dakota,75+,<10,--,<10,--
+2011,Midwest,Ohio,Total,237,26.5,"1,411",16.0
+2011,Midwest,Ohio,18-34,29,43.9,391,15.5
+2011,Midwest,Ohio,35-54,68,28.8,572,18.1
+2011,Midwest,Ohio,55-74,81,20.8,348,14.6
+2011,Midwest,Ohio,75+,59,29.2,100,12.9
+2011,Midwest,South Dakota,Total,21,28.0,121,19.6
+2011,Midwest,South Dakota,18-34,<10,--,42,22.5
+2011,Midwest,South Dakota,35-54,<10,--,42,19.9
+2011,Midwest,South Dakota,55-74,11,36.7*,20-30,--
+2011,Midwest,South Dakota,75+,<10,--,<10,--
+2011,Midwest,Wisconsin,Total,103,25.0,715,16.3
+2011,Midwest,Wisconsin,18-34,10,31.3*,218,17.0
+2011,Midwest,Wisconsin,35-54,28,28.6,293,18.7
+2011,Midwest,Wisconsin,55-74,44,23.9,153,13.4
+2011,Midwest,Wisconsin,75+,21,21.4,51,13.4
+2011,South,Alabama,Total,119,29.5,641,17.5
+2011,South,Alabama,18-34,10,25.6*,187,17.2
+2011,South,Alabama,35-54,34,29.8,229,17.7
+2011,South,Alabama,55-74,47,27.0,172,17.4
+2011,South,Alabama,75+,28,36.8,53,18.1
+2011,South,All,Total,"2,514",27.9,"14,889",17.0
+2011,South,All,18-34,295,31.0,"3,848",14.4
+2011,South,All,35-54,778,30.0,"5,961",18.9
+2011,South,All,55-74,906,24.4,"3,875",17.2
+2011,South,All,75+,534,30.7,"1,205",17.8
+2011,South,Arkansas,Total,76,31.4,452,20.3
+2011,South,Arkansas,18-34,12,52.2*,118,17.8
+2011,South,Arkansas,35-54,27,42.2,208,27.1
+2011,South,Arkansas,55-74,25,24.0,100,16.6
+2011,South,Arkansas,75+,12,23.5*,26,13.7
+2011,South,Delaware,Total,15,20.0*,99,14.2
+2011,South,Delaware,18-34,<10,--,20-30,--
+2011,South,Delaware,35-54,<10,--,36,14.6
+2011,South,Delaware,55-74,<10,--,29,15.1
+2011,South,Delaware,75+,<10,--,<10,--
+2011,South,District Of Columbia,Total,<10,--,36,7.1
+2011,South,District Of Columbia,18-34,<10,--,13,6.0*
+2011,South,District Of Columbia,35-54,<10,--,13,8.2*
+2011,South,District Of Columbia,55-74,<10,--,<10,--
+2011,South,District Of Columbia,75+,<10,--,<10,--
+2011,South,Florida,Total,513,31.5,"2,827",18.8
+2011,South,Florida,18-34,44,35.5,563,13.8
+2011,South,Florida,35-54,151,36.5,"1,106",21.5
+2011,South,Florida,55-74,188,28.3,845,20.1
+2011,South,Florida,75+,130,30.7,313,19.8
+2011,South,Georgia,Total,185,25.5,"1,135",15.6
+2011,South,Georgia,18-34,25,30.9,304,13.2
+2011,South,Georgia,35-54,53,22.0,466,16.8
+2011,South,Georgia,55-74,72,24.2,286,16.3
+2011,South,Georgia,75+,35,32.7,79,18.2
+2011,South,Kentucky,Total,110,33.3,663,19.9
+2011,South,Kentucky,18-34,11,34.4*,173,17.7
+2011,South,Kentucky,35-54,35,37.6,276,22.9
+2011,South,Kentucky,55-74,44,30.8,170,19.0
+2011,South,Kentucky,75+,20,32.3,44,17.1
+2011,South,Louisiana,Total,73,22.5,554,16.1
+2011,South,Louisiana,18-34,<10,--,160,14.5
+2011,South,Louisiana,35-54,20-30,--,228,18.9
+2011,South,Louisiana,55-74,23,16.8,119,13.5
+2011,South,Louisiana,75+,22,36.7,47,18.8
+2011,South,Maryland,Total,84,19.4,543,12.2
+2011,South,Maryland,18-34,10,25.0*,142,10.7
+2011,South,Maryland,35-54,24,17.9,209,12.5
+2011,South,Maryland,55-74,30,17.3,135,12.0
+2011,South,Maryland,75+,20,23.3,57,17.3
+2011,South,Mississippi,Total,58,26.7,378,17.1
+2011,South,Mississippi,18-34,<10,--,105,15.4
+2011,South,Mississippi,35-54,10-20,--,139,17.7
+2011,South,Mississippi,55-74,19,21.1*,101,17.4
+2011,South,Mississippi,75+,19,46.3*,33,19.7
+2011,South,North Carolina,Total,184,23.9,"1,190",16.3
+2011,South,North Carolina,18-34,30,32.6,317,14.8
+2011,South,North Carolina,35-54,50,22.0,483,18.1
+2011,South,North Carolina,55-74,65,20.7,306,16.0
+2011,South,North Carolina,75+,39,28.3,84,15.3
+2011,South,Oklahoma,Total,120,36.0,676,23.8
+2011,South,Oklahoma,18-34,14,36.8*,196,22.1
+2011,South,Oklahoma,35-54,43,49.4,288,29.5
+2011,South,Oklahoma,55-74,39,27.3,147,19.7
+2011,South,Oklahoma,75+,24,36.9,45,19.7
+2011,South,South Carolina,Total,115,28.5,639,17.9
+2011,South,South Carolina,18-34,11,26.8*,170,16.2
+2011,South,South Carolina,35-54,42,35.3,245,19.6
+2011,South,South Carolina,55-74,42,24.6,173,17.4
+2011,South,South Carolina,75+,19,26.0*,51,18.9
+2011,South,Tennessee,Total,161,32.0,941,19.2
+2011,South,Tennessee,18-34,19,38.8*,227,15.8
+2011,South,Tennessee,35-54,43,30.3,385,21.9
+2011,South,Tennessee,55-74,67,30.3,267,20.2
+2011,South,Tennessee,75+,32,35.2,62,16.5
+2011,South,Texas,Total,473,28.5,"2,789",15.0
+2011,South,Texas,18-34,66,31.4,801,12.8
+2011,South,Texas,35-54,162,33.6,"1,121",16.2
+2011,South,Texas,55-74,157,23.2,677,15.8
+2011,South,Texas,75+,88,30.4,190,16.3
+2011,South,Virginia,Total,169,22.2,"1,025",16.7
+2011,South,Virginia,18-34,22,22.4,265,14.3
+2011,South,Virginia,35-54,56,21.8,405,17.8
+2011,South,Virginia,55-74,59,20.6,265,16.9
+2011,South,Virginia,75+,32,27.1,90,20.5
+2011,South,West Virginia,Total,56,35.0,301,20.5
+2011,South,West Virginia,18-34,<10,--,78,19.9
+2011,South,West Virginia,35-54,19,47.5*,124,24.7
+2011,South,West Virginia,55-74,19,26.4*,74,16.8
+2011,South,West Virginia,75+,10-20,--,25,18.6
+2011,West,Alaska,Total,18,23.7*,141,27.2
+2011,West,Alaska,18-34,<10,--,60,35.2
+2011,West,Alaska,35-54,<10,--,53,26.8
+2011,West,Alaska,55-74,<10,--,20-30,--
+2011,West,Alaska,75+,<10,--,<10,--
+2011,West,All,Total,"1,567",31.9,"9,850",18.0
+2011,West,All,18-34,167,32.6,"2,589",14.8
+2011,West,All,35-54,487,38.2,"3,824",19.4
+2011,West,All,55-74,573,27.5,"2,595",19.3
+2011,West,All,75+,339,32.4,842,21.2
+2011,West,Arizona,Total,197,36.8,"1,121",23.1
+2011,West,Arizona,18-34,24,51.1,293,19.5
+2011,West,Arizona,35-54,52,38.5,443,26.7
+2011,West,Arizona,55-74,75,32.9,283,22.1
+2011,West,Arizona,75+,46,36.8,102,25.6
+2011,West,California,Total,571,28.6,"3,904",13.8
+2011,West,California,18-34,64,30.0,944,10.2
+2011,West,California,35-54,172,35.1,"1,494",14.4
+2011,West,California,55-74,205,24.8,"1,082",16.4
+2011,West,California,75+,130,27.8,384,19.0
+2011,West,Colorado,Total,136,32.6,882,22.9
+2011,West,Colorado,18-34,15,34.1*,245,20.1
+2011,West,Colorado,35-54,52,42.3,371,25.9
+2011,West,Colorado,55-74,48,27.4,212,22.2
+2011,West,Colorado,75+,21,28.0,54,21.9
+2011,West,Hawaii,Total,23,18.9,175,16.9
+2011,West,Hawaii,18-34,<10,--,62,20.9
+2011,West,Hawaii,35-54,<10,--,57,16.0
+2011,West,Hawaii,55-74,10,22.7*,40-50,--
+2011,West,Hawaii,75+,<10,--,<10,--
+2011,West,Idaho,Total,56,44.4,266,23.0
+2011,West,Idaho,18-34,<10,--,68,18.7
+2011,West,Idaho,35-54,18,54.5*,117,29.3
+2011,West,Idaho,55-74,20,37.0,62,20.3
+2011,West,Idaho,75+,10-20,--,19,21.8*
+2011,West,Montana,Total,58,59.2,227,29.4
+2011,West,Montana,18-34,<10,--,65,29.5
+2011,West,Montana,35-54,16,64.0*,86,33.7
+2011,West,Montana,55-74,24,55.8,60,26.1
+2011,West,Montana,75+,10-20,--,16,23.9*
+2011,West,Nevada,Total,79,33.5,493,24.1
+2011,West,Nevada,18-34,<10,--,108,17.2
+2011,West,Nevada,35-54,25,39.1,191,25.3
+2011,West,Nevada,55-74,29,27.6,153,28.7
+2011,West,Nevada,75+,10-20,--,41,30.7
+2011,West,New Mexico,Total,68,39.8,400,25.7
+2011,West,New Mexico,18-34,<10,--,123,25.7
+2011,West,New Mexico,35-54,21,45.7,152,28.8
+2011,West,New Mexico,55-74,20,26.7,91,21.2
+2011,West,New Mexico,75+,10-20,--,34,28.2
+2011,West,Oregon,Total,130,38.7,638,21.2
+2011,West,Oregon,18-34,11,44.0*,160,17.9
+2011,West,Oregon,35-54,49,62.0,260,25.2
+2011,West,Oregon,55-74,42,26.6,161,19.3
+2011,West,Oregon,75+,28,37.8,57,23.1
+2011,West,Utah,Total,52,34.9,484,25.1
+2011,West,Utah,18-34,<10,--,159,20.8
+2011,West,Utah,35-54,18,51.4*,193,29.6
+2011,West,Utah,55-74,18,28.6*,105,26.3
+2011,West,Utah,75+,10-20,--,27,23.5
+2011,West,Washington,Total,156,25.8,992,19.1
+2011,West,Washington,18-34,16,25.0*,266,16.8
+2011,West,Washington,35-54,41,24.0,354,18.9
+2011,West,Washington,55-74,70,26.8,289,21.3
+2011,West,Washington,75+,29,26.6,83,22.0
+2011,West,Wyoming,Total,23,46.0,127,29.5
+2011,West,Wyoming,18-34,<10,--,36,26.7
+2011,West,Wyoming,35-54,10,83.3*,53,36.1
+2011,West,Wyoming,55-74,<10,--,27,22.9
+2011,West,Wyoming,75+,<10,--,11,35.5*
+2012, ,Total U.S.,Total,"6,087",27.9,"39,426",16.5
+2012, ,Total U.S.,18-34,685,32.3,"10,229",14.1
+2012, ,Total U.S.,35-54,"1,848",32.8,"15,620",18.4
+2012, ,Total U.S.,55-74,"2,174",23.6,"10,296",16.5
+2012, ,Total U.S.,75+,"1,377",28.6,"3,281",17.1
+2012,Northeast,All,Total,688,21.2,"5,469",12.5
+2012,Northeast,All,18-34,61,25.6,"1,361",10.7
+2012,Northeast,All,35-54,222,30.6,"2,279",14.7
+2012,Northeast,All,55-74,248,17.8,"1,428",12.4
+2012,Northeast,All,75+,157,17.6,401,10.4
+2012,Northeast,Connecticut,Total,39,18.2,357,12.8
+2012,Northeast,Connecticut,18-34,<10,--,75,9.8
+2012,Northeast,Connecticut,35-54,15,32.6*,166,16.2
+2012,Northeast,Connecticut,55-74,13,14.1*,94,12.5
+2012,Northeast,Connecticut,75+,<10,--,22,8.8
+2012,Northeast,Maine,Total,36,28.6,204,19.2
+2012,Northeast,Maine,18-34,<10,--,35,13.3
+2012,Northeast,Maine,35-54,14,43.8*,95,25.6
+2012,Northeast,Maine,55-74,11,19.6*,57,17.4
+2012,Northeast,Maine,75+,<10,--,17,16.9*
+2012,Northeast,Massachusetts,Total,63,16.4,587,11.2
+2012,Northeast,Massachusetts,18-34,<10,--,154,9.8
+2012,Northeast,Massachusetts,35-54,22,27.5,261,14.0
+2012,Northeast,Massachusetts,55-74,19,11.6*,139,10.2
+2012,Northeast,Massachusetts,75+,10-20,--,33,7.3
+2012,Northeast,New Hampshire,Total,31,27.9,195,18.7
+2012,Northeast,New Hampshire,18-34,<10,--,39,14.3
+2012,Northeast,New Hampshire,35-54,14,48.3*,94,24.2
+2012,Northeast,New Hampshire,55-74,<10,--,49,16.4
+2012,Northeast,New Hampshire,75+,<10,--,13,15.4*
+2012,Northeast,New Jersey,Total,65,14.9,670,9.8
+2012,Northeast,New Jersey,18-34,<10,--,178,9.3
+2012,Northeast,New Jersey,35-54,22,25.0,279,10.9
+2012,Northeast,New Jersey,55-74,20,10.8,168,9.5
+2012,Northeast,New Jersey,75+,10-20,--,45,7.8
+2012,Northeast,New York,Total,184,19.9,"1,662",10.9
+2012,Northeast,New York,18-34,19,25.7*,427,9.0
+2012,Northeast,New York,35-54,47,22.4,655,12.2
+2012,Northeast,New York,55-74,72,18.6,451,11.6
+2012,Northeast,New York,75+,46,18.3,129,10.1
+2012,Northeast,Pennsylvania,Total,251,26.8,"1,606",16.0
+2012,Northeast,Pennsylvania,18-34,19,28.4*,409,14.4
+2012,Northeast,Pennsylvania,35-54,82,38.5,644,18.8
+2012,Northeast,Pennsylvania,55-74,98,24.2,426,15.4
+2012,Northeast,Pennsylvania,75+,52,20.7,127,13.0
+2012,Northeast,Rhode Island,Total,12,16.9*,103,12.4
+2012,Northeast,Rhode Island,18-34,<10,--,24,9.7
+2012,Northeast,Rhode Island,35-54,<10,--,49,17.1
+2012,Northeast,Rhode Island,55-74,<10,--,20-30,--
+2012,Northeast,Rhode Island,75+,<10,--,<10,--
+2012,Northeast,Vermont,Total,<10,--,85,16.9
+2012,Northeast,Vermont,18-34,<10,--,20-30,--
+2012,Northeast,Vermont,35-54,<10,--,36,21.1
+2012,Northeast,Vermont,55-74,<10,--,22,14.6
+2012,Northeast,Vermont,75+,<10,--,<10,--
+2012,Midwest,All,Total,"1,297",27.6,"8,375",16.3
+2012,Midwest,All,18-34,153,38.7,"2,286",14.9
+2012,Midwest,All,35-54,402,34.6,"3,415",19.0
+2012,Midwest,All,55-74,433,21.2,"2,009",14.6
+2012,Midwest,All,75+,308,27.9,665,15.2
+2012,Midwest,Illinois,Total,172,23.7,"1,252",12.8
+2012,Midwest,Illinois,18-34,16,24.6*,309,10.2
+2012,Midwest,Illinois,35-54,54,31.6,535,15.2
+2012,Midwest,Illinois,55-74,54,17.5,303,12.2
+2012,Midwest,Illinois,75+,47,26.1,105,13.6
+2012,Midwest,Indiana,Total,145,31.6,912,18.4
+2012,Midwest,Indiana,18-34,20,52.6,241,16.1
+2012,Midwest,Indiana,35-54,63,51.6,389,22.3
+2012,Midwest,Indiana,55-74,37,18.6,217,16.6
+2012,Midwest,Indiana,75+,25,25.0,65,16.4
+2012,Midwest,Iowa,Total,53,23.6,364,15.5
+2012,Midwest,Iowa,18-34,<10,--,113,16.1
+2012,Midwest,Iowa,35-54,18,34.0*,151,19.3
+2012,Midwest,Iowa,55-74,16,17.0*,71,11.2
+2012,Midwest,Iowa,75+,10-20,--,29,12.6
+2012,Midwest,Kansas,Total,69,31.2,482,22.5
+2012,Midwest,Kansas,18-34,10,38.5*,150,22.4
+2012,Midwest,Kansas,35-54,19,33.3*,188,25.7
+2012,Midwest,Kansas,55-74,21,23.3,106,19.0
+2012,Midwest,Kansas,75+,19,39.6*,38,20.3
+2012,Midwest,Michigan,Total,163,24.4,"1,203",15.8
+2012,Midwest,Michigan,18-34,22,51.2,334,15.4
+2012,Midwest,Michigan,35-54,38,23.2,488,18.2
+2012,Midwest,Michigan,55-74,64,21.2,284,13.4
+2012,Midwest,Michigan,75+,39,24.4,97,15.0
+2012,Midwest,Minnesota,Total,112,30.3,626,15.3
+2012,Midwest,Minnesota,18-34,11,37.9*,154,12.5
+2012,Midwest,Minnesota,35-54,43,52.4,275,18.9
+2012,Midwest,Minnesota,55-74,36,21.6,159,14.9
+2012,Midwest,Minnesota,75+,22,23.9,38,11.2
+2012,Midwest,Missouri,Total,162,33.1,893,19.4
+2012,Midwest,Missouri,18-34,15,34.9*,253,18.5
+2012,Midwest,Missouri,35-54,42,34.1,345,21.8
+2012,Midwest,Missouri,55-74,60,27.8,220,17.6
+2012,Midwest,Missouri,75+,45,41.7,75,19.0
+2012,Midwest,Nebraska,Total,42,30.4,222,16.0
+2012,Midwest,Nebraska,18-34,<10,--,63,14.6
+2012,Midwest,Nebraska,35-54,11,30.6*,81,17.2
+2012,Midwest,Nebraska,55-74,<10,--,52,14.4
+2012,Midwest,Nebraska,75+,15,48.4*,26,20.9
+2012,Midwest,North Dakota,Total,16,27.6*,100,18.5
+2012,Midwest,North Dakota,18-34,<10,--,35,19.2
+2012,Midwest,North Dakota,35-54,<10,--,42,24.8
+2012,Midwest,North Dakota,55-74,<10,--,10-20,--
+2012,Midwest,North Dakota,75+,<10,--,<10,--
+2012,Midwest,Ohio,Total,248,28.6,"1,489",16.8
+2012,Midwest,Ohio,18-34,23,34.8,380,15.0
+2012,Midwest,Ohio,35-54,71,31.6,588,19.0
+2012,Midwest,Ohio,55-74,93,24.5,390,15.8
+2012,Midwest,Ohio,75+,61,31.0,131,16.8
+2012,Midwest,South Dakota,Total,20,27.4,135,21.5
+2012,Midwest,South Dakota,18-34,<10,--,45,23.2
+2012,Midwest,South Dakota,35-54,<10,--,51,24.9
+2012,Midwest,South Dakota,55-74,<10,--,30-40,--
+2012,Midwest,South Dakota,75+,<10,--,<10,--
+2012,Midwest,Wisconsin,Total,95,23.2,697,15.8
+2012,Midwest,Wisconsin,18-34,14,43.8*,209,16.2
+2012,Midwest,Wisconsin,35-54,31,32.6,282,18.2
+2012,Midwest,Wisconsin,55-74,34,18.8,159,13.4
+2012,Midwest,Wisconsin,75+,16,15.8*,47,12.2
+2012,South,Alabama,Total,117,29.5,703,19.1
+2012,South,Alabama,18-34,<10,--,160,14.7
+2012,South,Alabama,35-54,39,35.1,292,22.8
+2012,South,Alabama,55-74,47,27.5,196,19.3
+2012,South,Alabama,75+,20-30,--,55,18.6
+2012,South,All,Total,"2,520",28.1,"15,426",17.4
+2012,South,All,18-34,275,28.8,"3,916",14.5
+2012,South,All,35-54,737,29.2,"6,045",19.2
+2012,South,All,55-74,921,24.8,"4,121",17.6
+2012,South,All,75+,586,33.2,"1,344",19.5
+2012,South,Arkansas,Total,82,34.6,466,20.9
+2012,South,Arkansas,18-34,11,47.8*,126,19.0
+2012,South,Arkansas,35-54,23,36.5,180,23.6
+2012,South,Arkansas,55-74,34,33.3,124,20.1
+2012,South,Arkansas,75+,14,28.6*,36,19.1
+2012,South,Delaware,Total,18,23.7*,117,16.5
+2012,South,Delaware,18-34,<10,--,38,18.5
+2012,South,Delaware,35-54,<10,--,43,17.5
+2012,South,Delaware,55-74,<10,--,26,13.1
+2012,South,Delaware,75+,<10,--,10,16.7*
+2012,South,District Of Columbia,Total,<10,--,35,6.7
+2012,South,District Of Columbia,18-34,<10,--,12,5.5*
+2012,South,District Of Columbia,35-54,<10,--,10-20,--
+2012,South,District Of Columbia,55-74,<10,--,11,10.3*
+2012,South,District Of Columbia,75+,<10,--,<10,--
+2012,South,Florida,Total,512,31.7,"2,944",19.3
+2012,South,Florida,18-34,35,28.2,545,13.1
+2012,South,Florida,35-54,142,35.5,"1,141",22.2
+2012,South,Florida,55-74,191,28.6,906,20.8
+2012,South,Florida,75+,144,33.8,352,21.9
+2012,South,Georgia,Total,183,24.9,"1,136",15.4
+2012,South,Georgia,18-34,18,22.2*,312,13.4
+2012,South,Georgia,35-54,65,27.8,440,15.9
+2012,South,Georgia,55-74,64,21.0,303,16.7
+2012,South,Georgia,75+,36,31.6,81,17.8
+2012,South,Kentucky,Total,107,32.7,708,21.2
+2012,South,Kentucky,18-34,19,59.4*,199,20.4
+2012,South,Kentucky,35-54,28,31.1,282,23.6
+2012,South,Kentucky,55-74,38,27.0,174,18.9
+2012,South,Kentucky,75+,22,34.4,53,20.5
+2012,South,Louisiana,Total,75,23.2,548,15.8
+2012,South,Louisiana,18-34,10,25.0*,149,13.4
+2012,South,Louisiana,35-54,22,25.9,226,18.9
+2012,South,Louisiana,55-74,27,20.1,131,14.4
+2012,South,Louisiana,75+,16,25.0*,42,16.5
+2012,South,Maryland,Total,90,20.7,567,12.6
+2012,South,Maryland,18-34,<10,--,137,10.1
+2012,South,Maryland,35-54,25,18.9,228,13.7
+2012,South,Maryland,55-74,36,20.7,156,13.4
+2012,South,Maryland,75+,20-30,--,46,13.8
+2012,South,Mississippi,Total,64,30.2,402,18.1
+2012,South,Mississippi,18-34,<10,--,101,14.6
+2012,South,Mississippi,35-54,20,33.9,177,23.0
+2012,South,Mississippi,55-74,10-20,--,85,14.3
+2012,South,Mississippi,75+,20,50.0,39,22.8
+2012,South,North Carolina,Total,174,22.8,"1,251",16.9
+2012,South,North Carolina,18-34,16,17.2*,313,14.5
+2012,South,North Carolina,35-54,56,25.3,498,18.6
+2012,South,North Carolina,55-74,67,21.4,345,17.4
+2012,South,North Carolina,75+,35,25.7,95,16.9
+2012,South,Oklahoma,Total,105,32.1,638,22.3
+2012,South,Oklahoma,18-34,14,37.8*,205,23.0
+2012,South,Oklahoma,35-54,21,25.3,227,23.4
+2012,South,Oklahoma,55-74,43,29.9,157,20.5
+2012,South,Oklahoma,75+,27,42.9,49,21.1
+2012,South,South Carolina,Total,108,26.9,657,18.2
+2012,South,South Carolina,18-34,20,48.8,160,15.1
+2012,South,South Carolina,35-54,27,23.7,253,20.4
+2012,South,South Carolina,55-74,43,24.9,194,18.9
+2012,South,South Carolina,75+,18,24.3*,50,18.1
+2012,South,Tennessee,Total,161,32.2,957,19.4
+2012,South,Tennessee,18-34,15,30.6*,220,15.1
+2012,South,Tennessee,35-54,50,36.0,382,21.9
+2012,South,Tennessee,55-74,62,28.8,273,20.1
+2012,South,Tennessee,75+,34,35.1,82,21.4
+2012,South,Texas,Total,471,28.6,"2,943",15.5
+2012,South,Texas,18-34,66,31.4,874,13.7
+2012,South,Texas,35-54,132,27.8,"1,127",16.2
+2012,South,Texas,55-74,166,24.9,708,15.9
+2012,South,Texas,75+,107,36.1,234,19.6
+2012,South,Virginia,Total,183,24.0,"1,038",16.7
+2012,South,Virginia,18-34,19,19.6*,280,14.8
+2012,South,Virginia,35-54,54,21.4,409,18.0
+2012,South,Virginia,55-74,60,20.5,249,15.4
+2012,South,Virginia,75+,50,42.0,100,22.5
+2012,South,West Virginia,Total,65,40.1,316,21.5
+2012,South,West Virginia,18-34,<10,--,85,21.6
+2012,South,West Virginia,35-54,26,66.7,130,26.3
+2012,South,West Virginia,55-74,18,24.3*,83,18.5
+2012,South,West Virginia,75+,10-20,--,18,13.3*
+2012,West,Alaska,Total,21,28.0,162,30.7
+2012,West,Alaska,18-34,<10,--,73,41.3
+2012,West,Alaska,35-54,<10,--,58,29.6
+2012,West,Alaska,55-74,<10,--,20-30,--
+2012,West,Alaska,75+,<10,--,<10,--
+2012,West,All,Total,"1,582",32.6,"10,156",18.3
+2012,West,All,18-34,196,38.1,"2,666",15.0
+2012,West,All,35-54,487,39.6,"3,881",19.7
+2012,West,All,55-74,572,27.6,"2,738",19.6
+2012,West,All,75+,326,31.2,871,21.5
+2012,West,Arizona,Total,208,38.9,"1,123",22.8
+2012,West,Arizona,18-34,28,58.3,297,19.6
+2012,West,Arizona,35-54,66,49.6,404,24.3
+2012,West,Arizona,55-74,71,31.0,325,24.5
+2012,West,Arizona,75+,43,34.4,97,23.5
+2012,West,California,Total,528,26.9,"3,818",13.3
+2012,West,California,18-34,60,28.0,900,9.6
+2012,West,California,35-54,124,26.4,"1,424",13.7
+2012,West,California,55-74,201,24.5,"1,088",15.9
+2012,West,California,75+,142,30.9,406,19.7
+2012,West,Colorado,Total,159,38.4,"1,020",26.0
+2012,West,Colorado,18-34,31,68.9,294,23.6
+2012,West,Colorado,35-54,54,45.0,410,28.7
+2012,West,Colorado,55-74,54,31.2,263,26.3
+2012,West,Colorado,75+,20,26.3,53,21.0
+2012,West,Hawaii,Total,23,18.5,185,17.6
+2012,West,Hawaii,18-34,<10,--,51,16.6
+2012,West,Hawaii,35-54,<10,--,67,19.0
+2012,West,Hawaii,55-74,<10,--,54,18.4
+2012,West,Hawaii,75+,<10,--,13,13.2*
+2012,West,Idaho,Total,44,35.2,278,23.8
+2012,West,Idaho,18-34,<10,--,78,21.3
+2012,West,Idaho,35-54,18,54.5*,115,28.9
+2012,West,Idaho,55-74,15,27.3*,64,20.3
+2012,West,Idaho,75+,<10,--,21,23.9
+2012,West,Montana,Total,49,49.0,228,29.2
+2012,West,Montana,18-34,10-20,--,69,31.4
+2012,West,Montana,35-54,13,54.2*,76,29.8
+2012,West,Montana,55-74,17,38.6*,68,28.6
+2012,West,Montana,75+,<10,--,15,21.8*
+2012,West,Nevada,Total,92,39.3,519,24.9
+2012,West,Nevada,18-34,<10,--,108,16.8
+2012,West,Nevada,35-54,37,58.7,210,27.8
+2012,West,Nevada,55-74,32,30.8,169,30.6
+2012,West,Nevada,75+,10-20,--,32,23.3
+2012,West,New Mexico,Total,61,35.9,425,27.2
+2012,West,New Mexico,18-34,<10,--,117,24.4
+2012,West,New Mexico,35-54,21,48.8,171,32.8
+2012,West,New Mexico,55-74,23,30.3,102,23.4
+2012,West,New Mexico,75+,10-20,--,35,27.9
+2012,West,Oregon,Total,134,40.5,702,23.1
+2012,West,Oregon,18-34,10,40.0*,162,18.0
+2012,West,Oregon,35-54,48,64.0,289,28.2
+2012,West,Oregon,55-74,45,29.0,180,20.9
+2012,West,Oregon,75+,31,40.8,71,28.2
+2012,West,Utah,Total,62,43.1,528,26.9
+2012,West,Utah,18-34,<10,--,179,23.3
+2012,West,Utah,35-54,25,71.4,225,33.9
+2012,West,Utah,55-74,20,33.3,104,25.1
+2012,West,Utah,75+,<10,--,20,17.0
+2012,West,Washington,Total,171,28.5,"1,001",19.0
+2012,West,Washington,18-34,19,30.2*,283,17.7
+2012,West,Washington,35-54,54,32.7,369,19.7
+2012,West,Washington,55-74,69,26.6,264,18.7
+2012,West,Washington,75+,29,25.7,85,22.2
+2012,West,Wyoming,Total,30,63.8,167,38.2
+2012,West,Wyoming,18-34,<10,--,55,40.2
+2012,West,Wyoming,35-54,10,83.3*,63,43.0
+2012,West,Wyoming,55-74,12,57.1*,33,26.9
+2012,West,Wyoming,75+,<10,--,16,50.8*
+2013, ,Total U.S.,Total,"6,162",28.7,"39,894",16.5
+2013, ,Total U.S.,18-34,783,37.1,"10,372",14.1
+2013, ,Total U.S.,35-54,"1,745",32.0,"15,172",18.1
+2013, ,Total U.S.,55-74,"2,257",24.9,"10,929",16.9
+2013, ,Total U.S.,75+,"1,373",28.6,"3,421",17.6
+2013,Northeast,All,Total,732,23.3,"5,651",12.9
+2013,Northeast,All,18-34,71,30.0,"1,361",10.6
+2013,Northeast,All,35-54,219,32.0,"2,246",14.7
+2013,Northeast,All,55-74,259,19.4,"1,586",13.3
+2013,Northeast,All,75+,183,20.6,458,11.9
+2013,Northeast,Connecticut,Total,30,14.4,319,11.4
+2013,Northeast,Connecticut,18-34,<10,--,63,8.1
+2013,Northeast,Connecticut,35-54,13,30.2*,138,13.8
+2013,Northeast,Connecticut,55-74,<10,--,98,12.7
+2013,Northeast,Connecticut,75+,<10,--,20,8.0
+2013,Northeast,Maine,Total,45,36.6,238,22.3
+2013,Northeast,Maine,18-34,<10,--,53,20.1
+2013,Northeast,Maine,35-54,14,46.7*,94,26.0
+2013,Northeast,Maine,55-74,18,31.6*,67,19.8
+2013,Northeast,Maine,75+,10-20,--,24,23.4
+2013,Northeast,Massachusetts,Total,56,15.1,552,10.4
+2013,Northeast,Massachusetts,18-34,<10,--,158,9.9
+2013,Northeast,Massachusetts,35-54,21,28.0,223,12.1
+2013,Northeast,Massachusetts,55-74,20,12.7,144,10.3
+2013,Northeast,Massachusetts,75+,<10,--,27,6.0
+2013,Northeast,New Hampshire,Total,25,22.3,179,17.0
+2013,Northeast,New Hampshire,18-34,<10,--,40-50,--
+2013,Northeast,New Hampshire,35-54,<10,--,76,20.1
+2013,Northeast,New Hampshire,55-74,11,22.0*,56,18.1
+2013,Northeast,New Hampshire,75+,<10,--,<10,--
+2013,Northeast,New Jersey,Total,96,23.0,742,10.8
+2013,Northeast,New Jersey,18-34,<10,--,178,9.2
+2013,Northeast,New Jersey,35-54,28,34.1,296,11.7
+2013,Northeast,New Jersey,55-74,34,19.4,202,11.0
+2013,Northeast,New Jersey,75+,20-30,--,66,11.4
+2013,Northeast,New York,Total,180,20.3,"1,652",10.7
+2013,Northeast,New York,18-34,17,23.6*,421,8.8
+2013,Northeast,New York,35-54,48,24.1,623,11.7
+2013,Northeast,New York,55-74,59,16.2,474,11.8
+2013,Northeast,New York,75+,56,22.5,134,10.4
+2013,Northeast,Pennsylvania,Total,271,29.7,"1,732",17.2
+2013,Northeast,Pennsylvania,18-34,25,37.9,406,14.3
+2013,Northeast,Pennsylvania,35-54,78,38.4,691,20.5
+2013,Northeast,Pennsylvania,55-74,97,24.7,474,16.6
+2013,Northeast,Pennsylvania,75+,71,28.4,161,16.4
+2013,Northeast,Rhode Island,Total,16,22.5*,131,15.7
+2013,Northeast,Rhode Island,18-34,<10,--,27,10.7
+2013,Northeast,Rhode Island,35-54,<10,--,59,21.0
+2013,Northeast,Rhode Island,55-74,<10,--,33,14.6
+2013,Northeast,Rhode Island,75+,<10,--,12,15.6*
+2013,Northeast,Vermont,Total,13,27.7*,106,21.1
+2013,Northeast,Vermont,18-34,<10,--,10-20,--
+2013,Northeast,Vermont,35-54,<10,--,46,27.4
+2013,Northeast,Vermont,55-74,<10,--,38,24.5
+2013,Northeast,Vermont,75+,<10,--,<10,--
+2013,Midwest,All,Total,"1,304",28.3,"8,620",16.7
+2013,Midwest,All,18-34,174,43.7,"2,352",15.3
+2013,Midwest,All,35-54,386,34.7,"3,384",19.1
+2013,Midwest,All,55-74,460,23.0,"2,198",15.5
+2013,Midwest,All,75+,282,25.5,686,15.6
+2013,Midwest,Illinois,Total,164,23.2,"1,273",12.9
+2013,Midwest,Illinois,18-34,23,35.9,338,11.1
+2013,Midwest,Illinois,35-54,49,29.7,499,14.3
+2013,Midwest,Illinois,55-74,53,17.7,330,12.9
+2013,Midwest,Illinois,75+,39,21.9,106,13.6
+2013,Midwest,Indiana,Total,147,32.2,913,18.3
+2013,Midwest,Indiana,18-34,12,29.3*,261,17.3
+2013,Midwest,Indiana,35-54,53,45.7,360,20.8
+2013,Midwest,Indiana,55-74,55,27.5,225,16.7
+2013,Midwest,Indiana,75+,27,27.3,67,16.8
+2013,Midwest,Iowa,Total,64,28.6,431,18.2
+2013,Midwest,Iowa,18-34,12,60.0*,124,17.5
+2013,Midwest,Iowa,35-54,16,31.4*,170,21.9
+2013,Midwest,Iowa,55-74,15,16.3*,98,15.1
+2013,Midwest,Iowa,75+,21,34.4,39,16.9
+2013,Midwest,Kansas,Total,67,30.9,410,19.0
+2013,Midwest,Kansas,18-34,10,37.0*,108,16.0
+2013,Midwest,Kansas,35-54,14,25.0*,161,22.5
+2013,Midwest,Kansas,55-74,23,26.7,104,18.1
+2013,Midwest,Kansas,75+,20,41.7,37,19.5
+2013,Midwest,Michigan,Total,169,25.6,"1,232",16.1
+2013,Midwest,Michigan,18-34,28,65.1,322,14.7
+2013,Midwest,Michigan,35-54,53,34.2,500,19.0
+2013,Midwest,Michigan,55-74,55,18.4,309,14.1
+2013,Midwest,Michigan,75+,33,20.4,101,15.5
+2013,Midwest,Minnesota,Total,89,24.7,647,15.6
+2013,Midwest,Minnesota,18-34,11,36.7*,187,15.0
+2013,Midwest,Minnesota,35-54,33,42.3,240,16.7
+2013,Midwest,Minnesota,55-74,33,20.2,177,16.0
+2013,Midwest,Minnesota,75+,12,13.3*,43,12.6
+2013,Midwest,Missouri,Total,191,40.5,931,20.1
+2013,Midwest,Missouri,18-34,27,64.3,236,17.1
+2013,Midwest,Missouri,35-54,57,48.3,378,24.2
+2013,Midwest,Missouri,55-74,76,36.9,249,19.3
+2013,Midwest,Missouri,75+,31,29.2,68,17.0
+2013,Midwest,Nebraska,Total,34,25.2,213,15.2
+2013,Midwest,Nebraska,18-34,<10,--,57,13.0
+2013,Midwest,Nebraska,35-54,<10,--,80,17.1
+2013,Midwest,Nebraska,55-74,14,25.5*,52,14.1
+2013,Midwest,Nebraska,75+,10,32.3*,24,19.1
+2013,Midwest,North Dakota,Total,15,26.3*,122,21.9
+2013,Midwest,North Dakota,18-34,<10,--,56,29.2
+2013,Midwest,North Dakota,35-54,<10,--,37,21.6
+2013,Midwest,North Dakota,55-74,<10,--,20-30,--
+2013,Midwest,North Dakota,75+,<10,--,<10,--
+2013,Midwest,Ohio,Total,223,26.1,"1,492",16.7
+2013,Midwest,Ohio,18-34,24,36.4,395,15.4
+2013,Midwest,Ohio,35-54,64,29.9,574,18.8
+2013,Midwest,Ohio,55-74,79,21.2,394,15.6
+2013,Midwest,Ohio,75+,56,27.6,129,16.5
+2013,Midwest,South Dakota,Total,18,25.7*,131,20.7
+2013,Midwest,South Dakota,18-34,<10,--,42,21.7
+2013,Midwest,South Dakota,35-54,<10,--,57,27.7
+2013,Midwest,South Dakota,55-74,<10,--,20-30,--
+2013,Midwest,South Dakota,75+,<10,--,<10,--
+2013,Midwest,Wisconsin,Total,123,30.7,825,18.6
+2013,Midwest,Wisconsin,18-34,19,57.6*,226,17.5
+2013,Midwest,Wisconsin,35-54,34,37.4,328,21.5
+2013,Midwest,Wisconsin,55-74,40,22.9,210,17.1
+2013,Midwest,Wisconsin,75+,29,28.4,61,15.8
+2013,South,Alabama,Total,124,31.6,704,19.0
+2013,South,Alabama,18-34,17,43.6*,177,16.0
+2013,South,Alabama,35-54,31,28.7,258,20.4
+2013,South,Alabama,55-74,52,30.8,200,19.2
+2013,South,Alabama,75+,24,31.6,69,22.9
+2013,South,All,Total,"2,559",28.9,"15,451",17.2
+2013,South,All,18-34,362,38.1,"3,940",14.4
+2013,South,All,35-54,704,28.7,"5,873",18.7
+2013,South,All,55-74,952,25.9,"4,306",17.9
+2013,South,All,75+,540,30.7,"1,332",18.9
+2013,South,Arkansas,Total,92,38.7,498,22.2
+2013,South,Arkansas,18-34,16,66.7*,137,20.5
+2013,South,Arkansas,35-54,25,41.7,198,26.2
+2013,South,Arkansas,55-74,33,31.4,121,19.3
+2013,South,Arkansas,75+,18,36.7*,42,21.8
+2013,South,Delaware,Total,16,21.1*,118,16.4
+2013,South,Delaware,18-34,<10,--,29,13.9
+2013,South,Delaware,35-54,<10,--,45,18.6
+2013,South,Delaware,55-74,<10,--,32,15.4
+2013,South,Delaware,75+,<10,--,12,19.7*
+2013,South,District Of Columbia,Total,10,31.3*,38,7.1
+2013,South,District Of Columbia,18-34,<10,--,10-20,--
+2013,South,District Of Columbia,35-54,<10,--,15,9.1*
+2013,South,District Of Columbia,55-74,<10,--,12,11.0*
+2013,South,District Of Columbia,75+,<10,--,<10,--
+2013,South,Florida,Total,520,32.4,"2,877",18.6
+2013,South,Florida,18-34,45,36.9,547,13.0
+2013,South,Florida,35-54,133,34.4,"1,077",21.0
+2013,South,Florida,55-74,195,29.3,892,19.8
+2013,South,Florida,75+,147,34.3,361,21.8
+2013,South,Georgia,Total,174,24.3,"1,172",15.7
+2013,South,Georgia,18-34,30,37.5,328,14.0
+2013,South,Georgia,35-54,44,19.3,464,16.8
+2013,South,Georgia,55-74,74,25.1,311,16.5
+2013,South,Georgia,75+,26,23.0,69,14.9
+2013,South,Kentucky,Total,110,34.1,686,20.4
+2013,South,Kentucky,18-34,<10,--,189,19.2
+2013,South,Kentucky,35-54,38,44.2,266,22.6
+2013,South,Kentucky,55-74,37,26.4,183,19.4
+2013,South,Kentucky,75+,20-30,--,48,18.1
+2013,South,Louisiana,Total,85,27.6,560,16.0
+2013,South,Louisiana,18-34,12,30.8*,155,13.8
+2013,South,Louisiana,35-54,20,23.8,201,17.0
+2013,South,Louisiana,55-74,26,21.5,149,16.0
+2013,South,Louisiana,75+,27,42.2,55,21.5
+2013,South,Maryland,Total,78,18.5,553,12.1
+2013,South,Maryland,18-34,14,35.9*,163,12.0
+2013,South,Maryland,35-54,24,19.2,206,12.5
+2013,South,Maryland,55-74,26,15.1,142,11.8
+2013,South,Maryland,75+,14,16.3*,42,12.4
+2013,South,Mississippi,Total,47,22.4,377,16.8
+2013,South,Mississippi,18-34,<10,--,95,13.7
+2013,South,Mississippi,35-54,11,18.6*,158,20.6
+2013,South,Mississippi,55-74,18,20.7*,100,16.4
+2013,South,Mississippi,75+,10-20,--,24,13.8
+2013,South,North Carolina,Total,203,26.3,"1,249",16.7
+2013,South,North Carolina,18-34,29,31.2,294,13.4
+2013,South,North Carolina,35-54,63,29.4,504,19.0
+2013,South,North Carolina,55-74,74,23.1,360,17.6
+2013,South,North Carolina,75+,37,25.7,91,15.7
+2013,South,Oklahoma,Total,106,33.3,638,22.1
+2013,South,Oklahoma,18-34,18,48.6*,183,20.2
+2013,South,Oklahoma,35-54,25,30.5,239,24.8
+2013,South,Oklahoma,55-74,42,30.7,162,20.7
+2013,South,Oklahoma,75+,21,33.9,54,23.1
+2013,South,South Carolina,Total,122,30.5,677,18.5
+2013,South,South Carolina,18-34,21,50.0,173,16.0
+2013,South,South Carolina,35-54,37,33.3,240,19.3
+2013,South,South Carolina,55-74,41,23.8,212,20.0
+2013,South,South Carolina,75+,22,29.3,52,18.2
+2013,South,Tennessee,Total,166,32.7,"1,007",20.2
+2013,South,Tennessee,18-34,23,46.9,239,16.3
+2013,South,Tennessee,35-54,50,37.6,396,22.8
+2013,South,Tennessee,55-74,65,28.5,296,21.2
+2013,South,Tennessee,75+,28,28.6,76,19.6
+2013,South,Texas,Total,466,28.8,"2,942",15.2
+2013,South,Texas,18-34,87,41.0,883,13.6
+2013,South,Texas,35-54,130,27.8,"1,084",15.5
+2013,South,Texas,55-74,164,25.0,753,16.3
+2013,South,Texas,75+,85,30.0,222,18.2
+2013,South,Virginia,Total,175,23.4,"1,043",16.6
+2013,South,Virginia,18-34,27,28.4,276,14.4
+2013,South,Virginia,35-54,50,20.3,401,17.8
+2013,South,Virginia,55-74,62,21.2,275,16.4
+2013,South,Virginia,75+,36,31.6,91,20.1
+2013,South,West Virginia,Total,65,41.1,312,21.2
+2013,South,West Virginia,18-34,<10,--,62,15.9
+2013,South,West Virginia,35-54,15,39.5*,121,24.8
+2013,South,West Virginia,55-74,33,45.8,106,23.2
+2013,South,West Virginia,75+,10-20,--,23,16.8
+2013,West,Alaska,Total,19,25.7*,164,30.9
+2013,West,Alaska,18-34,<10,--,86,46.6
+2013,West,Alaska,35-54,<10,--,47,24.9
+2013,West,Alaska,55-74,<10,--,20-30,--
+2013,West,Alaska,75+,<10,--,<10,--
+2013,West,All,Total,"1,567",32.6,"10,172",18.1
+2013,West,All,18-34,176,34.3,"2,719",15.2
+2013,West,All,35-54,436,36.5,"3,669",18.7
+2013,West,All,55-74,586,28.5,"2,839",19.7
+2013,West,All,75+,368,35.1,945,22.8
+2013,West,Arizona,Total,221,41.1,"1,137",22.8
+2013,West,Arizona,18-34,23,47.9,282,18.4
+2013,West,Arizona,35-54,73,57.0,452,27.1
+2013,West,Arizona,55-74,77,33.5,286,20.9
+2013,West,Arizona,75+,48,36.4,117,27.3
+2013,West,California,Total,508,26.1,"3,928",13.5
+2013,West,California,18-34,50,23.6,963,10.2
+2013,West,California,35-54,119,26.4,"1,401",13.5
+2013,West,California,55-74,196,24.2,"1,132",16.0
+2013,West,California,75+,142,30.2,432,20.6
+2013,West,Colorado,Total,149,36.1,968,24.2
+2013,West,Colorado,18-34,19,40.4*,263,20.8
+2013,West,Colorado,35-54,47,39.8,377,26.4
+2013,West,Colorado,55-74,57,32.9,261,25.1
+2013,West,Colorado,75+,26,34.7,67,25.5
+2013,West,Hawaii,Total,27,21.6,168,16.0
+2013,West,Hawaii,18-34,<10,--,57,18.7
+2013,West,Hawaii,35-54,10,30.3*,60,17.3
+2013,West,Hawaii,55-74,12,24.5*,40-50,--
+2013,West,Hawaii,75+,<10,--,<10,--
+2013,West,Idaho,Total,53,41.1,296,25.0
+2013,West,Idaho,18-34,10,76.9*,86,23.6
+2013,West,Idaho,35-54,13,40.6*,106,26.6
+2013,West,Idaho,55-74,20,36.4,83,25.3
+2013,West,Idaho,75+,10,34.5*,21,22.8
+2013,West,Montana,Total,28,30.1,232,29.5
+2013,West,Montana,18-34,<10,--,73,32.4
+2013,West,Montana,35-54,<10,--,81,32.7
+2013,West,Montana,55-74,10,23.8*,60,24.7
+2013,West,Montana,75+,<10,--,18,25.6*
+2013,West,Nevada,Total,106,46.7,528,24.9
+2013,West,Nevada,18-34,18,78.3*,132,20.3
+2013,West,Nevada,35-54,35,58.3,190,25.2
+2013,West,Nevada,55-74,32,31.1,158,27.5
+2013,West,Nevada,75+,21,51.2,48,33.3
+2013,West,New Mexico,Total,66,39.5,413,26.3
+2013,West,New Mexico,18-34,<10,--,116,24.2
+2013,West,New Mexico,35-54,22,51.2,139,27.0
+2013,West,New Mexico,55-74,21,28.0,129,28.8
+2013,West,New Mexico,75+,10-20,--,29,22.8
+2013,West,Oregon,Total,135,42.5,669,21.8
+2013,West,Oregon,18-34,10,40.0*,161,17.9
+2013,West,Oregon,35-54,37,50.7,233,22.7
+2013,West,Oregon,55-74,50,33.6,202,22.7
+2013,West,Oregon,75+,38,53.5,73,28.9
+2013,West,Utah,Total,60,43.2,547,27.4
+2013,West,Utah,18-34,<10,--,185,24.0
+2013,West,Utah,35-54,17,50.0*,210,31.0
+2013,West,Utah,55-74,31,52.5,128,29.6
+2013,West,Utah,75+,10-20,--,24,20.1
+2013,West,Washington,Total,166,27.9,997,18.7
+2013,West,Washington,18-34,22,34.4,279,17.2
+2013,West,Washington,35-54,46,28.6,332,17.9
+2013,West,Washington,55-74,63,24.2,291,20.0
+2013,West,Washington,75+,35,31.8,95,24.1
+2013,West,Wyoming,Total,29,59.2,125,28.4
+2013,West,Wyoming,18-34,<10,--,36,26.0
+2013,West,Wyoming,35-54,<10,--,41,28.4
+2013,West,Wyoming,55-74,16,72.7*,38,30.0
+2013,West,Wyoming,75+,<10,--,10,32.3*
+2014, ,Total U.S.,Total,"6,314",30.0,"41,478",17.0
+2014, ,Total U.S.,18-34,750,36.3,"10,748",14.5
+2014, ,Total U.S.,35-54,"1,795",34.0,"15,489",18.5
+2014, ,Total U.S.,55-74,"2,354",26.2,"11,654",17.5
+2014, ,Total U.S.,75+,"1,411",30.0,"3,587",18.1
+2014,Northeast,All,Total,760,24.9,"5,815",13.2
+2014,Northeast,All,18-34,68,29.7,"1,424",11.0
+2014,Northeast,All,35-54,230,35.1,"2,281",15.1
+2014,Northeast,All,55-74,278,21.2,"1,675",13.7
+2014,Northeast,All,75+,184,21.4,435,11.2
+2014,Northeast,Connecticut,Total,40,19.6,373,13.3
+2014,Northeast,Connecticut,18-34,<10,--,69,8.8
+2014,Northeast,Connecticut,35-54,10-20,--,158,16.0
+2014,Northeast,Connecticut,55-74,15,17.2*,110,13.9
+2014,Northeast,Connecticut,75+,12,19.7*,36,14.4
+2014,Northeast,Maine,Total,50,41.0,212,19.8
+2014,Northeast,Maine,18-34,<10,--,58,22.0
+2014,Northeast,Maine,35-54,15,50.0*,76,21.3
+2014,Northeast,Maine,55-74,17,29.3*,57,16.4
+2014,Northeast,Maine,75+,10-20,--,21,20.5
+2014,Northeast,Massachusetts,Total,62,17.4,575,10.7
+2014,Northeast,Massachusetts,18-34,<10,--,146,9.0
+2014,Northeast,Massachusetts,35-54,10-20,--,235,12.9
+2014,Northeast,Massachusetts,55-74,19,12.4*,157,10.8
+2014,Northeast,Massachusetts,75+,20,19.0,37,8.2
+2014,Northeast,New Hampshire,Total,33,30.3,242,22.9
+2014,Northeast,New Hampshire,18-34,<10,--,76,27.0
+2014,Northeast,New Hampshire,35-54,12,44.4*,87,23.6
+2014,Northeast,New Hampshire,55-74,12,24.5*,63,19.6
+2014,Northeast,New Hampshire,75+,<10,--,16,18.5*
+2014,Northeast,New Jersey,Total,79,19.8,764,11.0
+2014,Northeast,New Jersey,18-34,12,41.4*,190,9.8
+2014,Northeast,New Jersey,35-54,19,24.7*,313,12.5
+2014,Northeast,New Jersey,55-74,24,14.2,200,10.6
+2014,Northeast,New Jersey,75+,24,19.5,61,10.5
+2014,Northeast,New York,Total,191,22.1,"1,649",10.6
+2014,Northeast,New York,18-34,21,30.0,432,9.0
+2014,Northeast,New York,35-54,61,32.1,639,12.1
+2014,Northeast,New York,55-74,68,18.8,467,11.4
+2014,Northeast,New York,75+,41,17.0,111,8.6
+2014,Northeast,Pennsylvania,Total,274,30.9,"1,777",17.6
+2014,Northeast,Pennsylvania,18-34,15,23.1*,392,13.7
+2014,Northeast,Pennsylvania,35-54,86,44.3,692,20.9
+2014,Northeast,Pennsylvania,55-74,112,29.3,553,18.9
+2014,Northeast,Pennsylvania,75+,61,24.7,140,14.3
+2014,Northeast,Rhode Island,Total,11,16.4*,107,12.7
+2014,Northeast,Rhode Island,18-34,<10,--,30-40,--
+2014,Northeast,Rhode Island,35-54,<10,--,41,14.7
+2014,Northeast,Rhode Island,55-74,<10,--,30,13.0
+2014,Northeast,Rhode Island,75+,<10,--,<10,--
+2014,Northeast,Vermont,Total,20,45.5,116,23.0
+2014,Northeast,Vermont,18-34,<10,--,30-40,--
+2014,Northeast,Vermont,35-54,<10,--,40,24.7
+2014,Northeast,Vermont,55-74,<10,--,38,23.9
+2014,Northeast,Vermont,75+,<10,--,<10,--
+2014,Midwest,All,Total,"1,308",29.0,"8,702",16.7
+2014,Midwest,All,18-34,168,42.6,"2,411",15.6
+2014,Midwest,All,35-54,401,37.4,"3,304",18.8
+2014,Midwest,All,55-74,470,23.8,"2,299",15.8
+2014,Midwest,All,75+,268,24.9,688,15.5
+2014,Midwest,Illinois,Total,172,25.0,"1,357",13.7
+2014,Midwest,Illinois,18-34,32,51.6,367,12.2
+2014,Midwest,Illinois,35-54,51,32.1,511,14.8
+2014,Midwest,Illinois,55-74,53,18.2,378,14.4
+2014,Midwest,Illinois,75+,36,20.5,101,12.9
+2014,Midwest,Indiana,Total,115,25.4,918,18.3
+2014,Midwest,Indiana,18-34,15,37.5*,273,18.1
+2014,Midwest,Indiana,35-54,31,27.4,350,20.4
+2014,Midwest,Indiana,55-74,43,21.6,225,16.4
+2014,Midwest,Indiana,75+,26,25.7,70,17.2
+2014,Midwest,Iowa,Total,65,30.4,393,16.5
+2014,Midwest,Iowa,18-34,<10,--,116,16.4
+2014,Midwest,Iowa,35-54,24,49.0,152,19.6
+2014,Midwest,Iowa,55-74,10-20,--,93,14.0
+2014,Midwest,Iowa,75+,19,35.8*,32,13.8
+2014,Midwest,Kansas,Total,65,30.7,441,20.4
+2014,Midwest,Kansas,18-34,10,38.5*,121,17.9
+2014,Midwest,Kansas,35-54,18,34.6*,166,23.4
+2014,Midwest,Kansas,55-74,21,24.1,113,19.2
+2014,Midwest,Kansas,75+,16,34.0*,41,21.5
+2014,Midwest,Michigan,Total,190,29.8,"1,300",16.9
+2014,Midwest,Michigan,18-34,35,81.4,370,16.8
+2014,Midwest,Michigan,35-54,64,43.0,479,18.5
+2014,Midwest,Michigan,55-74,63,21.6,350,15.6
+2014,Midwest,Michigan,75+,28,18.3,101,15.4
+2014,Midwest,Minnesota,Total,91,25.7,643,15.4
+2014,Midwest,Minnesota,18-34,<10,--,181,14.5
+2014,Midwest,Minnesota,35-54,27,36.5,241,16.9
+2014,Midwest,Minnesota,55-74,40,25.5,185,16.2
+2014,Midwest,Minnesota,75+,10-20,--,36,10.4
+2014,Midwest,Missouri,Total,179,38.3,979,21.0
+2014,Midwest,Missouri,18-34,19,45.2*,239,17.4
+2014,Midwest,Missouri,35-54,51,45.5,378,24.3
+2014,Midwest,Missouri,55-74,65,31.4,264,20.0
+2014,Midwest,Missouri,75+,43,40.6,98,24.2
+2014,Midwest,Nebraska,Total,46,33.1,237,16.8
+2014,Midwest,Nebraska,18-34,<10,--,81,18.4
+2014,Midwest,Nebraska,35-54,14,41.2*,82,17.7
+2014,Midwest,Nebraska,55-74,15,26.3*,48,12.6
+2014,Midwest,Nebraska,75+,10-20,--,26,20.7
+2014,Midwest,North Dakota,Total,18,31.6*,131,23.1
+2014,Midwest,North Dakota,18-34,<10,--,46,23.4
+2014,Midwest,North Dakota,35-54,<10,--,45,26.1
+2014,Midwest,North Dakota,55-74,<10,--,30-40,--
+2014,Midwest,North Dakota,75+,<10,--,<10,--
+2014,Midwest,Ohio,Total,230,27.7,"1,432",16.0
+2014,Midwest,Ohio,18-34,27,40.9,359,14.0
+2014,Midwest,Ohio,35-54,70,33.8,555,18.4
+2014,Midwest,Ohio,55-74,91,24.8,394,15.3
+2014,Midwest,Ohio,75+,42,22.0,124,15.6
+2014,Midwest,South Dakota,Total,22,30.6,135,21.1
+2014,Midwest,South Dakota,18-34,<10,--,50,25.5
+2014,Midwest,South Dakota,35-54,14,73.7*,54,26.6
+2014,Midwest,South Dakota,55-74,<10,--,20-30,--
+2014,Midwest,South Dakota,75+,<10,--,<10,--
+2014,Midwest,Wisconsin,Total,115,29.3,736,16.5
+2014,Midwest,Wisconsin,18-34,11,33.3*,208,16.1
+2014,Midwest,Wisconsin,35-54,28,32.2,291,19.3
+2014,Midwest,Wisconsin,55-74,49,28.2,191,15.1
+2014,Midwest,Wisconsin,75+,27,27.3,46,11.7
+2014,South,Alabama,Total,99,25.6,700,18.8
+2014,South,Alabama,18-34,15,39.5*,176,16.1
+2014,South,Alabama,35-54,32,30.5,280,22.3
+2014,South,Alabama,55-74,35,20.6,192,18.0
+2014,South,Alabama,75+,17,23.3*,52,16.7
+2014,South,All,Total,"2,513",28.8,"16,212",17.8
+2014,South,All,18-34,315,33.8,"4,139",15.0
+2014,South,All,35-54,703,29.3,"6,031",19.1
+2014,South,All,55-74,957,26.0,"4,639",18.7
+2014,South,All,75+,536,31.0,"1,403",19.4
+2014,South,Arkansas,Total,85,36.6,496,22.0
+2014,South,Arkansas,18-34,17,70.8*,134,20.1
+2014,South,Arkansas,35-54,17,29.3*,193,25.6
+2014,South,Arkansas,55-74,35,34.3,138,21.6
+2014,South,Arkansas,75+,16,33.3*,31,15.8
+2014,South,Delaware,Total,20,27.0,125,17.1
+2014,South,Delaware,18-34,<10,--,27,12.8
+2014,South,Delaware,35-54,<10,--,53,22.1
+2014,South,Delaware,55-74,<10,--,29,13.4
+2014,South,Delaware,75+,<10,--,16,25.7*
+2014,South,District Of Columbia,Total,<10,--,52,9.6
+2014,South,District Of Columbia,18-34,<10,--,10-20,--
+2014,South,District Of Columbia,35-54,<10,--,24,14.2
+2014,South,District Of Columbia,55-74,<10,--,13,11.7*
+2014,South,District Of Columbia,75+,<10,--,<10,--
+2014,South,Florida,Total,517,32.3,"2,974",18.8
+2014,South,Florida,18-34,41,33.6,606,14.2
+2014,South,Florida,35-54,130,34.7,"1,003",19.5
+2014,South,Florida,55-74,207,30.9,995,21.4
+2014,South,Florida,75+,139,32.0,370,21.7
+2014,South,Georgia,Total,164,23.1,"1,265",16.7
+2014,South,Georgia,18-34,19,24.1*,319,13.5
+2014,South,Georgia,35-54,58,26.5,516,18.7
+2014,South,Georgia,55-74,55,18.5,341,17.5
+2014,South,Georgia,75+,32,28.3,89,18.5
+2014,South,Kentucky,Total,123,39.9,715,21.1
+2014,South,Kentucky,18-34,16,51.6*,171,17.4
+2014,South,Kentucky,35-54,42,50.6,280,23.9
+2014,South,Kentucky,55-74,47,35.6,211,21.9
+2014,South,Kentucky,75+,18,29.0*,53,19.8
+2014,South,Louisiana,Total,93,30.7,655,18.6
+2014,South,Louisiana,18-34,15,39.5*,185,16.4
+2014,South,Louisiana,35-54,16,19.5*,241,20.5
+2014,South,Louisiana,55-74,40,31.7,182,19.0
+2014,South,Louisiana,75+,22,38.6,47,18.2
+2014,South,Maryland,Total,77,19.0,590,12.8
+2014,South,Maryland,18-34,<10,--,139,10.1
+2014,South,Maryland,35-54,21,17.6,219,13.3
+2014,South,Maryland,55-74,27,16.4,165,13.3
+2014,South,Maryland,75+,20-30,--,67,19.5
+2014,South,Mississippi,Total,61,29.5,373,16.6
+2014,South,Mississippi,18-34,<10,--,108,15.7
+2014,South,Mississippi,35-54,10-20,--,131,17.1
+2014,South,Mississippi,55-74,26,31.0,105,16.9
+2014,South,Mississippi,75+,14,34.1*,29,16.1
+2014,South,North Carolina,Total,190,25.2,"1,306",17.2
+2014,South,North Carolina,18-34,22,24.4,330,15.0
+2014,South,North Carolina,35-54,62,29.7,465,17.4
+2014,South,North Carolina,55-74,75,23.7,411,19.5
+2014,South,North Carolina,75+,31,22.6,100,16.9
+2014,South,Oklahoma,Total,124,39.7,707,24.3
+2014,South,Oklahoma,18-34,21,56.8,203,22.3
+2014,South,Oklahoma,35-54,36,44.4,278,28.9
+2014,South,Oklahoma,55-74,49,36.8,177,22.2
+2014,South,Oklahoma,75+,18,29.5*,49,20.5
+2014,South,South Carolina,Total,111,27.5,727,19.5
+2014,South,South Carolina,18-34,14,32.6*,176,16.3
+2014,South,South Carolina,35-54,24,22.4,278,22.3
+2014,South,South Carolina,55-74,41,22.9,207,18.8
+2014,South,South Carolina,75+,32,42.7,66,22.6
+2014,South,Tennessee,Total,143,29.2,970,19.2
+2014,South,Tennessee,18-34,13,27.7*,230,15.6
+2014,South,Tennessee,35-54,42,33.1,394,22.7
+2014,South,Tennessee,55-74,54,24.4,268,18.7
+2014,South,Tennessee,75+,32,33.7,78,19.6
+2014,South,Texas,Total,469,29.0,"3,127",15.8
+2014,South,Texas,18-34,74,35.4,946,14.4
+2014,South,Texas,35-54,131,28.1,"1,176",16.6
+2014,South,Texas,55-74,172,25.9,770,16.1
+2014,South,Texas,75+,92,33.0,235,18.6
+2014,South,Virginia,Total,171,22.9,"1,084",17.1
+2014,South,Virginia,18-34,25,28.1,290,15.0
+2014,South,Virginia,35-54,54,22.5,385,17.2
+2014,South,Virginia,55-74,59,19.8,320,18.6
+2014,South,Virginia,75+,33,27.7,89,19.0
+2014,South,West Virginia,Total,62,40.5,346,23.6
+2014,South,West Virginia,18-34,<10,--,88,22.6
+2014,South,West Virginia,35-54,15,39.5*,115,24.0
+2014,South,West Virginia,55-74,28,39.4,115,25.0
+2014,South,West Virginia,75+,10-20,--,28,20.2
+2014,West,Alaska,Total,31,40.8,160,30.0
+2014,West,Alaska,18-34,<10,--,76,41.2
+2014,West,Alaska,35-54,11,45.8*,53,28.4
+2014,West,Alaska,55-74,10,32.3*,20-30,--
+2014,West,Alaska,75+,<10,--,<10,--
+2014,West,All,Total,"1,733",36.7,"10,749",18.8
+2014,West,All,18-34,199,39.8,"2,774",15.3
+2014,West,All,35-54,461,39.8,"3,873",19.7
+2014,West,All,55-74,649,31.9,"3,041",20.3
+2014,West,All,75+,423,41.0,"1,061",24.9
+2014,West,Arizona,Total,240,45.5,"1,207",23.7
+2014,West,Arizona,18-34,27,57.4,307,19.7
+2014,West,Arizona,35-54,71,57.3,417,24.9
+2014,West,Arizona,55-74,87,38.3,367,25.9
+2014,West,Arizona,75+,55,42.6,116,25.9
+2014,West,California,Total,603,32.1,"4,127",14.0
+2014,West,California,18-34,64,31.4,963,10.0
+2014,West,California,35-54,143,32.6,"1,484",14.3
+2014,West,California,55-74,227,28.8,"1,214",16.5
+2014,West,California,75+,168,37.7,466,21.6
+2014,West,Colorado,Total,168,41.0,"1,042",25.5
+2014,West,Colorado,18-34,16,34.8*,284,21.9
+2014,West,Colorado,35-54,53,46.1,400,28.0
+2014,West,Colorado,55-74,63,36.6,273,25.3
+2014,West,Colorado,75+,36,46.8,85,31.5
+2014,West,Hawaii,Total,22,18.0,197,18.4
+2014,West,Hawaii,18-34,<10,--,61,19.3
+2014,West,Hawaii,35-54,<10,--,66,19.0
+2014,West,Hawaii,55-74,<10,--,53,17.2
+2014,West,Hawaii,75+,<10,--,17,16.8*
+2014,West,Idaho,Total,46,35.7,302,25.2
+2014,West,Idaho,18-34,<10,--,82,22.3
+2014,West,Idaho,35-54,10-20,--,118,29.7
+2014,West,Idaho,55-74,11,19.0*,74,21.7
+2014,West,Idaho,75+,18,69.2*,28,29.8
+2014,West,Montana,Total,46,49.5,240,30.2
+2014,West,Montana,18-34,<10,--,57,24.9
+2014,West,Montana,35-54,12,52.2*,88,35.9
+2014,West,Montana,55-74,19,46.3*,71,28.4
+2014,West,Montana,75+,10-20,--,24,33.9
+2014,West,Nevada,Total,100,44.6,561,25.9
+2014,West,Nevada,18-34,12,57.1*,135,20.5
+2014,West,Nevada,35-54,24,42.1,195,25.5
+2014,West,Nevada,55-74,43,41.3,164,27.5
+2014,West,Nevada,75+,21,50.0,67,44.6
+2014,West,New Mexico,Total,81,48.8,434,27.5
+2014,West,New Mexico,18-34,<10,--,132,27.5
+2014,West,New Mexico,35-54,10-20,--,130,25.6
+2014,West,New Mexico,55-74,34,44.2,124,27.2
+2014,West,New Mexico,75+,20,58.8,48,36.3
+2014,West,Oregon,Total,130,40.1,758,24.4
+2014,West,Oregon,18-34,13,50.0*,182,20.1
+2014,West,Oregon,35-54,32,45.1,262,25.5
+2014,West,Oregon,55-74,53,34.4,230,25.0
+2014,West,Oregon,75+,32,43.8,84,32.5
+2014,West,Utah,Total,70,50.4,524,25.8
+2014,West,Utah,18-34,10,62.5*,172,22.4
+2014,West,Utah,35-54,22,62.9,205,29.5
+2014,West,Utah,55-74,18,31.6*,111,24.7
+2014,West,Utah,75+,20,64.5,36,29.4
+2014,West,Washington,Total,174,29.4,"1,085",20.1
+2014,West,Washington,18-34,25,40.3,289,17.5
+2014,West,Washington,35-54,52,33.1,413,22.2
+2014,West,Washington,55-74,67,26.1,304,20.2
+2014,West,Washington,75+,30,25.9,79,19.7
+2014,West,Wyoming,Total,22,47.8,112,25.2
+2014,West,Wyoming,18-34,<10,--,34,24.4
+2014,West,Wyoming,35-54,<10,--,42,29.3
+2014,West,Wyoming,55-74,<10,--,20-30,--
+2014,West,Wyoming,75+,<10,--,<10,--
+2015, ,Total U.S.,Total,"6,281",30.5,"42,790",17.3
+2015, ,Total U.S.,18-34,812,40.4,"11,452",15.4
+2015, ,Total U.S.,35-54,"1,796",35.1,"15,687",18.7
+2015, ,Total U.S.,55-74,"2,352",26.5,"11,940",17.4
+2015, ,Total U.S.,75+,"1,319",28.8,"3,711",18.4
+2015,Northeast,All,Total,697,23.4,"5,912",13.3
+2015,Northeast,All,18-34,81,34.6,"1,420",11.0
+2015,Northeast,All,35-54,199,31.5,"2,254",15.1
+2015,Northeast,All,55-74,260,20.2,"1,775",14.2
+2015,Northeast,All,75+,156,18.8,463,11.9
+2015,Northeast,Connecticut,Total,43,21.6,372,13.2
+2015,Northeast,Connecticut,18-34,<10,--,75,9.5
+2015,Northeast,Connecticut,35-54,12,30.0*,154,15.9
+2015,Northeast,Connecticut,55-74,17,20.0*,116,14.3
+2015,Northeast,Connecticut,75+,10-20,--,27,10.8
+2015,Northeast,Maine,Total,49,40.8,228,21.3
+2015,Northeast,Maine,18-34,<10,--,43,16.3
+2015,Northeast,Maine,35-54,21,72.4,86,24.7
+2015,Northeast,Maine,55-74,14,25.9*,73,20.5
+2015,Northeast,Maine,75+,10-20,--,26,25.0
+2015,Northeast,Massachusetts,Total,66,18.8,627,11.6
+2015,Northeast,Massachusetts,18-34,13,46.4*,175,10.7
+2015,Northeast,Massachusetts,35-54,21,30.9,253,14.0
+2015,Northeast,Massachusetts,55-74,22,14.5,163,10.9
+2015,Northeast,Massachusetts,75+,10,9.7*,36,7.9
+2015,Northeast,New Hampshire,Total,32,28.6,225,21.1
+2015,Northeast,New Hampshire,18-34,<10,--,46,16.2
+2015,Northeast,New Hampshire,35-54,<10,--,103,28.5
+2015,Northeast,New Hampshire,55-74,12,23.1*,58,17.5
+2015,Northeast,New Hampshire,75+,<10,--,18,20.2*
+2015,Northeast,New Jersey,Total,73,18.9,768,11.1
+2015,Northeast,New Jersey,18-34,<10,--,178,9.2
+2015,Northeast,New Jersey,35-54,23,29.9,294,11.8
+2015,Northeast,New Jersey,55-74,25,15.4,233,12.1
+2015,Northeast,New Jersey,75+,10-20,--,63,10.7
+2015,Northeast,New York,Total,157,18.7,"1,614",10.4
+2015,Northeast,New York,18-34,18,25.7*,398,8.3
+2015,Northeast,New York,35-54,43,23.5,602,11.5
+2015,Northeast,New York,55-74,64,18.2,487,11.6
+2015,Northeast,New York,75+,32,13.7,127,9.8
+2015,Northeast,Pennsylvania,Total,244,28.0,"1,853",18.3
+2015,Northeast,Pennsylvania,18-34,31,46.3,450,15.7
+2015,Northeast,Pennsylvania,35-54,67,35.6,686,21.0
+2015,Northeast,Pennsylvania,55-74,88,23.0,571,19.1
+2015,Northeast,Pennsylvania,75+,58,24.7,146,14.9
+2015,Northeast,Rhode Island,Total,15,22.7*,123,14.6
+2015,Northeast,Rhode Island,18-34,<10,--,26,10.2
+2015,Northeast,Rhode Island,35-54,<10,--,49,18.0
+2015,Northeast,Rhode Island,55-74,<10,--,37,15.5
+2015,Northeast,Rhode Island,75+,<10,--,11,14.5*
+2015,Northeast,Vermont,Total,18,45.0*,102,20.2
+2015,Northeast,Vermont,18-34,<10,--,29,21.0
+2015,Northeast,Vermont,35-54,<10,--,20-30,--
+2015,Northeast,Vermont,55-74,11,55.0*,37,22.8
+2015,Northeast,Vermont,75+,<10,--,<10,--
+2015,Midwest,All,Total,"1,240",28.2,"9,131",17.5
+2015,Midwest,All,18-34,171,42.6,"2,623",17.0
+2015,Midwest,All,35-54,364,35.2,"3,451",19.8
+2015,Midwest,All,55-74,458,23.6,"2,372",15.9
+2015,Midwest,All,75+,247,24.2,685,15.3
+2015,Midwest,Illinois,Total,158,23.8,"1,303",13.2
+2015,Midwest,Illinois,18-34,14,21.9*,346,11.5
+2015,Midwest,Illinois,35-54,49,31.8,510,14.9
+2015,Midwest,Illinois,55-74,61,21.3,347,12.9
+2015,Midwest,Illinois,75+,34,21.1,100,12.7
+2015,Midwest,Indiana,Total,107,24.9,926,18.4
+2015,Midwest,Indiana,18-34,11,26.8*,272,17.9
+2015,Midwest,Indiana,35-54,35,32.1,356,20.9
+2015,Midwest,Indiana,55-74,41,21.7,239,16.9
+2015,Midwest,Indiana,75+,20,22.2,59,14.4
+2015,Midwest,Iowa,Total,65,30.1,412,17.2
+2015,Midwest,Iowa,18-34,<10,--,131,18.4
+2015,Midwest,Iowa,35-54,17,36.2*,154,20.1
+2015,Midwest,Iowa,55-74,30,32.6,98,14.4
+2015,Midwest,Iowa,75+,10-20,--,29,12.4
+2015,Midwest,Kansas,Total,68,34.0,460,21.2
+2015,Midwest,Kansas,18-34,11,44.0*,149,22.2
+2015,Midwest,Kansas,35-54,22,44.9,158,22.4
+2015,Midwest,Kansas,55-74,18,20.9*,118,19.6
+2015,Midwest,Kansas,75+,17,42.5*,35,18.3
+2015,Midwest,Michigan,Total,182,29.1,"1,358",17.6
+2015,Midwest,Michigan,18-34,26,56.5,374,17.0
+2015,Midwest,Michigan,35-54,53,36.3,498,19.5
+2015,Midwest,Michigan,55-74,65,22.6,381,16.6
+2015,Midwest,Michigan,75+,38,25.9,105,15.9
+2015,Midwest,Minnesota,Total,77,22.1,709,16.9
+2015,Midwest,Minnesota,18-34,15,48.4*,231,18.5
+2015,Midwest,Minnesota,35-54,24,33.8,269,18.9
+2015,Midwest,Minnesota,55-74,23,14.6,165,14.0
+2015,Midwest,Minnesota,75+,15,16.9*,44,12.5
+2015,Midwest,Missouri,Total,182,39.7,"1,020",21.8
+2015,Midwest,Missouri,18-34,31,73.8,271,19.7
+2015,Midwest,Missouri,35-54,48,44.0,400,26.0
+2015,Midwest,Missouri,55-74,66,32.2,260,19.3
+2015,Midwest,Missouri,75+,37,36.3,89,21.7
+2015,Midwest,Nebraska,Total,26,19.7,214,15.1
+2015,Midwest,Nebraska,18-34,<10,--,76,17.2
+2015,Midwest,Nebraska,35-54,10,31.3*,79,17.1
+2015,Midwest,Nebraska,55-74,<10,--,47,12.0
+2015,Midwest,Nebraska,75+,<10,--,12,9.5*
+2015,Midwest,North Dakota,Total,19,38.0*,122,21.1
+2015,Midwest,North Dakota,18-34,<10,--,44,21.8
+2015,Midwest,North Dakota,35-54,<10,--,52,29.9
+2015,Midwest,North Dakota,55-74,<10,--,10-20,--
+2015,Midwest,North Dakota,75+,<10,--,<10,--
+2015,Midwest,Ohio,Total,219,26.8,"1,600",17.8
+2015,Midwest,Ohio,18-34,36,52.9,433,16.9
+2015,Midwest,Ohio,35-54,63,31.2,605,20.3
+2015,Midwest,Ohio,55-74,78,21.5,417,15.8
+2015,Midwest,Ohio,75+,42,22.7,145,18.2
+2015,Midwest,South Dakota,Total,28,41.2,157,24.3
+2015,Midwest,South Dakota,18-34,<10,--,64,32.7
+2015,Midwest,South Dakota,35-54,<10,--,50,24.7
+2015,Midwest,South Dakota,55-74,15,53.6*,30-40,--
+2015,Midwest,South Dakota,75+,<10,--,<10,--
+2015,Midwest,Wisconsin,Total,109,28.4,850,19.0
+2015,Midwest,Wisconsin,18-34,13,38.2*,232,18.1
+2015,Midwest,Wisconsin,35-54,25,30.1,320,21.4
+2015,Midwest,Wisconsin,55-74,49,28.5,242,18.6
+2015,Midwest,Wisconsin,75+,22,23.2,56,14.2
+2015,South,Alabama,Total,129,34.2,732,19.6
+2015,South,Alabama,18-34,14,37.8*,193,17.8
+2015,South,Alabama,35-54,40,40.0,261,20.8
+2015,South,Alabama,55-74,47,28.0,213,19.5
+2015,South,Alabama,75+,28,38.9,65,20.9
+2015,South,All,Total,"2,722",31.6,"16,842",18.2
+2015,South,All,18-34,344,38.3,"4,410",15.9
+2015,South,All,35-54,806,34.4,"6,147",19.4
+2015,South,All,55-74,"1,000",27.3,"4,748",18.5
+2015,South,All,75+,572,33.7,"1,537",20.8
+2015,South,Arkansas,Total,93,40.6,562,24.8
+2015,South,Arkansas,18-34,10-20,--,149,22.3
+2015,South,Arkansas,35-54,33,57.9,215,28.7
+2015,South,Arkansas,55-74,39,38.6,161,24.7
+2015,South,Arkansas,75+,<10,--,37,18.6
+2015,South,Delaware,Total,11,14.9*,117,15.8
+2015,South,Delaware,18-34,<10,--,38,18.0
+2015,South,Delaware,35-54,<10,--,40,16.7
+2015,South,Delaware,55-74,<10,--,30-40,--
+2015,South,Delaware,75+,<10,--,<10,--
+2015,South,District Of Columbia,Total,10,37.0*,32,5.8
+2015,South,District Of Columbia,18-34,<10,--,<10,--
+2015,South,District Of Columbia,35-54,<10,--,<10,--
+2015,South,District Of Columbia,55-74,<10,--,14,12.3*
+2015,South,District Of Columbia,75+,<10,--,<10,--
+2015,South,Florida,Total,570,35.8,"3,146",19.5
+2015,South,Florida,18-34,58,47.2,647,15.0
+2015,South,Florida,35-54,134,36.8,"1,072",20.6
+2015,South,Florida,55-74,216,31.8,997,20.6
+2015,South,Florida,75+,162,37.9,430,24.4
+2015,South,Georgia,Total,186,26.5,"1,265",16.5
+2015,South,Georgia,18-34,21,27.6,357,15.0
+2015,South,Georgia,35-54,56,25.9,463,16.7
+2015,South,Georgia,55-74,72,23.8,340,16.9
+2015,South,Georgia,75+,37,34.6,105,21.3
+2015,South,Kentucky,Total,130,42.9,750,22.0
+2015,South,Kentucky,18-34,15,51.7*,194,19.8
+2015,South,Kentucky,35-54,37,46.8,283,24.4
+2015,South,Kentucky,55-74,51,38.1,213,21.5
+2015,South,Kentucky,75+,27,44.3,60,22.0
+2015,South,Louisiana,Total,96,33.1,695,19.6
+2015,South,Louisiana,18-34,13,36.1*,205,18.3
+2015,South,Louisiana,35-54,28,34.6,240,20.5
+2015,South,Louisiana,55-74,31,25.8,193,19.7
+2015,South,Louisiana,75+,24,45.3,57,21.1
+2015,South,Maryland,Total,79,19.3,537,11.6
+2015,South,Maryland,18-34,12,32.4*,146,10.7
+2015,South,Maryland,35-54,28,23.1,194,11.9
+2015,South,Maryland,55-74,26,15.0,151,11.8
+2015,South,Maryland,75+,13,16.7*,46,13.2
+2015,South,Mississippi,Total,58,29.6,414,18.4
+2015,South,Mississippi,18-34,<10,--,113,16.7
+2015,South,Mississippi,35-54,10-20,--,139,18.3
+2015,South,Mississippi,55-74,19,22.9*,124,19.4
+2015,South,Mississippi,75+,18,47.4*,38,21.2
+2015,South,North Carolina,Total,215,29.4,"1,370",17.8
+2015,South,North Carolina,18-34,25,29.8,316,14.2
+2015,South,North Carolina,35-54,70,34.5,527,19.8
+2015,South,North Carolina,55-74,80,25.6,404,18.5
+2015,South,North Carolina,75+,40,30.3,123,20.2
+2015,South,Oklahoma,Total,126,41.0,761,26.0
+2015,South,Oklahoma,18-34,13,38.2*,221,24.1
+2015,South,Oklahoma,35-54,40,51.3,289,30.2
+2015,South,Oklahoma,55-74,51,37.8,194,23.7
+2015,South,Oklahoma,75+,22,36.7,57,23.6
+2015,South,South Carolina,Total,118,29.2,722,19.1
+2015,South,South Carolina,18-34,15,36.6*,198,18.1
+2015,South,South Carolina,35-54,40,38.1,281,22.5
+2015,South,South Carolina,55-74,47,25.8,190,16.8
+2015,South,South Carolina,75+,16,21.1*,53,17.5
+2015,South,Tennessee,Total,149,31.2,"1,035",20.3
+2015,South,Tennessee,18-34,21,45.7,262,17.6
+2015,South,Tennessee,35-54,37,29.8,381,22.0
+2015,South,Tennessee,55-74,51,23.6,286,19.5
+2015,South,Tennessee,75+,40,43.5,106,26.0
+2015,South,Texas,Total,518,32.3,"3,290",16.3
+2015,South,Texas,18-34,89,42.8,"1,005",15.0
+2015,South,Texas,35-54,167,35.8,"1,242",17.3
+2015,South,Texas,55-74,171,26.4,808,16.2
+2015,South,Texas,75+,91,32.4,235,18.2
+2015,South,Virginia,Total,175,23.9,"1,082",16.9
+2015,South,Virginia,18-34,21,25.9,293,15.3
+2015,South,Virginia,35-54,60,25.3,387,17.3
+2015,South,Virginia,55-74,65,21.8,328,18.6
+2015,South,Virginia,75+,29,25.0,74,15.4
+2015,South,West Virginia,Total,59,40.1,332,22.7
+2015,South,West Virginia,18-34,<10,--,67,17.5
+2015,South,West Virginia,35-54,15,41.7*,124,26.0
+2015,South,West Virginia,55-74,26,40.0,100,21.4
+2015,South,West Virginia,75+,10-20,--,41,29.5
+2015,West,Alaska,Total,27,40.3,191,35.7
+2015,West,Alaska,18-34,<10,--,88,47.3
+2015,West,Alaska,35-54,<10,--,69,37.8
+2015,West,Alaska,55-74,13,44.8*,30-40,--
+2015,West,Alaska,75+,<10,--,<10,--
+2015,West,All,Total,"1,622",35.4,"10,905",18.8
+2015,West,All,18-34,216,46.5,"2,999",16.4
+2015,West,All,35-54,427,38.8,"3,835",19.4
+2015,West,All,55-74,634,31.9,"3,045",19.7
+2015,West,All,75+,344,33.6,"1,026",23.5
+2015,West,Arizona,Total,216,41.4,"1,229",23.7
+2015,West,Arizona,18-34,28,60.9,333,21.2
+2015,West,Arizona,35-54,54,45.8,415,24.7
+2015,West,Arizona,55-74,91,40.1,362,24.7
+2015,West,Arizona,75+,42,32.1,119,25.5
+2015,West,California,Total,528,29.4,"4,067",13.6
+2015,West,California,18-34,62,32.8,"1,031",10.7
+2015,West,California,35-54,127,31.6,"1,395",13.4
+2015,West,California,55-74,193,25.5,"1,186",15.6
+2015,West,California,75+,146,32.9,455,20.6
+2015,West,Colorado,Total,165,40.1,"1,040",24.9
+2015,West,Colorado,18-34,33,71.7,317,23.8
+2015,West,Colorado,35-54,46,39.7,376,26.1
+2015,West,Colorado,55-74,63,36.2,270,24.1
+2015,West,Colorado,75+,23,30.7,77,28.0
+2015,West,Hawaii,Total,25,22.3,195,18.1
+2015,West,Hawaii,18-34,<10,--,67,21.2
+2015,West,Hawaii,35-54,<10,--,57,16.6
+2015,West,Hawaii,55-74,<10,--,55,17.5
+2015,West,Hawaii,75+,<10,--,16,15.5*
+2015,West,Idaho,Total,57,46.7,341,28.0
+2015,West,Idaho,18-34,<10,--,100,27.0
+2015,West,Idaho,35-54,16,51.6*,131,32.6
+2015,West,Idaho,55-74,32,60.4,90,25.9
+2015,West,Idaho,75+,<10,--,20,20.5
+2015,West,Montana,Total,47,50.5,261,32.5
+2015,West,Montana,18-34,<10,--,63,27.8
+2015,West,Montana,35-54,10-20,--,89,36.1
+2015,West,Montana,55-74,22,53.7,84,32.7
+2015,West,Montana,75+,10,52.6*,25,34.0
+2015,West,Nevada,Total,96,42.5,540,24.4
+2015,West,Nevada,18-34,12,57.1*,130,19.7
+2015,West,Nevada,35-54,24,42.1,193,24.8
+2015,West,Nevada,55-74,41,39.4,171,27.6
+2015,West,Nevada,75+,19,43.2*,46,29.2
+2015,West,New Mexico,Total,70,43.5,482,30.6
+2015,West,New Mexico,18-34,<10,--,148,31.2
+2015,West,New Mexico,35-54,24,63.2,163,32.6
+2015,West,New Mexico,55-74,28,37.3,127,27.2
+2015,West,New Mexico,75+,10-20,--,44,32.8
+2015,West,Oregon,Total,125,39.4,742,23.4
+2015,West,Oregon,18-34,19,73.1*,183,20.0
+2015,West,Oregon,35-54,29,41.4,249,23.8
+2015,West,Oregon,55-74,53,35.8,243,25.8
+2015,West,Oregon,75+,24,32.9,67,25.4
+2015,West,Utah,Total,61,44.9,586,28.2
+2015,West,Utah,18-34,10-20,--,205,26.3
+2015,West,Utah,35-54,19,54.3*,240,33.9
+2015,West,Utah,55-74,22,40.7,116,25.0
+2015,West,Utah,75+,<10,--,25,19.7
+2015,West,Washington,Total,181,31.6,"1,082",19.6
+2015,West,Washington,18-34,25,44.6,284,16.9
+2015,West,Washington,35-54,55,36.4,404,21.7
+2015,West,Washington,55-74,63,24.6,286,18.4
+2015,West,Washington,75+,38,34.5,108,26.2
+2015,West,Wyoming,Total,24,54.5,149,33.5
+2015,West,Wyoming,18-34,<10,--,50,36.1
+2015,West,Wyoming,35-54,<10,--,54,38.1
+2015,West,Wyoming,55-74,<10,--,24,18.3
+2015,West,Wyoming,75+,11,137.5*,21,63.7
+2016, ,Total U.S.,Total,"6,079",30.1,"43,427",17.5
+2016, ,Total U.S.,18-34,893,45.0,"11,997",16.1
+2016, ,Total U.S.,35-54,"1,648",33.1,"15,467",18.6
+2016, ,Total U.S.,55-74,"2,259",25.9,"12,162",17.3
+2016, ,Total U.S.,75+,"1,274",28.3,"3,801",18.5
+2016,Northeast,All,Total,690,23.9,"5,889",13.3
+2016,Northeast,All,18-34,93,40.3,"1,466",11.3
+2016,Northeast,All,35-54,182,30.1,"2,157",14.7
+2016,Northeast,All,55-74,260,20.8,"1,768",13.8
+2016,Northeast,All,75+,155,19.4,498,12.7
+2016,Northeast,Connecticut,Total,36,18.8,389,13.8
+2016,Northeast,Connecticut,18-34,<10,--,83,10.6
+2016,Northeast,Connecticut,35-54,10,26.3*,136,14.4
+2016,Northeast,Connecticut,55-74,16,19.8*,136,16.4
+2016,Northeast,Connecticut,75+,<10,--,34,13.4
+2016,Northeast,Maine,Total,29,24.8,219,20.4
+2016,Northeast,Maine,18-34,<10,--,57,21.4
+2016,Northeast,Maine,35-54,<10,--,70,20.4
+2016,Northeast,Maine,55-74,14,25.5*,74,20.5
+2016,Northeast,Maine,75+,<10,--,18,17.2*
+2016,Northeast,Massachusetts,Total,68,20.2,609,11.2
+2016,Northeast,Massachusetts,18-34,10-20,--,176,10.6
+2016,Northeast,Massachusetts,35-54,25,38.5,222,12.4
+2016,Northeast,Massachusetts,55-74,27,18.4,178,11.6
+2016,Northeast,Massachusetts,75+,<10,--,33,7.2
+2016,Northeast,New Hampshire,Total,33,30.6,237,22.1
+2016,Northeast,New Hampshire,18-34,<10,--,53,18.5
+2016,Northeast,New Hampshire,35-54,13,54.2*,88,24.9
+2016,Northeast,New Hampshire,55-74,11,22.0*,74,21.7
+2016,Northeast,New Hampshire,75+,<10,--,22,24.0
+2016,Northeast,New Jersey,Total,67,18.0,671,9.7
+2016,Northeast,New Jersey,18-34,<10,--,157,8.1
+2016,Northeast,New Jersey,35-54,10-20,--,257,10.5
+2016,Northeast,New Jersey,55-74,24,15.4,200,10.1
+2016,Northeast,New Jersey,75+,19,16.7*,57,9.6
+2016,Northeast,New York,Total,153,19.0,"1,615",10.4
+2016,Northeast,New York,18-34,23,33.3,408,8.5
+2016,Northeast,New York,35-54,37,21.3,598,11.6
+2016,Northeast,New York,55-74,58,17.0,470,11.0
+2016,Northeast,New York,75+,35,15.7,139,10.6
+2016,Northeast,Pennsylvania,Total,263,31.1,"1,909",18.9
+2016,Northeast,Pennsylvania,18-34,34,52.3,475,16.6
+2016,Northeast,Pennsylvania,35-54,72,39.6,700,21.8
+2016,Northeast,Pennsylvania,55-74,90,24.3,559,18.3
+2016,Northeast,Pennsylvania,75+,67,29.4,175,17.8
+2016,Northeast,Rhode Island,Total,16,24.6*,124,14.7
+2016,Northeast,Rhode Island,18-34,<10,--,20-30,--
+2016,Northeast,Rhode Island,35-54,<10,--,51,19.0
+2016,Northeast,Rhode Island,55-74,<10,--,38,15.5
+2016,Northeast,Rhode Island,75+,<10,--,<10,--
+2016,Northeast,Vermont,Total,25,56.8,116,23.0
+2016,Northeast,Vermont,18-34,<10,--,31,22.4
+2016,Northeast,Vermont,35-54,<10,--,35,22.3
+2016,Northeast,Vermont,55-74,12,60.0*,39,23.5
+2016,Northeast,Vermont,75+,<10,--,11,24.6*
+2016,Midwest,All,Total,"1,202",28.0,"9,422",18.0
+2016,Midwest,All,18-34,179,45.2,"2,759",17.9
+2016,Midwest,All,35-54,333,33.4,"3,445",20.1
+2016,Midwest,All,55-74,448,23.6,"2,473",16.3
+2016,Midwest,All,75+,242,24.2,745,16.5
+2016,Midwest,Illinois,Total,162,25.0,"1,369",13.9
+2016,Midwest,Illinois,18-34,18,29.5*,350,11.8
+2016,Midwest,Illinois,35-54,39,26.0,527,15.6
+2016,Midwest,Illinois,55-74,61,21.9,367,13.4
+2016,Midwest,Illinois,75+,44,28.2,125,15.6
+2016,Midwest,Indiana,Total,70,16.7,"1,001",19.8
+2016,Midwest,Indiana,18-34,11,26.8*,286,18.8
+2016,Midwest,Indiana,35-54,12,11.5*,380,22.7
+2016,Midwest,Indiana,55-74,32,17.1,263,18.2
+2016,Midwest,Indiana,75+,15,17.0*,72,17.4
+2016,Midwest,Iowa,Total,64,30.2,434,18.0
+2016,Midwest,Iowa,18-34,10-20,--,132,18.5
+2016,Midwest,Iowa,35-54,22,47.8,174,22.9
+2016,Midwest,Iowa,55-74,22,24.7,98,14.0
+2016,Midwest,Iowa,75+,<10,--,30,12.9
+2016,Midwest,Kansas,Total,60,30.5,496,22.8
+2016,Midwest,Kansas,18-34,12,48.0*,168,25.2
+2016,Midwest,Kansas,35-54,23,47.9,177,25.3
+2016,Midwest,Kansas,55-74,15,17.9*,111,17.9
+2016,Midwest,Kansas,75+,10,24.4*,40,21.0
+2016,Midwest,Michigan,Total,159,26.2,"1,307",16.9
+2016,Midwest,Michigan,18-34,20,44.4,361,16.2
+2016,Midwest,Michigan,35-54,46,33.3,468,18.7
+2016,Midwest,Michigan,55-74,65,23.0,369,15.8
+2016,Midwest,Michigan,75+,28,19.4,109,16.3
+2016,Midwest,Minnesota,Total,95,28.2,712,16.8
+2016,Midwest,Minnesota,18-34,14,46.7*,214,17.1
+2016,Midwest,Minnesota,35-54,31,45.6,259,18.4
+2016,Midwest,Minnesota,55-74,34,22.2,200,16.5
+2016,Midwest,Minnesota,75+,16,18.6*,39,10.9
+2016,Midwest,Missouri,Total,154,34.1,"1,095",23.4
+2016,Midwest,Missouri,18-34,29,69.0,345,25.3
+2016,Midwest,Missouri,35-54,40,37.7,399,26.1
+2016,Midwest,Missouri,55-74,55,27.2,264,19.2
+2016,Midwest,Missouri,75+,30,30.0,87,20.9
+2016,Midwest,Nebraska,Total,27,20.3,232,16.3
+2016,Midwest,Nebraska,18-34,<10,--,87,19.8
+2016,Midwest,Nebraska,35-54,<10,--,79,17.2
+2016,Midwest,Nebraska,55-74,<10,--,49,12.3
+2016,Midwest,Nebraska,75+,<10,--,17,13.4*
+2016,Midwest,North Dakota,Total,16,30.8*,134,23.2
+2016,Midwest,North Dakota,18-34,<10,--,51,25.6
+2016,Midwest,North Dakota,35-54,<10,--,52,30.2
+2016,Midwest,North Dakota,55-74,<10,--,21,13.6
+2016,Midwest,North Dakota,75+,<10,--,10,19.6*
+2016,Midwest,Ohio,Total,245,30.8,"1,655",18.4
+2016,Midwest,Ohio,18-34,30,44.8,466,18.1
+2016,Midwest,Ohio,35-54,70,36.5,556,19.0
+2016,Midwest,Ohio,55-74,98,27.5,487,18.1
+2016,Midwest,Ohio,75+,47,25.8,146,18.2
+2016,Midwest,South Dakota,Total,18,27.3*,156,24.0
+2016,Midwest,South Dakota,18-34,<10,--,57,29.1
+2016,Midwest,South Dakota,35-54,<10,--,62,31.0
+2016,Midwest,South Dakota,55-74,<10,--,27,14.0
+2016,Midwest,South Dakota,75+,<10,--,10,16.6*
+2016,Midwest,Wisconsin,Total,132,35.3,831,18.5
+2016,Midwest,Wisconsin,18-34,23,69.7,242,18.8
+2016,Midwest,Wisconsin,35-54,33,40.7,312,21.3
+2016,Midwest,Wisconsin,55-74,50,30.1,217,16.2
+2016,Midwest,Wisconsin,75+,26,27.7,60,15.1
+2016,South,Alabama,Total,128,34.2,769,20.5
+2016,South,Alabama,18-34,19,52.8*,209,19.3
+2016,South,Alabama,35-54,36,36.4,275,22.2
+2016,South,Alabama,55-74,50,29.9,215,19.4
+2016,South,Alabama,75+,23,31.9,70,22.0
+2016,South,All,Total,"2,611",30.6,"17,011",18.2
+2016,South,All,18-34,397,44.5,"4,711",16.9
+2016,South,All,35-54,715,31.0,"6,011",19.0
+2016,South,All,55-74,956,26.3,"4,766",18.1
+2016,South,All,75+,540,32.0,"1,523",20.0
+2016,South,Arkansas,Total,79,35.1,534,23.5
+2016,South,Arkansas,18-34,12,54.5*,147,21.9
+2016,South,Arkansas,35-54,17,30.9*,176,23.7
+2016,South,Arkansas,55-74,33,33.0,159,24.0
+2016,South,Arkansas,75+,17,36.2*,52,25.8
+2016,South,Delaware,Total,24,32.9,117,15.7
+2016,South,Delaware,18-34,<10,--,28,13.2
+2016,South,Delaware,35-54,<10,--,37,15.7
+2016,South,Delaware,55-74,10,29.4*,40,17.3
+2016,South,Delaware,75+,<10,--,12,18.1*
+2016,South,District Of Columbia,Total,<10,--,40,7.2
+2016,South,District Of Columbia,18-34,<10,--,18,7.7*
+2016,South,District Of Columbia,35-54,<10,--,12,6.8*
+2016,South,District Of Columbia,55-74,<10,--,10-20,--
+2016,South,District Of Columbia,75+,<10,--,<10,--
+2016,South,Florida,Total,530,34.0,"3,074",18.7
+2016,South,Florida,18-34,52,43.0,637,14.5
+2016,South,Florida,35-54,124,35.4,"1,035",19.9
+2016,South,Florida,55-74,204,30.5,"1,006",20.1
+2016,South,Florida,75+,150,35.7,396,21.8
+2016,South,Georgia,Total,202,28.9,"1,352",17.4
+2016,South,Georgia,18-34,40,51.9,409,17.2
+2016,South,Georgia,35-54,57,27.3,487,17.5
+2016,South,Georgia,55-74,70,23.0,369,17.7
+2016,South,Georgia,75+,34,31.5,87,17.0
+2016,South,Kentucky,Total,108,36.1,728,21.3
+2016,South,Kentucky,18-34,10,34.5*,198,20.1
+2016,South,Kentucky,35-54,31,40.3,282,24.5
+2016,South,Kentucky,55-74,38,28.6,177,17.7
+2016,South,Kentucky,75+,29,48.3,71,25.7
+2016,South,Louisiana,Total,75,26.1,656,18.5
+2016,South,Louisiana,18-34,16,45.7*,211,19.0
+2016,South,Louisiana,35-54,20,24.7,223,19.1
+2016,South,Louisiana,55-74,21,17.8,180,18.0
+2016,South,Louisiana,75+,18,34.0*,42,15.5
+2016,South,Maryland,Total,67,16.8,568,12.2
+2016,South,Maryland,18-34,<10,--,149,10.9
+2016,South,Maryland,35-54,19,16.4*,207,12.9
+2016,South,Maryland,55-74,23,13.4,158,12.0
+2016,South,Maryland,75+,10-20,--,54,15.1
+2016,South,Mississippi,Total,50,25.8,373,16.5
+2016,South,Mississippi,18-34,<10,--,117,17.2
+2016,South,Mississippi,35-54,13,25.0*,129,17.3
+2016,South,Mississippi,55-74,17,21.0*,100,15.4
+2016,South,Mississippi,75+,10-20,--,27,15.0
+2016,South,North Carolina,Total,184,25.2,"1,327",17.1
+2016,South,North Carolina,18-34,23,26.7,334,15.0
+2016,South,North Carolina,35-54,56,28.0,488,18.3
+2016,South,North Carolina,55-74,71,22.8,393,17.5
+2016,South,North Carolina,75+,34,25.6,112,18.0
+2016,South,Oklahoma,Total,110,35.9,794,26.9
+2016,South,Oklahoma,18-34,16,45.7*,257,28.1
+2016,South,Oklahoma,35-54,31,39.7,283,29.6
+2016,South,Oklahoma,55-74,35,26.3,190,22.8
+2016,South,Oklahoma,75+,28,46.7,64,26.1
+2016,South,South Carolina,Total,120,29.7,792,20.7
+2016,South,South Carolina,18-34,18,41.9*,208,19.0
+2016,South,South Carolina,35-54,38,36.5,279,22.4
+2016,South,South Carolina,55-74,42,23.2,246,21.0
+2016,South,South Carolina,75+,21,27.3,59,18.7
+2016,South,Tennessee,Total,156,32.8,"1,070",20.9
+2016,South,Tennessee,18-34,26,56.5,277,18.5
+2016,South,Tennessee,35-54,38,31.4,410,23.8
+2016,South,Tennessee,55-74,66,30.7,289,19.4
+2016,South,Tennessee,75+,26,28.3,94,22.5
+2016,South,Texas,Total,530,33.2,"3,339",16.3
+2016,South,Texas,18-34,109,53.4,"1,089",16.0
+2016,South,Texas,35-54,161,34.5,"1,194",16.5
+2016,South,Texas,55-74,169,26.2,805,15.7
+2016,South,Texas,75+,90,32.3,251,18.7
+2016,South,Virginia,Total,196,26.9,"1,122",17.4
+2016,South,Virginia,18-34,31,38.8,334,17.6
+2016,South,Virginia,35-54,55,23.4,359,16.1
+2016,South,Virginia,55-74,81,27.1,319,17.5
+2016,South,Virginia,75+,29,25.0,110,22.4
+2016,South,West Virginia,Total,50,34.5,356,24.5
+2016,South,West Virginia,18-34,<10,--,89,23.5
+2016,South,West Virginia,35-54,14,38.9*,135,29.0
+2016,South,West Virginia,55-74,26,41.3,110,23.4
+2016,South,West Virginia,75+,<10,--,22,15.7
+2016,West,Alaska,Total,17,25.0*,179,33.2
+2016,West,Alaska,18-34,<10,--,90,48.9
+2016,West,Alaska,35-54,<10,--,57,31.2
+2016,West,Alaska,55-74,<10,--,20-30,--
+2016,West,Alaska,75+,<10,--,<10,--
+2016,West,All,Total,"1,576",35.0,"11,105",19.0
+2016,West,All,18-34,224,47.9,"3,061",16.6
+2016,West,All,35-54,418,38.8,"3,854",19.5
+2016,West,All,55-74,595,30.6,"3,155",19.9
+2016,West,All,75+,337,33.4,"1,035",23.0
+2016,West,Arizona,Total,227,44.1,"1,236",23.4
+2016,West,Arizona,18-34,31,68.9,333,20.9
+2016,West,Arizona,35-54,49,41.9,396,23.4
+2016,West,Arizona,55-74,89,39.9,373,24.6
+2016,West,Arizona,75+,57,43.8,134,27.6
+2016,West,California,Total,490,28.2,"4,167",13.9
+2016,West,California,18-34,71,38.2,"1,075",11.1
+2016,West,California,35-54,128,32.8,"1,414",13.7
+2016,West,California,55-74,162,22.1,"1,231",15.8
+2016,West,California,75+,129,30.3,447,19.8
+2016,West,Colorado,Total,175,42.9,"1,110",26.1
+2016,West,Colorado,18-34,31,66.0,344,25.6
+2016,West,Colorado,35-54,54,47.4,404,27.7
+2016,West,Colorado,55-74,68,39.8,290,25.0
+2016,West,Colorado,75+,22,29.3,72,25.5
+2016,West,Hawaii,Total,11,9.7*,168,15.5
+2016,West,Hawaii,18-34,<10,--,66,21.6
+2016,West,Hawaii,35-54,<10,--,55,15.8
+2016,West,Hawaii,55-74,<10,--,40-50,--
+2016,West,Hawaii,75+,<10,--,<10,--
+2016,West,Idaho,Total,58,47.2,335,26.9
+2016,West,Idaho,18-34,<10,--,75,19.9
+2016,West,Idaho,35-54,18,60.0*,146,36.2
+2016,West,Idaho,55-74,24,45.3,91,25.2
+2016,West,Idaho,75+,10-20,--,23,22.8
+2016,West,Montana,Total,42,45.7,250,30.8
+2016,West,Montana,18-34,<10,--,89,39.5
+2016,West,Montana,35-54,13,59.1*,82,33.1
+2016,West,Montana,55-74,21,51.2,64,24.3
+2016,West,Montana,75+,<10,--,15,20.2*
+2016,West,Nevada,Total,107,48.2,631,28.0
+2016,West,Nevada,18-34,11,52.4*,143,21.3
+2016,West,Nevada,35-54,23,41.8,223,28.6
+2016,West,Nevada,55-74,39,38.6,183,28.6
+2016,West,Nevada,75+,34,75.6,82,49.4
+2016,West,New Mexico,Total,71,44.1,456,28.8
+2016,West,New Mexico,18-34,11,78.6*,129,27.5
+2016,West,New Mexico,35-54,17,44.7*,160,32.2
+2016,West,New Mexico,55-74,27,37.0,127,26.7
+2016,West,New Mexico,75+,16,44.4*,40,28.7
+2016,West,Oregon,Total,122,39.4,744,23.1
+2016,West,Oregon,18-34,14,56.0*,165,17.6
+2016,West,Oregon,35-54,30,44.8,264,25.2
+2016,West,Oregon,55-74,50,34.5,231,24.0
+2016,West,Oregon,75+,28,38.4,84,30.9
+2016,West,Utah,Total,59,43.4,588,27.7
+2016,West,Utah,18-34,10,62.5*,201,25.4
+2016,West,Utah,35-54,18,52.9*,239,33.2
+2016,West,Utah,55-74,17,31.5*,116,24.0
+2016,West,Utah,75+,14,43.8*,32,24.8
+2016,West,Washington,Total,174,30.6,"1,104",19.7
+2016,West,Washington,18-34,22,38.6,319,18.8
+2016,West,Washington,35-54,48,32.4,358,19.0
+2016,West,Washington,55-74,81,31.9,345,21.5
+2016,West,Washington,75+,22,20.4,82,19.3
+2016,West,Wyoming,Total,23,48.9,137,31.0
+2016,West,Wyoming,18-34,<10,--,32,24.1
+2016,West,Wyoming,35-54,<10,--,56,39.8
+2016,West,Wyoming,55-74,<10,--,33,24.5
+2016,West,Wyoming,75+,<10,--,16,47.1*
