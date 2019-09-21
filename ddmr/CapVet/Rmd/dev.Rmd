@@ -1,8 +1,10 @@
 ---
 title: "dev"
-author: "Uli Kaulfuß"
+author: "Uli Kaulfuss"
 date: "18 September 2019"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -11,15 +13,51 @@ knitr::opts_chunk$set(echo = TRUE)
 library(readr)
 library(dplyr)
 library(stringr)
+library(quantmod)
+library(performanceEstimation)
+library(e1071)
+library(randomForest)
+
+set.seed(42)
+
+FLAG_KNITR_EXPORT = FALSE
+
+```
 
 
-df_lookup_city <- read_csv("data/checked_lookup_va_med_city.csv")
-df_sail_data <- read_csv("data/SAIL.csv")
-df_suicide_data <- read_csv("data/state_suicide_data_2_agerange.csv")
+```{r data loading, echo=FALSE}
+
+if (FLAG_KNITR_EXPORT){
+  path_prefix <- "../"
+}else{
+  path_prefix <- ""
+}
+
+df_lookup_city <- read_csv(paste0(path_prefix,"data/checked_lookup_va_med_city.csv"))
+df_sail_data <- read_csv(paste0(path_prefix,"data/SAIL.csv"))
+df_suicide_data <- read_csv(paste0(path_prefix,"data/state_suicide_data_2_agerange.csv"))
 
 df_suicide_data <- rename(df_suicide_data, 'State' = 'State of Death') 
 
-df_states_mapping <- read_csv("data/states.csv")
+df_states_mapping <- read_csv(paste0(path_prefix,"data/states.csv"))
+
+va_exp_cols <- cols(
+  StateLong = col_character(),
+  State = col_character(),
+  `Veteran Population` = col_double(),
+  TotalExpenditures = col_double(),
+  CompensationAndPension = col_double(),
+  Construction = col_double(),
+  EducationAndVocRehab = col_character(),
+  LoanGuaranty = col_double(),
+  OperatingExp = col_double(),
+  InsuranceAndIndemnities = col_double(),
+  MedicalAndGOE = col_double(),
+  UniquePatient = col_double(),
+  Year = col_double()
+)
+
+df_va_exp <- read_delim(paste0(path_prefix,"data/va_expenditures_state_2005-2016.csv"), ";", col_types=va_exp_cols)
 
 ```
 
@@ -33,8 +71,6 @@ names(df_cities) = c("City")
 
 res <- left_join(df_cities, df_lookup_city, by='City')
 
-
-
 ```
 
 ```{r prepare suicide data}
@@ -44,7 +80,7 @@ df_suicide_data_rel  <- df_suicide_data[df_suicide_data$State != 'Total U.S.' & 
 
 # join state abbreviations 
 df_suicide_base <- left_join(df_suicide_data_rel, df_states_mapping, by='State')
-df_suicide_base <- df_suicide_base %>% select(-State) %>% rename(State = "Abbreviation")
+df_suicide_base <- df_suicide_base %>% dplyr::select(-State) %>% rename(State = "Abbreviation")
 
 #rename columns
 
@@ -89,8 +125,6 @@ df_sail_data_sub <- df_sail_data[df_sail_data$year == 2016,]
 # lookup state information to location
 df_sail_data_sub <- left_join(df_sail_data_sub, df_lookup_city, by=c('location' = 'City'))
 
-df_sail_data_sub$`Get an urgent care appointment as soon as needed (PCMH)`
-
 # aggregate metrics for state-level 
 df_sail_agg <- df_sail_data_sub %>%
   filter(!is.na(State)) %>%
@@ -103,13 +137,12 @@ df_sail_agg <- df_sail_data_sub %>%
   )
 
 df_sail_agg_normal_metrics <- df_sail_agg %>% 
-  select(-State) %>% 
+  dplyr::select(-State) %>% 
   mutate_all(scale)
 
-df_sail_agg_normal <- cbind(df_sail_agg %>% select(State), df_sail_agg_normal_metrics)
+df_sail_agg_normal <- cbind(df_sail_agg %>% dplyr::select(State), df_sail_agg_normal_metrics)
 
 ```
-
 
 ```{r joining suicide and SAIL data for 2016}
 
@@ -121,21 +154,157 @@ df_base <- full_join(df_suicide_base_2016, df_sail_agg_normal, by="State")
 
 df_base <- na.omit(df_base)
 
-df_base$SMR30
-
 lm_model <- lm(VetSuicideRatePer100k ~ SMR30+CallCenterAbandonmentRate+GetUrgentAppointment_PCMH+NewMentalAppointments30DaysFromPreferredDate, data = df_base)
 
 summary(lm_model)
 
 ```
 
+```{r add information on VA expenditure}
+
+df_va_exp <- df_va_exp %>% dplyr::select(-StateLong)
+
+df_base_overtime <- left_join(df_suicide_base, df_va_exp, by=c("State"="State", "Year"="Year"))
+
+df_base_overtime <- df_base_overtime %>% rename(GeographicRegion = `Geographic Region, Based on state of death`, VeteranPopulation = `Veteran Population`)
+
+df_base_overtime$GeographicRegion <- as.factor(df_base_overtime$GeographicRegion)
+df_base_overtime$State <- as.factor(df_base_overtime$State)
+
+```
+
+Evaluate SVM and RandomForest as regressions approximating veteran suicide rates. 
+
+```{r}
+
+df_model <- df_base_overtime %>% dplyr::select(VetSuicideRatePer100k,GeographicRegion,State,MedicalAndGOE,VeteranPopulation,InsuranceAndIndemnities)
+
+df_model <- na.omit(df_model)
+
+df_model <- df_model %>% dplyr::select(-GeographicRegion)
+
+model_eval <- performanceEstimation(
+  PredTask(VetSuicideRatePer100k ~ ., df_model),
+  c(workflowVariants(learner="svm",
+                   learner.pars=list(cost=c(1,3,5),gamma=c(0.1,0.01))), 
+    workflowVariants(learner="randomForest",
+                   learner.pars=list(ntree=c(10,100,200)))
+    ),
+  EstimationTask(method=CV(nReps=3)))
+
+summary(model_eval)
+
+```
+
+
+
+```{r get top SVM, echo=FALSE}
+getWorkflow("svm.v4", model_eval)
+```
+
+Train the SVM model with cost=1, gamma=0.01 as best performing parameters
+
+```{r}
+svm_model <- svm(VetSuicideRatePer100k ~ ., data=df_model, cost=1, gamma=0.01)
+```
+
+
+Create linear model to approximate the veteran suicide rate per state over time depending on the expenditure of the VA
+
+```{r linear model}
+
+lm_model <- lm(VetSuicideRatePer100k ~ ., data=df_model)
+summary(lm_model)
+
+```
+
+```{r model saving}
+
+save(lm_model, svm_model, file="models.Rda")
+
+
+```
 
 
 
 
+```{r GEO viz}
+
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(readxl, dplyr, stringr, data.table, knitr,lubridate, sqldf, magrittr, xlsx, tidyr, janitor, plotly, geojsonio, leaflet, scales, doBy, DMwR, MASS, rpart, tibble)
+
+# create breaks from histogram
+states <- geojsonio::geojson_read("us_states_geojson.geojson",
+  what = "sp")
+
+pal <-  colorNumeric("Greens", df_suicide_base_2016$VetSuicideRatePer100k, na.color = "#808080", alpha = TRUE, reverse = FALSE)
+# pal <- colorQuantile("Greens", domain = df_suicide_base_2016$VetSuicideRatePer100k)
+# 
+# states@data$Beats <- factor(beats@data$Beats, levels=unique(beats@data$Beats))
+# df_out_beats$Beat <- factor(df_out_beats$Beat, levels=unique(beats@data$Beats))
+
+df_states_mapping_json <- rename(df_states_mapping, StateLong = State)
+df_states_mapping_json <- rename(df_states_mapping_json, State = Abbreviation)
+
+# join geojson data lookup values of states
+states@data <- dplyr::left_join(states@data, df_states_mapping_json, by=c("name" = "StateLong"))
+states@data <- dplyr::left_join(states@data, df_suicide_base_2016, by=c("State" = "State"))
+
+leaflet(states) %>%
+  addTiles() %>%
+  addPolygons(stroke = FALSE, smoothFactor = 0.3, fillOpacity = 0.8,
+    fillColor = ~pal((VetSuicideRatePer100k)),
+    label = ~paste0(name, ": ", formatC(VetSuicideRatePer100k, big.mark = ","))) %>% 
+  addLegend("bottomright", pal = pal, values = ~VetSuicideRatePer100k,
+    title = "Vet. Suicide Rates (per 100k)",
+    labFormat = labelFormat(prefix = "# "),
+    opacity = 1
+  )
 
 
 
+```
+
+```{r predicting }
+
+predict_vs_rate <- function(target_model, in_state, in_med, in_vet_pop, in_insurance, in_year){
+    
+  df_pred <- data.frame(matrix(ncol = 5, nrow = 1))
+  x <- c("State", "MedicalAndGOE", "VeteranPopulation", "InsuranceAndIndemnities", "Year")
+  colnames(df_pred) <- x
+  
+  df_pred$State <- factor(in_state,  levels = unique(df_model$State))
+  df_pred$MedicalAndGOE <- in_med
+  df_pred$VeteranPopulation <- in_vet_pop
+  df_pred$InsuranceAndIndemnities <- in_insurance
+  df_pred$Year <- in_year
+  
+  if (target_model == "lm"){
+    predict(lm_model, df_pred)
+  
+  }else if (target_model == "svm"){
+    predict(svm_model, df_pred)
+  }else{
+    stop("Unknown model type")
+  }
+
+}
+
+predict_vs_rate("lm", "TN", 1231, 123, 1231, 2014)
+
+```
+
+```{r}
 
 
+choices <- c("All" = "ALL")
+
+for (v in unique(df_model$State)){
+  choices <- c(choices, v)
+}
+
+choices <- choices %>% set_names(choices)
+
+
+```
 
