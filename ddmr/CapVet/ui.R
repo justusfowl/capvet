@@ -21,13 +21,13 @@ dashboardPage(
   dashboardHeader(title = "Capstone | Veteran Suicide Analysis"),
   dashboardSidebar(
     sidebarMenu(
-      menuItem("Dashboard", tabName = "dashboard", icon = icon("dashboard"))
+      menuItem("Dashboard", tabName = "dashboard", icon = icon("dashboard")),
+      menuItem("Evaluation", tabName = "eval", icon = icon("microchip"))
     )
   ),
   dashboardBody(
     useShinyjs(),
     tabItems(
-      # First tab content
       tabItem(tabName = "dashboard",
               
               fluidRow(
@@ -53,12 +53,22 @@ dashboardPage(
                      sliderInput("scenarioVetPop", h4("Veteran Population:"), min=0, max=3000000, value=2000000, step=1000)
                 ),
                 box( width = 3,
-                     sliderInput("scenarioInsurance", h4("InsuranceAndIndemnities:"), min=0, max=200000, value=10000, step=1000)
+                     sliderInput("scenarioInsurance", h4("Insurance & Indemnities:"), min=0, max=200000, value=10000, step=1000)
                 ),
                 infoBoxOutput("predictedSuicideRate", width=3)
               )
               
-      )
+      ), 
+      tabItem(tabName = "eval", 
+              fluidRow(
+                box(width=12,
+                    # withSpinner(htmlOutput("frame")),
+                    h1("The following document provides details about the data foundation and modelling undergone in this application."),
+                    withSpinner(htmlOutput('detailsPanel'))
+                    # withSpinner(uiOutput(outputId = "details"))
+                )
+              )
+              )
     )
   )
 )

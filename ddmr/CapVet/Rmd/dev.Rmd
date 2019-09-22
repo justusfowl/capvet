@@ -1,22 +1,17 @@
 ---
-title: "dev"
-author: "Uli Kaulfuss"
-date: "18 September 2019"
+title: "Veteran Suicide Rate Analysis"
+author: "Asmar, Aybar, Fluney, Kaulfuss, Williams"
+date: "22 September 2019"
 output:
   html_document: default
   pdf_document: default
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=FALSE, echo=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
-library(readr)
-library(dplyr)
-library(stringr)
-library(quantmod)
-library(performanceEstimation)
-library(e1071)
-library(randomForest)
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(readr, dplyr, stringr, quantmod, performanceEstimation, e1071, randomForest, stats, data.table)
 
 set.seed(42)
 
@@ -25,7 +20,7 @@ FLAG_KNITR_EXPORT = FALSE
 ```
 
 
-```{r data loading, echo=FALSE}
+```{r data loading, echo=FALSE, include=FALSE}
 
 if (FLAG_KNITR_EXPORT){
   path_prefix <- "../"
@@ -61,10 +56,27 @@ df_va_exp <- read_delim(paste0(path_prefix,"data/va_expenditures_state_2005-2016
 
 ```
 
-## Development of CapVet App
+## Development of Capstone related Veteraan Suicide Rate Analysis App
 
-```{r sanity check for city mapping}
+In this app, the user should have the ability to understand the distribution of suicides amongst verterans accross the US. Also, the user should be able to evaluate the impact of certain VA expenditure as well as VA hospital quality metrics on veteran suicides in an interactive manner based on statistical models providing a simulation tool to the enduser. 
 
+*Recap from the submission*
+> Focus for this assignment is on Veteran Center Performance Data (i.e. expenditure and quality data) and its effects on suicide rates. This includes the following steps: 
+> * Import, aggregate and clean the data
+> * Summarize and visualize findings
+> Predict outcomes / model relationship amongst VA data and suicide rates
+
+
+For this, the following analysis is laid out for which the results (and resulting models) will be integrated in the shiny web app.
+
+The data foundation for this tool is provided by: 
+* Data on veteran suicides (2005 - 2016)
+* SAIL data (quality metrics of VA hospitals for 2015-2016) [SAIL: Strategy Analytics for Improvement and Learning]
+* VA Expenditure data (2005 - 2016)
+
+First, an evaluation will be undertaken analyzing relation between SAIL data and suicide patterns. Secondly, time related analysis will be undertaken as to which VA expenditure and suicide rates relate per state.
+
+```{r sanity check for city mapping, include=FALSE, eval=FALSE}
 
 df_cities <- as.data.frame(unique(df_sail_data$location))
 names(df_cities) = c("City")
@@ -72,6 +84,8 @@ names(df_cities) = c("City")
 res <- left_join(df_cities, df_lookup_city, by='City')
 
 ```
+
+Preparing data on veteran suicide rates from all over the US between 2005 - 2016. 
 
 ```{r prepare suicide data}
 
@@ -116,6 +130,16 @@ df_suicide_base <- df_suicide_base[df_suicide_base$VetSuicideRatePer100k > 0, ]
 
 ```
 
+### Suicide Rate dataset
+
+```{r, echo=FALSE}
+summary(df_suicide_base)
+```
+
+### SAIL dataset about hispital performance
+
+Preparing SAIL data (aggregating to state level), whereas this application should focus on appointment and treatment related metrics only. More details about the metrics can be found here https://www.va.gov/QUALITYOFCARE/measure-up/SAIL_definitions.asp. 
+
 ```{r prepare SAIL data}
 
 # focus on 2016
@@ -144,13 +168,20 @@ df_sail_agg_normal <- cbind(df_sail_agg %>% dplyr::select(State), df_sail_agg_no
 
 ```
 
+```{r, echo=FALSE}
+summary(df_sail_agg_normal)
+```
+
+
+## Relations of suicide rates and hospital care quality for 2016
+Analyzing effects of hospital quality (e.g. responds rates and appointment acquisitions) with regards to suicide rates within FY2016. It becomes clear that being able to get an appoinment for menthal health approved within the next 30 days of preferred dates, has a significant, decreasing effect on suicide rates. 
+However, due to limited amount of data, these learnings have to be treated with care. 
+
 ```{r joining suicide and SAIL data for 2016}
 
 df_suicide_base_2016 <- df_suicide_base[df_suicide_base$Year == 2016,]
 
 df_base <- full_join(df_suicide_base_2016, df_sail_agg_normal, by="State")
-
-# account for missing values
 
 df_base <- na.omit(df_base)
 
@@ -159,6 +190,10 @@ lm_model <- lm(VetSuicideRatePer100k ~ SMR30+CallCenterAbandonmentRate+GetUrgent
 summary(lm_model)
 
 ```
+
+## Modelling for suicide rates and VA expenditure over time
+
+Preparing VA expenditure data over time. Creating lagged variables for medical expenditure, as it is assumed that most people experience some treatment before committing suicide.
 
 ```{r add information on VA expenditure}
 
@@ -169,11 +204,17 @@ df_base_overtime <- left_join(df_suicide_base, df_va_exp, by=c("State"="State", 
 df_base_overtime <- df_base_overtime %>% rename(GeographicRegion = `Geographic Region, Based on state of death`, VeteranPopulation = `Veteran Population`)
 
 df_base_overtime$GeographicRegion <- as.factor(df_base_overtime$GeographicRegion)
+
 df_base_overtime$State <- as.factor(df_base_overtime$State)
+
+df_base_overtime <- df_base_overtime %>% group_by(State) %>% arrange(Year, .by_group = TRUE)
+
+df_base_overtime <- df_base_overtime %>% 
+    mutate(lag.MedicalAndGOE = dplyr::lag(MedicalAndGOE, n = 1, default = NA, order_by = State))
 
 ```
 
-Evaluate SVM and RandomForest as regressions approximating veteran suicide rates. 
+Evaluate SVM and RandomForest as regressions approximating veteran suicide rates.
 
 ```{r}
 
@@ -196,76 +237,35 @@ summary(model_eval)
 
 ```
 
-
-
 ```{r get top SVM, echo=FALSE}
-getWorkflow("svm.v4", model_eval)
+tp <- topPerformers(model_eval)
+getWorkflow(tp$df_model.VetSuicideRatePer100k$Workflow[1], model_eval)
 ```
 
-Train the SVM model with cost=1, gamma=0.01 as best performing parameters
+Train the SVM model with cost=5, gamma=0.01 as best performing parameters
 
 ```{r}
-svm_model <- svm(VetSuicideRatePer100k ~ ., data=df_model, cost=1, gamma=0.01)
+svm_model <- svm(VetSuicideRatePer100k ~ ., data=df_model, cost=5, gamma=0.01)
 ```
 
-
-Create linear model to approximate the veteran suicide rate per state over time depending on the expenditure of the VA
+Alternatively, create linear model to approximate the veteran suicide rate per state over time depending on the expenditure of the VA. As it can be observed, effects vary greatly throughout the states. As is can be observed, the VA expenditure has little relation to the suicide rates overall; only medical expenditure has a significant effect. As this effect is positive, one possible explenation would be that the causal relationship is: The more vets require assistance, the more appointments are required which leads to a higher expenditure. This meant a more reactive relationship. However, due to the level of granularity and the amount of data, these interpretations are to be taken with great care. 
 
 ```{r linear model}
-
 lm_model <- lm(VetSuicideRatePer100k ~ ., data=df_model)
 summary(lm_model)
 
 ```
 
-```{r model saving}
-
+```{r model saving, include=FALSE}
+# Saving the models into the RDA file. 
 save(lm_model, svm_model, file="models.Rda")
 
-
 ```
 
 
+```{r predicting , include=FALSE, eval=FALSE, echo=FALSE}
 
-
-```{r GEO viz}
-
-if (!require("pacman")) install.packages("pacman")
-pacman::p_load(readxl, dplyr, stringr, data.table, knitr,lubridate, sqldf, magrittr, xlsx, tidyr, janitor, plotly, geojsonio, leaflet, scales, doBy, DMwR, MASS, rpart, tibble)
-
-# create breaks from histogram
-states <- geojsonio::geojson_read("us_states_geojson.geojson",
-  what = "sp")
-
-pal <-  colorNumeric("Greens", df_suicide_base_2016$VetSuicideRatePer100k, na.color = "#808080", alpha = TRUE, reverse = FALSE)
-# pal <- colorQuantile("Greens", domain = df_suicide_base_2016$VetSuicideRatePer100k)
-# 
-# states@data$Beats <- factor(beats@data$Beats, levels=unique(beats@data$Beats))
-# df_out_beats$Beat <- factor(df_out_beats$Beat, levels=unique(beats@data$Beats))
-
-df_states_mapping_json <- rename(df_states_mapping, StateLong = State)
-df_states_mapping_json <- rename(df_states_mapping_json, State = Abbreviation)
-
-# join geojson data lookup values of states
-states@data <- dplyr::left_join(states@data, df_states_mapping_json, by=c("name" = "StateLong"))
-states@data <- dplyr::left_join(states@data, df_suicide_base_2016, by=c("State" = "State"))
-
-leaflet(states) %>%
-  addTiles() %>%
-  addPolygons(stroke = FALSE, smoothFactor = 0.3, fillOpacity = 0.8,
-    fillColor = ~pal((VetSuicideRatePer100k)),
-    label = ~paste0(name, ": ", formatC(VetSuicideRatePer100k, big.mark = ","))) %>% 
-  addLegend("bottomright", pal = pal, values = ~VetSuicideRatePer100k,
-    title = "Vet. Suicide Rates (per 100k)",
-    labFormat = labelFormat(prefix = "# "),
-    opacity = 1
-  )
-
-
-
-```
-
-```{r predicting }
+# function implemented for undergoeing the predictions
 
 predict_vs_rate <- function(target_model, in_state, in_med, in_vet_pop, in_insurance, in_year){
     
@@ -293,18 +293,3 @@ predict_vs_rate <- function(target_model, in_state, in_med, in_vet_pop, in_insur
 predict_vs_rate("lm", "TN", 1231, 123, 1231, 2014)
 
 ```
-
-```{r}
-
-
-choices <- c("All" = "ALL")
-
-for (v in unique(df_model$State)){
-  choices <- c(choices, v)
-}
-
-choices <- choices %>% set_names(choices)
-
-
-```
-

@@ -189,4 +189,18 @@ shinyServer(function(input, output, session) {
     
   })
   
+  
+  output$details <- renderUI({includeHTML(path = file.path("dev.html"))})
+  
+  output$frame <- renderUI({
+    tags$iframe(src="dev.html")
+  })
+  
+  output$detailsPanel <- renderText({
+    
+    url <- paste0("dev.html")
+    return(paste('<iframe style="height:800px; width:100%" src="', url, '"></iframe>', sep = ""))
+  })
+  
+  
 })
